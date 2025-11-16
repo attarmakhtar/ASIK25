@@ -1,0 +1,49 @@
+jenis_alat_tangkap,jenis_ikan,nama_ikan
+Pukat Cicin Grup,Pelagis Kecil,Cakalang
+Pukat Cicin Grup,Pelagis Kecil,Tongkol
+Pukat Cicin Grup,Pelagis Kecil,Kembung
+Pukat Cicin Grup,Pelagis Kecil,Layang
+Pukat Cicin Grup,Pelagis Kecil,Tembang
+Pukat Cicin Grup,Pelagis Kecil,Selar
+Pukat Cicin Grup,Pelagis Kecil,Tenggiri
+Pukat Cicin Grup,Pelagis Kecil,Pisang-pisang
+Payang,Pelagis Kecil,Cakalang
+Payang,Pelagis Kecil,Tongkol
+Payang,Pelagis Kecil,Kembung
+Payang,Pelagis Kecil,Layang
+Payang,Pelagis Kecil,Tembang
+Payang,Pelagis Kecil,Selar
+Payang,Pelagis Kecil,Tenggiri
+Payang,Pelagis Kecil,Pisang-pisang
+Jaring Insang Hanyut (Drift Gillnet),Pelagis Besar,Layaran
+Jaring Insang Hanyut (Drift Gillnet),Pelagis Besar,Tuna Sirip Kuning
+Jaring Insang Hanyut (Drift Gillnet),Pelagis Besar,Tuna Mata Besar
+Jaring Insang Hanyut (Drift Gillnet),Pelagis Besar,Tenggiri
+Pancing Layang-Layang (Kite Line Fishing),Pelagis Besar,Layaran
+Pancing Layang-Layang (Kite Line Fishing),Pelagis Besar,Tuna Sirip Kuning
+Pancing Layang-Layang (Kite Line Fishing),Pelagis Besar,Tuna Mata Besar
+Pancing Layang-Layang (Kite Line Fishing),Pelagis Besar,Tenggiri
+Rawai Tuna (Tuna Longline),Pelagis Besar,Layaran
+Rawai Tuna (Tuna Longline),Pelagis Besar,Tuna Sirip Kuning
+Rawai Tuna (Tuna Longline),Pelagis Besar,Tuna Mata Besar
+Rawai Tuna (Tuna Longline),Pelagis Besar,Tenggiri
+Jaring Insang Tetap (Set Gillnet),Demersal / Karang (Reef-Associated),Kerapu
+Jaring Insang Tetap (Set Gillnet),Demersal / Karang (Reef-Associated),Kakap
+Jaring Insang Tetap (Set Gillnet),Demersal / Karang (Reef-Associated),Kakap Batu
+Jaring Insang Tetap (Set Gillnet),Demersal / Karang (Reef-Associated),Kakap Jenaha
+Jaring Insang Tetap (Set Gillnet),Demersal / Karang (Reef-Associated),Kakap Merah
+Pancing Ulur (Handline),Demersal / Karang (Reef-Associated),Kerapu
+Pancing Ulur (Handline),Demersal / Karang (Reef-Associated),Kakap
+Pancing Ulur (Handline),Demersal / Karang (Reef-Associated),Kakap Batu
+Pancing Ulur (Handline),Demersal / Karang (Reef-Associated),Kakap Jenaha
+Pancing Ulur (Handline),Demersal / Karang (Reef-Associated),Kakap Merah
+Pancing Ulur (Handline),Demersal / Karang (Reef-Associated),Manyung
+Pancing Ulur (Handline),Demersal / Karang (Reef-Associated),Ayam ayam
+Jaring Insang Kombinasi (Trammel Net),Demersal (Benthopelagis),Kurisi
+Jaring Insang Kombinasi (Trammel Net),Demersal (Benthopelagis),Kuro/Senangin/laosan
+Jaring Insang Kombinasi (Trammel Net),Demersal (Benthopelagis),Laosan
+Jaring Insang Kombinasi (Trammel Net),Demersal (Benthopelagis),Kuniran/biji nangka
+Rawai Dasar (Bottom Longline),Demersal,Kerapu
+Rawai Dasar (Bottom Longline),Demersal,Kakap Merah
+Rawai Dasar (Bottom Longline),Demersal,Manyung
+Rawai Dasar (Bottom Longline),Demersal,Ayam ayam

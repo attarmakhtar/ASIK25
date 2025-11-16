@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html class="light" lang="id">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Tentang SmartStock</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary": "#0077b8",
+              "background-light": "#f5f7f8",
+              "background-dark": "#0f1c23",
+            },
+            fontFamily: {
+              "display": ["Inter", "sans-serif"]
+            },
+            borderRadius: {
+              "DEFAULT": "0.25rem",
+              "lg": "0.5rem",
+              "xl": "0.75rem",
+              "full": "9999px"
+            },
+          },
+        },
+      }
+</script>
+<style>
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+</style>
+<script>
+function toggleDarkMode() {
+    document.documentElement.classList.toggle('dark');
+}
+</script>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark font-display">
+<div class="relative flex min-h-screen w-full flex-col group/design-root">
+<div class="flex flex-1">
+
+<!-- SIDEBAR -->
+<aside class="flex h-screen min-h-[700px] w-64 flex-col justify-between border-r border-gray-200 bg-white p-4 dark:border-gray-800 dark:bg-slate-900 fixed">
+<div class="flex flex-col gap-4">
+<div class="flex items-center gap-3 px-3 py-2">
+<div class="size-8 text-primary">
+<svg fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M24 4H42V17.3333V30.6667H24V44H6V30.6667V17.3333H24V4Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg>
+</div>
+<h1 class="text-lg font-bold leading-normal text-[#101618] dark:text-gray-100">SmartStock</h1>
+</div>
+
+<nav class="mt-4 flex flex-col gap-2">
+<a class="flex items-center gap-3 rounded-lg px-3 py-2 text-gray-600 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800" href="/grafik">
+<span class="material-symbols-outlined">home</span>
+<p class="text-sm font-medium leading-normal">Beranda</p>
+</a>
+
+<a class="flex items-center gap-3 rounded-lg px-3 py-2 text-gray-600 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800" href="/prediksi">
+<span class="material-symbols-outlined">bar_chart</span>
+<p class="text-sm font-medium leading-normal">Visualisasi Data</p>
+</a>
+
+<a class="flex items-center gap-3 rounded-lg px-3 py-2 text-gray-600 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800" href="/manajemen_kapal">
+<span class="material-symbols-outlined">trending_up</span>
+<p class="text-sm font-medium leading-normal">Prediksi</p>
+</a>
+
+<a class="flex items-center gap-3 rounded-lg px-3 py-2 text-gray-600 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800" href="/about">
+<span class="material-symbols-outlined">database</span>
+<p class="text-sm font-medium leading-normal">Catatan</p>
+</a>
+
+<a class="flex items-center gap-3 rounded-lg bg-primary/20 px-3 py-2 text-primary dark:bg-primary/30" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1">info</span>
+<p class="text-sm font-medium leading-normal"></p>
+</a>
+</nav>
+</div>
+</aside>
+
+<!-- CONTENT -->
+<div class="ml-64 flex flex-1 flex-col">
+
+<header class="sticky top-0 z-10 flex h-16 items-center justify-between whitespace-nowrap border-b border-solid border-gray-200 bg-background-light/80 px-8 backdrop-blur-sm dark:border-gray-800 dark:bg-background-dark/80">
+<h2 class="text-lg font-semibold text-gray-800 dark:text-gray-200"></h2>
+
+<div class="flex items-center gap-4">
+<button class="group rounded-full p-2 transition-colors hover:bg-gray-200 dark:hover:bg-gray-700" onclick="toggleDarkMode()">
+<span class="material-symbols-outlined text-gray-600 dark:text-gray-300 dark:group-hover:text-white">dark_mode</span>
+</button>
+
+<div class="aspect-square size-10 rounded-full bg-cover bg-center bg-no-repeat" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuA_TmEylssVn74iIIOpRBqak_vGWWQUIyqdrqcJulwDTo5KHdx3uqF514SbVYjbEmoMY58hzyFHV7i_DcoDkPvCxk9553AlhSLxPmQcDc5d9B2pBHb2XmxgJnWnHvJOWa9aG4-5CjfYGuNn6xiBgXsU6VhqEqzmG6fxn__n2JRwhy5MiD9z9Cz9iM7xRW7W9Z_EqzIIQ2jwPxW3VlxTmImW0-oRsE4My8JrbkmQyAJwuaSwZ0LxMOr2l7BfwoHmI9-2vu85ZqwKz_w");'></div>
+</div>
+</header>
+
+<main class="flex-1 p-8">
+<div class="mx-auto max-w-4xl">
+
+<div class="mb-8 flex flex-col gap-4">
+<h1 class="text-4xl font-black leading-tight tracking-[-0.033em] text-[#101618] dark:text-gray-50">Tentang SmartStock</h1>
+<p class="text-lg font-normal leading-normal text-gray-500 dark:text-gray-400">
+Mengintegrasikan data dan teknologi untuk manajemen perikanan Kabupaten Lebak yang berkelanjutan.
+</p>
+</div>
+
+<!-- IMAGE YANG SUDAH DIGANTI -->
+<div class="mb-8 h-96 w-full rounded-xl bg-cover bg-center bg-no-repeat"
+     data-alt="Foto Kita"
+     style='background-image: url("/static/img/kita.png");'>
+</div>
+
+<div class="rounded-xl border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-800 dark:bg-slate-900">
+<p class="text-base font-normal leading-relaxed text-gray-700 dark:text-gray-300">
+Dikembangkan oleh mahasiswa Sistem Informasi Kelautan dari Kampus UPI Serang sebagai bagian dari inisiatif untuk mengintegrasikan data dan teknologi untuk manajemen perikanan yang berkelanjutan. Misi kami adalah untuk menyediakan wawasan berbasis data yang dapat diakses untuk mempromosikan kesehatan dan kelangsungan ekosistem laut jangka panjang.
+</p>
+
+<hr class="my-6 border-gray-200 dark:border-gray-700"/>
+
+<div class="flex flex-wrap items-center justify-between gap-6">
+
+<div class="flex flex-col gap-4">
+<h3 class="text-lg font-semibold text-gray-800 dark:text-gray-200">Hubungi Kami</h3>
+
+<div class="flex flex-col gap-3">
+<a class="flex items-center gap-3 text-gray-600 transition-colors hover:text-primary dark:text-gray-400 dark:hover:text-primary-light" href="mailto:contact@SmartStock.com">
+<span class="material-symbols-outlined text-xl">email</span>
+<span class="text-sm">contact@SmartStock.com</span>
+</a>
+
+<a class="flex items-center gap-3 text-gray-600 transition-colors hover:text-primary dark:text-gray-400 dark:hover:text-primary-light" href="https://instagram.com/himataska" target="_blank">
+<svg aria-hidden="true" class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
+<path clip-rule="evenodd" d="M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 012.792 2.792c.247.636.416 1.363.465 2.427.048 1.024.06 1.378.06 3.808s-.012 2.784-.60 3.808a6.72 6.72 0 01-.465 2.427 4.902 4.902 0 01-2.792 2.792 6.72 6.72 0 01-2.427.465c-1.024.048-1.378.06-3.808.06s-2.784-.012-3.808-.06a6.72 6.72 0 01-2.427-.465 4.902 4.902 0 01-2.792-2.792 6.72 6.72 0 01-.465-2.427c-.048-1.024-.060-1.378-.060-3.808s.012-2.784.060-3.808a6.72 6.72 0 01.465-2.427 4.902 4.902 0 012.792-2.792c.636-.247 1.363-.416 2.427-.465C9.53 2.013 9.884 2 12.315 2zM12 7a5 5 0 100 10 5 5 0 000-10zm0 8a3 3 0 110-6 3 3 0 010 6zm5.75-9.25a1.25 1.25 0 100-2.5 1.25 1.25 0 000 2.5z" fill-rule="evenodd"></path>
+</svg>
+<span class="text-sm">HIMATASKA</span>
+</a>
+</div>
+</div>
+
+<div class="flex items-center gap-4">
+<img alt="Logo UPI Kampus Serang" class="h-16 w-auto" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC4D9v82tUPXTO4ph8xKQpstQNwylvwlJUgjU9Btjn5alzH_eE1mY30F5On-_RWhyGmqLKagSLOxGanapN8Bk5ePkFeYSEqt31rFSn8go39SXvCyT8-I4Ihay1xyFIEU_khE2gpZeNGN5euUEOAJtaH-nBZExF3MqaxV_Of3d496kzk4XkJYVJhfaY8r1rtl2NNVTNPPUEMREMF2R8lQzbTdN3oQktlUEiOIEG5KWl7UMU7U9vg0eWsehG5ASHmjfg36PoaxZu5j7Y"/>
+</div>
+
+</div>
+</div>
+
+<footer class="mt-12 py-4 text-center text-sm text-gray-500 dark:text-gray-400">
+<p>© 2024 SmartStock. Hak Cipta Dilindungi.</p>
+<p>Dikembangkan dengan semangat oleh HIMATASKA, Kampus UPI Serang.</p>
+</footer>
+
+</div>
+</main>
+
+</div>
+</div>
+</div>
+</body>
+</html>

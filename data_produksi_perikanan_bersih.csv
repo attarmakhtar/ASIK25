@@ -1,0 +1,3241 @@
+jenis_ikan,nama_ikan,tahun,bulan,total_kg,tanggal
+Pelagis Besar,Alu Alu/baracuda,2019,1,6125,2019-01-01
+Pelagis Besar,layaran,2019,1,805,2019-01-01
+Pelagis Kecil,Layur,2019,1,26635,2019-01-01
+Pelagis Besar,Lemadang,2019,1,12250,2019-01-01
+Demersal,Manyung,2019,1,924,2019-01-01
+Pelagis Besar,Marlin,2019,1,3066,2019-01-01
+Demersal,Pari,2019,1,980,2019-01-01
+Pelagis Kecil,Peperek,2019,1,11445,2019-01-01
+Pelagis Kecil,Selar,2019,1,1820,2019-01-01
+Demersal,Tambakan,2019,1,875,2019-01-01
+Pelagis Kecil,Tembang,2019,1,1225,2019-01-01
+Pelagis Besar,Tenggiri,2019,1,4900,2019-01-01
+Pelagis Kecil,Tetengkek,2019,1,420,2019-01-01
+Pelagis Besar,Tongkol,2019,1,50680,2019-01-01
+Pelagis Besar,Tuna Sirip Kuning,2019,1,70210,2019-01-01
+Pelagis Besar,Tuna Mata Besar,2019,1,7000,2019-01-01
+Pelagis Kecil,Teri,2019,1,0,2019-01-01
+jumlah,,2019,1,421799,2019-01-01
+Pelagis Kecil,Layang,2019,1,20650,2019-01-01
+Pelagis Kecil,Laosan,2019,1,12600,2019-01-01
+Pelagis Besar,Swanggi,2019,1,210,2019-01-01
+Demersal,Kuniran/biji nangka,2019,1,1750,2019-01-01
+Demersal,Kurisi,2019,1,1855,2019-01-01
+Karang (Reef-Associated),Ayam ayam,2019,1,525,2019-01-01
+Pelagis Besar,Bawal laut,2019,1,21525,2019-01-01
+Pelagis Kecil,Bentong,2019,1,1820,2019-01-01
+Pelagis Besar,Cakalang,2019,1,102375,2019-01-01
+Demersal,Cucut,2019,1,1225,2019-01-01
+Demersal,Golok golok,2019,1,658,2019-01-01
+Demersal,Gulamah/Tigawaja/Samgeh,2019,1,6195,2019-01-01
+Pelagis Besar,ikan pedang,2019,1,1575,2019-01-01
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,1,45465,2019-01-01
+Karang (Reef-Associated),kuwe,2019,1,6615,2019-01-01
+Pelagis Kecil,Japuh,2019,1,1050,2019-01-01
+Karang (Reef-Associated),Jenaha,2019,1,630,2019-01-01
+Karang (Reef-Associated),Kakap Merah,2019,1,21070,2019-01-01
+Pelagis Kecil,Kapas kapas,2019,1,14105,2019-01-01
+Pelagis Kecil,Kembung,2019,1,17745,2019-01-01
+Karang (Reef-Associated),Kerapu,2019,1,560,2019-01-01
+Demersal,Ikan sebelah,2019,1,385,2019-01-01
+Pelagis Kecil,Peperek,2019,2,3045,2019-01-02
+Demersal,Pari,2019,2,1120,2019-01-02
+Pelagis Besar,Marlin,2019,2,735,2019-01-02
+Pelagis Besar,layaran,2019,2,4200,2019-01-02
+Pelagis Besar,Lemadang,2019,2,12460,2019-01-02
+Pelagis Kecil,Layur,2019,2,26740,2019-01-02
+Pelagis Besar,Swanggi,2019,2,420,2019-01-02
+Demersal,Manyung,2019,2,5775,2019-01-02
+Pelagis Kecil,Selar,2019,2,4900,2019-01-02
+jumlah,,2019,2,4765215,2019-01-02
+Pelagis Kecil,Tembang,2019,2,1050,2019-01-02
+Pelagis Besar,Tenggiri,2019,2,58275,2019-01-02
+Pelagis Kecil,Tetengkek,2019,2,1750,2019-01-02
+Pelagis Besar,Tongkol,2019,2,45920,2019-01-02
+Pelagis Besar,Tuna Sirip Kuning,2019,2,89250,2019-01-02
+Pelagis Besar,Tuna Mata Besar,2019,2,17682,2019-01-02
+Pelagis Kecil,Teri,2019,2,0,2019-01-02
+Pelagis Kecil,Layang,2019,2,44275,2019-01-02
+Demersal,Tambakan,2019,2,700,2019-01-02
+Pelagis Kecil,Laosan,2019,2,9800,2019-01-02
+Pelagis Besar,ikan pedang,2019,2,700,2019-01-02
+Demersal,Kuniran/biji nangka,2019,2,2345,2019-01-02
+Demersal,Kurisi,2019,2,1890,2019-01-02
+Karang (Reef-Associated),Ayam ayam,2019,2,700,2019-01-02
+Pelagis Besar,Bawal laut,2019,2,4480,2019-01-02
+Pelagis Kecil,Bentong,2019,2,3710,2019-01-02
+Pelagis Besar,Cakalang,2019,2,1332415,2019-01-02
+Demersal,Cucut,2019,2,525,2019-01-02
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,2,15540,2019-01-02
+Demersal,Golok golok,2019,2,931,2019-01-02
+Demersal,Gulamah/Tigawaja/Samgeh,2019,2,4095,2019-01-02
+Pelagis Besar,Alu Alu/baracuda,2019,2,700,2019-01-02
+Demersal,Ikan sebelah,2019,2,315,2019-01-02
+Pelagis Kecil,Japuh,2019,2,1400,2019-01-02
+Karang (Reef-Associated),Jenaha,2019,2,2345,2019-01-02
+Karang (Reef-Associated),Kakap Merah,2019,2,1960,2019-01-02
+Pelagis Kecil,Kapas kapas,2019,2,10220,2019-01-02
+Pelagis Kecil,Kembung,2019,2,5005,2019-01-02
+Karang (Reef-Associated),Kerapu,2019,2,1190,2019-01-02
+Karang (Reef-Associated),kuwe,2019,2,11690,2019-01-02
+Pelagis Besar,layaran,2019,3,1470,2019-01-03
+Pelagis Kecil,Layur,2019,3,7385,2019-01-03
+Pelagis Besar,Lemadang,2019,3,30065,2019-01-03
+Demersal,Manyung,2019,3,7175,2019-01-03
+Pelagis Besar,Marlin,2019,3,1505,2019-01-03
+Demersal,Pari,2019,3,1680,2019-01-03
+Pelagis Kecil,Peperek,2019,3,805,2019-01-03
+Pelagis Kecil,Selar,2019,3,1505,2019-01-03
+Pelagis Kecil,Tetengkek,2019,3,2205,2019-01-03
+Pelagis Kecil,Tembang,2019,3,1400,2019-01-03
+Pelagis Besar,Tenggiri,2019,3,3541125,2019-01-03
+Pelagis Kecil,Layang,2019,3,49875,2019-01-03
+Pelagis Besar,Tongkol,2019,3,30821,2019-01-03
+Pelagis Besar,Tuna Sirip Kuning,2019,3,122500,2019-01-03
+Pelagis Besar,Tuna Mata Besar,2019,3,10710,2019-01-03
+Pelagis Kecil,Teri,2019,3,0,2019-01-03
+jumlah,,2019,3,502656875,2019-01-03
+Demersal,Tambakan,2019,3,875,2019-01-03
+Pelagis Kecil,Laosan,2019,3,3360,2019-01-03
+Pelagis Besar,Swanggi,2019,3,420,2019-01-03
+Demersal,Kuniran/biji nangka,2019,3,630,2019-01-03
+Karang (Reef-Associated),Ayam ayam,2019,3,805,2019-01-03
+Pelagis Besar,Bawal laut,2019,3,10605,2019-01-03
+Pelagis Kecil,Bentong,2019,3,1225,2019-01-03
+Pelagis Besar,Cakalang,2019,3,179200,2019-01-03
+Demersal,Cucut,2019,3,700,2019-01-03
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,3,4620,2019-01-03
+Demersal,Golok golok,2019,3,511,2019-01-03
+Demersal,Gulamah/Tigawaja/Samgeh,2019,3,2625,2019-01-03
+Pelagis Besar,ikan pedang,2019,3,65625,2019-01-03
+Pelagis Besar,Alu Alu/baracuda,2019,3,630,2019-01-03
+Demersal,Ikan sebelah,2019,3,735,2019-01-03
+Pelagis Kecil,Japuh,2019,3,1505,2019-01-03
+Karang (Reef-Associated),Jenaha,2019,3,1540,2019-01-03
+Karang (Reef-Associated),Kakap Merah,2019,3,4025,2019-01-03
+Pelagis Kecil,Kapas kapas,2019,3,2765,2019-01-03
+Pelagis Kecil,Kembung,2019,3,57575,2019-01-03
+Karang (Reef-Associated),Kerapu,2019,3,595,2019-01-03
+Karang (Reef-Associated),kuwe,2019,3,4550,2019-01-03
+Demersal,Kurisi,2019,3,1680,2019-01-03
+Demersal,Pari,2019,4,1152,2019-01-04
+Pelagis Besar,Marlin,2019,4,19136,2019-01-04
+Pelagis Besar,layaran,2019,4,1888,2019-01-04
+Pelagis Besar,Lemadang,2019,4,30784,2019-01-04
+Pelagis Kecil,Layur,2019,4,6272,2019-01-04
+Pelagis Kecil,Peperek,2019,4,672,2019-01-04
+Demersal,Manyung,2019,4,7072,2019-01-04
+Pelagis Besar,Swanggi,2019,4,768,2019-01-04
+Pelagis Kecil,Tetengkek,2019,4,736,2019-01-04
+Demersal,Tambakan,2019,4,1440,2019-01-04
+Pelagis Kecil,Tembang,2019,4,1392,2019-01-04
+Pelagis Besar,Tenggiri,2019,4,2736,2019-01-04
+Pelagis Besar,Tongkol,2019,4,30240,2019-01-04
+Pelagis Besar,Tuna Sirip Kuning,2019,4,176096,2019-01-04
+Pelagis Besar,Tuna Mata Besar,2019,4,12800,2019-01-04
+Pelagis Kecil,Teri,2019,4,0,2019-01-04
+Pelagis Kecil,Layang,2019,4,48320,2019-01-04
+Pelagis Kecil,Selar,2019,4,1824,2019-01-04
+Pelagis Kecil,Laosan,2019,4,2464,2019-01-04
+jumlah,,2019,4,5837984,2019-01-04
+Demersal,Kuniran/biji nangka,2019,4,1344,2019-01-04
+Pelagis Besar,Alu Alu/baracuda,2019,4,352,2019-01-04
+Karang (Reef-Associated),Ayam ayam,2019,4,800,2019-01-04
+Pelagis Besar,Bawal laut,2019,4,8704,2019-01-04
+Pelagis Kecil,Bentong,2019,4,768,2019-01-04
+Pelagis Besar,Cakalang,2019,4,217280,2019-01-04
+Demersal,Cucut,2019,4,1120,2019-01-04
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,4,48864,2019-01-04
+Demersal,Golok golok,2019,4,10176,2019-01-04
+Demersal,Gulamah/Tigawaja/Samgeh,2019,4,1376,2019-01-04
+Demersal,Kurisi,2019,4,1376,2019-01-04
+Demersal,Ikan sebelah,2019,4,9056,2019-01-04
+Pelagis Kecil,Japuh,2019,4,0,2019-01-04
+Karang (Reef-Associated),Jenaha,2019,4,2144,2019-01-04
+Karang (Reef-Associated),Kakap Merah,2019,4,736,2019-01-04
+Pelagis Kecil,Kapas kapas,2019,4,1664,2019-01-04
+Pelagis Kecil,Kembung,2019,4,55712,2019-01-04
+Karang (Reef-Associated),Kerapu,2019,4,1024,2019-01-04
+Karang (Reef-Associated),kuwe,2019,4,3680,2019-01-04
+Pelagis Besar,ikan pedang,2019,4,480,2019-01-04
+Demersal,Pari,2019,5,2016,2019-01-05
+Pelagis Besar,Marlin,2019,5,6016,2019-01-05
+Demersal,Manyung,2019,5,12032,2019-01-05
+Pelagis Kecil,Layang,2019,5,16192,2019-01-05
+Pelagis Kecil,Layur,2019,5,7840,2019-01-05
+Pelagis Besar,layaran,2019,5,3968,2019-01-05
+Pelagis Kecil,Peperek,2019,5,6016,2019-01-05
+Pelagis Besar,Lemadang,2019,5,185216,2019-01-05
+Pelagis Besar,Swanggi,2019,5,3488,2019-01-05
+Pelagis Besar,Tenggiri,2019,5,42368,2019-01-05
+Demersal,Tambakan,2019,5,640,2019-01-05
+Pelagis Kecil,Tembang,2019,5,17344,2019-01-05
+Pelagis Kecil,Tetengkek,2019,5,1344,2019-01-05
+Pelagis Besar,Tongkol,2019,5,5856,2019-01-05
+Pelagis Besar,Tuna Sirip Kuning,2019,5,126400,2019-01-05
+Pelagis Besar,Tuna Mata Besar,2019,5,12816,2019-01-05
+Pelagis Kecil,Teri,2019,5,0,2019-01-05
+Pelagis Kecil,Laosan,2019,5,1728,2019-01-05
+Pelagis Kecil,Selar,2019,5,4928,2019-01-05
+jumlah,,2019,5,4478464,2019-01-05
+Demersal,Kurisi,2019,5,18496,2019-01-05
+Karang (Reef-Associated),kuwe,2019,5,8384,2019-01-05
+Demersal,Kuniran/biji nangka,2019,5,288,2019-01-05
+Pelagis Besar,Alu Alu/baracuda,2019,5,480,2019-01-05
+Karang (Reef-Associated),Ayam ayam,2019,5,768,2019-01-05
+Pelagis Besar,Bawal laut,2019,5,1344,2019-01-05
+Pelagis Kecil,Bentong,2019,5,1440,2019-01-05
+Demersal,Cucut,2019,5,2240,2019-01-05
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,5,3552,2019-01-05
+Demersal,Golok golok,2019,5,1184,2019-01-05
+Pelagis Besar,Cakalang,2019,5,190976,2019-01-05
+Pelagis Besar,ikan pedang,2019,5,800,2019-01-05
+Demersal,Ikan sebelah,2019,5,576,2019-01-05
+Pelagis Kecil,Japuh,2019,5,1088,2019-01-05
+Karang (Reef-Associated),Jenaha,2019,5,352,2019-01-05
+Karang (Reef-Associated),Kakap Merah,2019,5,3136,2019-01-05
+Pelagis Kecil,Kapas kapas,2019,5,4224,2019-01-05
+Pelagis Kecil,Kembung,2019,5,1504,2019-01-05
+Demersal,Gulamah/Tigawaja/Samgeh,2019,5,1088,2019-01-05
+Karang (Reef-Associated),Kerapu,2019,5,768,2019-01-05
+Pelagis Kecil,Peperek,2019,6,384,2019-01-06
+Demersal,Pari,2019,6,992,2019-01-06
+Pelagis Besar,Marlin,2019,6,416,2019-01-06
+Pelagis Besar,layaran,2019,6,8704,2019-01-06
+Pelagis Besar,Lemadang,2019,6,185216,2019-01-06
+Pelagis Kecil,Layur,2019,6,49024,2019-01-06
+Pelagis Besar,Swanggi,2019,6,672,2019-01-06
+Demersal,Manyung,2019,6,8064,2019-01-06
+Pelagis Kecil,Selar,2019,6,10304,2019-01-06
+jumlah,,2019,6,3521984,2019-01-06
+Pelagis Kecil,Tembang,2019,6,1120,2019-01-06
+Pelagis Besar,Tenggiri,2019,6,3392,2019-01-06
+Pelagis Kecil,Tetengkek,2019,6,704,2019-01-06
+Pelagis Besar,Tongkol,2019,6,28928,2019-01-06
+Pelagis Besar,Tuna Sirip Kuning,2019,6,96320,2019-01-06
+Pelagis Besar,Tuna Mata Besar,2019,6,6560,2019-01-06
+Pelagis Kecil,Teri,2019,6,0,2019-01-06
+Pelagis Kecil,Layang,2019,6,12352,2019-01-06
+Demersal,Tambakan,2019,6,560,2019-01-06
+Pelagis Kecil,Laosan,2019,6,448,2019-01-06
+Pelagis Besar,ikan pedang,2019,6,1440,2019-01-06
+Demersal,Kuniran/biji nangka,2019,6,416,2019-01-06
+Karang (Reef-Associated),Ayam ayam,2019,6,704,2019-01-06
+Pelagis Besar,Bawal laut,2019,6,1984,2019-01-06
+Pelagis Kecil,Bentong,2019,6,1152,2019-01-06
+Pelagis Besar,Cakalang,2019,6,133536,2019-01-06
+Demersal,Cucut,2019,6,384,2019-01-06
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,6,2144,2019-01-06
+Demersal,Golok golok,2019,6,1088,2019-01-06
+Demersal,Gulamah/Tigawaja/Samgeh,2019,6,1728,2019-01-06
+Pelagis Besar,Alu Alu/baracuda,2019,6,320,2019-01-06
+Demersal,Ikan sebelah,2019,6,256,2019-01-06
+Pelagis Kecil,Japuh,2019,6,800,2019-01-06
+Karang (Reef-Associated),Jenaha,2019,6,288,2019-01-06
+Karang (Reef-Associated),Kakap Merah,2019,6,1600,2019-01-06
+Pelagis Kecil,Kapas kapas,2019,6,1472,2019-01-06
+Pelagis Kecil,Kembung,2019,6,10304,2019-01-06
+Karang (Reef-Associated),Kerapu,2019,6,352,2019-01-06
+Karang (Reef-Associated),kuwe,2019,6,6512,2019-01-06
+Demersal,Kurisi,2019,6,9216,2019-01-06
+Pelagis Kecil,Peperek,2019,7,2400,2019-01-07
+Demersal,Pari,2019,7,2070,2019-01-07
+Pelagis Kecil,Layur,2019,7,31560,2019-01-07
+Demersal,Manyung,2019,7,1290,2019-01-07
+Pelagis Besar,Lemadang,2019,7,18210,2019-01-07
+Pelagis Besar,Swanggi,2019,7,1038,2019-01-07
+Pelagis Besar,Marlin,2019,7,19200,2019-01-07
+Pelagis Kecil,Selar,2019,7,1590,2019-01-07
+Pelagis Besar,Tongkol,2019,7,112500,2019-01-07
+Pelagis Kecil,Tembang,2019,7,1530,2019-01-07
+Pelagis Besar,Tenggiri,2019,7,5940,2019-01-07
+Pelagis Kecil,Tetengkek,2019,7,1650,2019-01-07
+Pelagis Besar,Tuna Sirip Kuning,2019,7,131394,2019-01-07
+Pelagis Besar,Tuna Mata Besar,2019,7,22500,2019-01-07
+Pelagis Kecil,Teri,2019,7,0,2019-01-07
+jumlah,,2019,7,6645175,2019-01-07
+Pelagis Besar,layaran,2019,7,15690,2019-01-07
+Demersal,Tambakan,2019,7,0,2019-01-07
+Pelagis Kecil,Layang,2019,7,32460,2019-01-07
+Pelagis Kecil,Laosan,2019,7,9360,2019-01-07
+Pelagis Besar,Alu Alu/baracuda,2019,7,875,2019-01-07
+Demersal,Kurisi,2019,7,1896,2019-01-07
+Karang (Reef-Associated),Ayam ayam,2019,7,18515,2019-01-07
+Pelagis Besar,Bawal laut,2019,7,1560,2019-01-07
+Pelagis Kecil,Bentong,2019,7,450,2019-01-07
+Pelagis Besar,Cakalang,2019,7,210690,2019-01-07
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,7,4164,2019-01-07
+Demersal,Golok golok,2019,7,1365,2019-01-07
+Demersal,Gulamah/Tigawaja/Samgeh,2019,7,2370,2019-01-07
+Pelagis Besar,ikan pedang,2019,7,3000,2019-01-07
+Demersal,Cucut,2019,7,240,2019-01-07
+Pelagis Kecil,Japuh,2019,7,600,2019-01-07
+Demersal,Ikan sebelah,2019,7,831,2019-01-07
+Karang (Reef-Associated),kuwe,2019,7,4950,2019-01-07
+Karang (Reef-Associated),Kerapu,2019,7,720,2019-01-07
+Pelagis Kecil,Kembung,2019,7,2220,2019-01-07
+Demersal,Kuniran/biji nangka,2019,7,10683,2019-01-07
+Karang (Reef-Associated),Kakap Merah,2019,7,2250,2019-01-07
+Karang (Reef-Associated),Jenaha,2019,7,870,2019-01-07
+Pelagis Kecil,Kapas kapas,2019,7,2550,2019-01-07
+Pelagis Besar,Swanggi,2019,8,858,2019-01-08
+Pelagis Besar,layaran,2019,8,9600,2019-01-08
+Pelagis Kecil,Layur,2019,8,61800,2019-01-08
+Pelagis Besar,Lemadang,2019,8,12900,2019-01-08
+Demersal,Manyung,2019,8,1170,2019-01-08
+Pelagis Besar,Marlin,2019,8,9000,2019-01-08
+Demersal,Pari,2019,8,840,2019-01-08
+Pelagis Kecil,Peperek,2019,8,2010,2019-01-08
+Pelagis Kecil,Selar,2019,8,3450,2019-01-08
+Pelagis Kecil,Layang,2019,8,24960,2019-01-08
+Pelagis Kecil,Tembang,2019,8,360,2019-01-08
+Pelagis Besar,Tenggiri,2019,8,4950,2019-01-08
+Pelagis Kecil,Tetengkek,2019,8,684,2019-01-08
+Pelagis Besar,Tongkol,2019,8,56148,2019-01-08
+Pelagis Besar,Tuna Sirip Kuning,2019,8,111960,2019-01-08
+Pelagis Besar,Tuna Mata Besar,2019,8,9000,2019-01-08
+Pelagis Kecil,Teri,2019,8,0,2019-01-08
+jumlah,,2019,8,547434,2019-01-08
+Demersal,Tambakan,2019,8,0,2019-01-08
+Pelagis Kecil,Laosan,2019,8,6030,2019-01-08
+Pelagis Besar,Alu Alu/baracuda,2019,8,1770,2019-01-08
+Demersal,Kuniran/biji nangka,2019,8,1302,2019-01-08
+Demersal,Kurisi,2019,8,7956,2019-01-08
+Karang (Reef-Associated),Ayam ayam,2019,8,1872,2019-01-08
+Pelagis Besar,Bawal laut,2019,8,870,2019-01-08
+Pelagis Kecil,Bentong,2019,8,600,2019-01-08
+Pelagis Besar,Cakalang,2019,8,183630,2019-01-08
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,8,4350,2019-01-08
+Demersal,Golok golok,2019,8,990,2019-01-08
+Demersal,Gulamah/Tigawaja/Samgeh,2019,8,5685,2019-01-08
+Demersal,Cucut,2019,8,300,2019-01-08
+Demersal,Ikan sebelah,2019,8,720,2019-01-08
+Pelagis Kecil,Japuh,2019,8,600,2019-01-08
+Karang (Reef-Associated),Jenaha,2019,8,600,2019-01-08
+Karang (Reef-Associated),Kakap Merah,2019,8,1128,2019-01-08
+Pelagis Kecil,Kapas kapas,2019,8,6210,2019-01-08
+Pelagis Kecil,Kembung,2019,8,1740,2019-01-08
+Karang (Reef-Associated),Kerapu,2019,8,591,2019-01-08
+Pelagis Besar,ikan pedang,2019,8,3600,2019-01-08
+Karang (Reef-Associated),kuwe,2019,8,7200,2019-01-08
+Pelagis Kecil,Peperek,2019,9,1590,2019-01-09
+Demersal,Pari,2019,9,240,2019-01-09
+Pelagis Besar,Marlin,2019,9,15150,2019-01-09
+Pelagis Besar,layaran,2019,9,21390,2019-01-09
+Pelagis Besar,Lemadang,2019,9,16920,2019-01-09
+Pelagis Kecil,Layur,2019,9,54300,2019-01-09
+Pelagis Besar,Swanggi,2019,9,900,2019-01-09
+Demersal,Manyung,2019,9,810,2019-01-09
+Pelagis Kecil,Selar,2019,9,9840,2019-01-09
+jumlah,,2019,9,635550,2019-01-09
+Pelagis Kecil,Tembang,2019,9,450,2019-01-09
+Pelagis Besar,Tenggiri,2019,9,5430,2019-01-09
+Pelagis Kecil,Tetengkek,2019,9,630,2019-01-09
+Pelagis Besar,Tongkol,2019,9,54240,2019-01-09
+Pelagis Besar,Tuna Sirip Kuning,2019,9,147210,2019-01-09
+Pelagis Besar,Tuna Mata Besar,2019,9,9300,2019-01-09
+Pelagis Kecil,Teri,2019,9,0,2019-01-09
+Pelagis Kecil,Layang,2019,9,22920,2019-01-09
+Demersal,Tambakan,2019,9,300,2019-01-09
+Pelagis Kecil,Laosan,2019,9,10860,2019-01-09
+Pelagis Besar,Alu Alu/baracuda,2019,9,645,2019-01-09
+Demersal,Kuniran/biji nangka,2019,9,525,2019-01-09
+Karang (Reef-Associated),Ayam ayam,2019,9,1770,2019-01-09
+Pelagis Besar,Bawal laut,2019,9,300,2019-01-09
+Pelagis Kecil,Bentong,2019,9,690,2019-01-09
+Pelagis Besar,Cakalang,2019,9,210150,2019-01-09
+Demersal,Cucut,2019,9,300,2019-01-09
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,9,8400,2019-01-09
+Demersal,Golok golok,2019,9,630,2019-01-09
+Demersal,Gulamah/Tigawaja/Samgeh,2019,9,6300,2019-01-09
+Demersal,Kurisi,2019,9,6600,2019-01-09
+Demersal,Ikan sebelah,2019,9,510,2019-01-09
+Pelagis Kecil,Japuh,2019,9,690,2019-01-09
+Karang (Reef-Associated),Jenaha,2019,9,270,2019-01-09
+Karang (Reef-Associated),Kakap Merah,2019,9,960,2019-01-09
+Pelagis Kecil,Kapas kapas,2019,9,11550,2019-01-09
+Pelagis Kecil,Kembung,2019,9,3780,2019-01-09
+Karang (Reef-Associated),Kerapu,2019,9,420,2019-01-09
+Karang (Reef-Associated),kuwe,2019,9,5580,2019-01-09
+Pelagis Besar,ikan pedang,2019,9,3000,2019-01-09
+Demersal,Pari,2019,10,420,2019-01-10
+Pelagis Besar,Marlin,2019,10,12060,2019-01-10
+Pelagis Besar,layaran,2019,10,18450,2019-01-10
+Pelagis Besar,Lemadang,2019,10,10830,2019-01-10
+Pelagis Kecil,Layur,2019,10,63300,2019-01-10
+Pelagis Kecil,Peperek,2019,10,1320,2019-01-10
+Demersal,Manyung,2019,10,540,2019-01-10
+Pelagis Besar,Swanggi,2019,10,1260,2019-01-10
+Pelagis Kecil,Tetengkek,2019,10,990,2019-01-10
+Demersal,Tambakan,2019,10,90,2019-01-10
+Pelagis Kecil,Tembang,2019,10,0,2019-01-10
+Pelagis Besar,Tenggiri,2019,10,6330,2019-01-10
+Pelagis Besar,Tongkol,2019,10,61125,2019-01-10
+Pelagis Besar,Tuna Sirip Kuning,2019,10,165000,2019-01-10
+Pelagis Besar,Tuna Mata Besar,2019,10,15360,2019-01-10
+Pelagis Kecil,Teri,2019,10,0,2019-01-10
+Pelagis Kecil,Layang,2019,10,20550,2019-01-10
+Pelagis Kecil,Selar,2019,10,6300,2019-01-10
+jumlah,,2019,10,686610,2019-01-10
+Pelagis Kecil,Laosan,2019,10,8280,2019-01-10
+Demersal,Kuniran/biji nangka,2019,10,660,2019-01-10
+Demersal,Kurisi,2019,10,19500,2019-01-10
+Pelagis Besar,Alu Alu/baracuda,2019,10,900,2019-01-10
+Karang (Reef-Associated),Ayam ayam,2019,10,1290,2019-01-10
+Pelagis Besar,Bawal laut,2019,10,510,2019-01-10
+Pelagis Kecil,Bentong,2019,10,1050,2019-01-10
+Demersal,Cucut,2019,10,360,2019-01-10
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,10,5490,2019-01-10
+Demersal,Golok golok,2019,10,480,2019-01-10
+Demersal,Gulamah/Tigawaja/Samgeh,2019,10,4500,2019-01-10
+Pelagis Besar,Cakalang,2019,10,230040,2019-01-10
+Demersal,Ikan sebelah,2019,10,570,2019-01-10
+Pelagis Besar,ikan pedang,2019,10,0,2019-01-10
+Karang (Reef-Associated),Kerapu,2019,10,660,2019-01-10
+Pelagis Kecil,Kembung,2019,10,3150,2019-01-10
+Pelagis Kecil,Kapas kapas,2019,10,14430,2019-01-10
+Karang (Reef-Associated),kuwe,2019,10,9690,2019-01-10
+Karang (Reef-Associated),Jenaha,2019,10,330,2019-01-10
+Pelagis Kecil,Japuh,2019,10,0,2019-01-10
+Karang (Reef-Associated),Kakap Merah,2019,10,795,2019-01-10
+Pelagis Besar,Swanggi,2019,11,1110,2019-01-11
+Pelagis Besar,layaran,2019,11,27060,2019-01-11
+Pelagis Kecil,Layur,2019,11,58440,2019-01-11
+Pelagis Besar,Lemadang,2019,11,6900,2019-01-11
+Demersal,Manyung,2019,11,0,2019-01-11
+Pelagis Besar,Marlin,2019,11,23400,2019-01-11
+Demersal,Pari,2019,11,300,2019-01-11
+Pelagis Kecil,Peperek,2019,11,990,2019-01-11
+Pelagis Kecil,Selar,2019,11,3960,2019-01-11
+Pelagis Kecil,Layang,2019,11,17400,2019-01-11
+Pelagis Kecil,Tembang,2019,11,0,2019-01-11
+Pelagis Besar,Tenggiri,2019,11,4530,2019-01-11
+Pelagis Kecil,Tetengkek,2019,11,0,2019-01-11
+Pelagis Besar,Tongkol,2019,11,36360,2019-01-11
+Pelagis Besar,Tuna Sirip Kuning,2019,11,151200,2019-01-11
+Pelagis Besar,Tuna Mata Besar,2019,11,18000,2019-01-11
+Pelagis Kecil,Teri,2019,11,0,2019-01-11
+jumlah,,2019,11,614010,2019-01-11
+Demersal,Tambakan,2019,11,90,2019-01-11
+Pelagis Kecil,Laosan,2019,11,6750,2019-01-11
+Pelagis Besar,ikan pedang,2019,11,0,2019-01-11
+Demersal,Kuniran/biji nangka,2019,11,450,2019-01-11
+Pelagis Besar,Alu Alu/baracuda,2019,11,1050,2019-01-11
+Karang (Reef-Associated),Ayam ayam,2019,11,1200,2019-01-11
+Pelagis Besar,Bawal laut,2019,11,0,2019-01-11
+Pelagis Kecil,Bentong,2019,11,9000,2019-01-11
+Pelagis Besar,Cakalang,2019,11,184050,2019-01-11
+Demersal,Cucut,2019,11,600,2019-01-11
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,11,6900,2019-01-11
+Demersal,Golok golok,2019,11,0,2019-01-11
+Demersal,Gulamah/Tigawaja/Samgeh,2019,11,2880,2019-01-11
+Demersal,Kurisi,2019,11,25800,2019-01-11
+Demersal,Ikan sebelah,2019,11,0,2019-01-11
+Pelagis Kecil,Japuh,2019,11,0,2019-01-11
+Karang (Reef-Associated),Jenaha,2019,11,0,2019-01-11
+Karang (Reef-Associated),Kakap Merah,2019,11,1200,2019-01-11
+Pelagis Kecil,Kapas kapas,2019,11,13650,2019-01-11
+Pelagis Kecil,Kembung,2019,11,3420,2019-01-11
+Karang (Reef-Associated),Kerapu,2019,11,420,2019-01-11
+Karang (Reef-Associated),kuwe,2019,11,6900,2019-01-11
+Pelagis Besar,layaran,2019,12,27775,2019-01-12
+Pelagis Kecil,Layur,2019,12,44550,2019-01-12
+Pelagis Besar,Lemadang,2019,12,39875,2019-01-12
+Pelagis Besar,Marlin,2019,12,22825,2019-01-12
+Demersal,Pari,2019,12,550,2019-01-12
+Pelagis Kecil,Peperek,2019,12,550,2019-01-12
+Pelagis Besar,Swanggi,2019,12,9075,2019-01-12
+Pelagis Kecil,Selar,2019,12,4400,2019-01-12
+Pelagis Kecil,Tetengkek,2019,12,1045,2019-01-12
+Pelagis Kecil,Tembang,2019,12,0,2019-01-12
+Pelagis Besar,Tenggiri,2019,12,64625,2019-01-12
+Pelagis Kecil,Layang,2019,12,12650,2019-01-12
+Pelagis Besar,Tongkol,2019,12,401225,2019-01-12
+Pelagis Besar,Tuna Sirip Kuning,2019,12,123750,2019-01-12
+Pelagis Besar,Tuna Mata Besar,2019,12,515625,2019-01-12
+Pelagis Kecil,Teri,2019,12,0,2019-01-12
+jumlah,,2019,12,572055,2019-01-12
+Demersal,Tambakan,2019,12,0,2019-01-12
+Pelagis Kecil,Laosan,2019,12,8910,2019-01-12
+Demersal,Manyung,2019,12,990,2019-01-12
+Demersal,Kuniran/biji nangka,2019,12,825,2019-01-12
+Demersal,Kurisi,2019,12,6050,2019-01-12
+Karang (Reef-Associated),Ayam ayam,2019,12,0,2019-01-12
+Pelagis Besar,Bawal laut,2019,12,1265,2019-01-12
+Pelagis Kecil,Bentong,2019,12,0,2019-01-12
+Pelagis Besar,Cakalang,2019,12,1674475,2019-01-12
+Demersal,Cucut,2019,12,0,2019-01-12
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2019,12,4565,2019-01-12
+Demersal,Golok golok,2019,12,14025,2019-01-12
+Demersal,Gulamah/Tigawaja/Samgeh,2019,12,10120,2019-01-12
+Pelagis Besar,Alu Alu/baracuda,2019,12,0,2019-01-12
+Demersal,Ikan sebelah,2019,12,550,2019-01-12
+Pelagis Besar,ikan pedang,2019,12,3025,2019-01-12
+Karang (Reef-Associated),Kerapu,2019,12,495,2019-01-12
+Pelagis Kecil,Kembung,2019,12,4125,2019-01-12
+Pelagis Kecil,Kapas kapas,2019,12,14025,2019-01-12
+Karang (Reef-Associated),kuwe,2019,12,59125,2019-01-12
+Karang (Reef-Associated),Kakap Merah,2019,12,34375,2019-01-12
+Karang (Reef-Associated),Jenaha,2019,12,495,2019-01-12
+Pelagis Kecil,Japuh,2019,12,0,2019-01-12
+Pelagis Kecil,Peperek,2020,1,1825,2020-01-01
+Pelagis Kecil,Layur,2020,1,19928,2020-01-01
+Pelagis Besar,Lemadang,2020,1,17433,2020-01-01
+Demersal,Manyung,2020,1,856,2020-01-01
+Pelagis Besar,Marlin,2020,1,7913,2020-01-01
+Demersal,Pari,2020,1,674,2020-01-01
+Pelagis Besar,layaran,2020,1,6567,2020-01-01
+Pelagis Besar,Swanggi,2020,1,517,2020-01-01
+Pelagis Kecil,Tetengkek,2020,1,741,2020-01-01
+Demersal,Tambakan,2020,1,615,2020-01-01
+Pelagis Kecil,Tembang,2020,1,918,2020-01-01
+Pelagis Besar,Tenggiri,2020,1,8023,2020-01-01
+Pelagis Besar,Tongkol,2020,1,38631,2020-01-01
+Pelagis Besar,Tuna Sirip Kuning,2020,1,142385,2020-01-01
+Pelagis Besar,Tuna Mata Besar,2020,1,6504,2020-01-01
+Pelagis Kecil,Teri,2020,1,0,2020-01-01
+Pelagis Kecil,Layang,2020,1,27586,2020-01-01
+Pelagis Kecil,Selar,2020,1,2428,2020-01-01
+Pelagis Kecil,Laosan,2020,1,3155,2020-01-01
+jumlah,,2020,1,418317,2020-01-01
+Demersal,Kuniran/biji nangka,2020,1,2598,2020-01-01
+Pelagis Besar,Alu Alu/baracuda,2020,1,300,2020-01-01
+Karang (Reef-Associated),Ayam ayam,2020,1,360,2020-01-01
+Pelagis Besar,Bawal laut,2020,1,1071,2020-01-01
+Pelagis Kecil,Bentong,2020,1,1488,2020-01-01
+Pelagis Besar,Cakalang,2020,1,96022,2020-01-01
+Demersal,Cucut,2020,1,626,2020-01-01
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,1,3345,2020-01-01
+Demersal,Golok golok,2020,1,846,2020-01-01
+Demersal,Gulamah/Tigawaja/Samgeh,2020,1,3791,2020-01-01
+Demersal,Kurisi,2020,1,1659,2020-01-01
+Demersal,Ikan sebelah,2020,1,700,2020-01-01
+Pelagis Kecil,Japuh,2020,1,704,2020-01-01
+Karang (Reef-Associated),Jenaha,2020,1,239,2020-01-01
+Karang (Reef-Associated),Kakap Merah,2020,1,1507,2020-01-01
+Pelagis Kecil,Kapas kapas,2020,1,7150,2020-01-01
+Pelagis Kecil,Kembung,2020,1,1925,2020-01-01
+Karang (Reef-Associated),Kerapu,2020,1,408,2020-01-01
+Karang (Reef-Associated),kuwe,2020,1,6354,2020-01-01
+Pelagis Besar,ikan pedang,2020,1,525,2020-01-01
+Demersal,Pari,2020,2,652,2020-01-02
+Pelagis Besar,Marlin,2020,2,7864,2020-01-02
+Pelagis Besar,layaran,2020,2,6502,2020-01-02
+Pelagis Besar,Lemadang,2020,2,17860,2020-01-02
+Pelagis Kecil,Layur,2020,2,20560,2020-01-02
+Pelagis Kecil,Peperek,2020,2,1832,2020-01-02
+Demersal,Manyung,2020,2,830,2020-01-02
+Pelagis Besar,Swanggi,2020,2,486,2020-01-02
+Pelagis Kecil,Tetengkek,2020,2,659,2020-01-02
+Demersal,Tambakan,2020,2,630,2020-01-02
+Pelagis Kecil,Tembang,2020,2,930,2020-01-02
+Pelagis Besar,Tenggiri,2020,2,7985,2020-01-02
+Pelagis Besar,Tongkol,2020,2,38231,2020-01-02
+Pelagis Besar,Tuna Sirip Kuning,2020,2,156321,2020-01-02
+Pelagis Besar,Tuna Mata Besar,2020,2,6325,2020-01-02
+Pelagis Kecil,Teri,2020,2,0,2020-01-02
+Pelagis Kecil,Layang,2020,2,27860,2020-01-02
+Pelagis Kecil,Selar,2020,2,2456,2020-01-02
+Pelagis Kecil,Laosan,2020,2,3050,2020-01-02
+jumlah,,2020,2,437972,2020-01-02
+Demersal,Kuniran/biji nangka,2020,2,2560,2020-01-02
+Demersal,Kurisi,2020,2,1589,2020-01-02
+Pelagis Besar,Alu Alu/baracuda,2020,2,476,2020-01-02
+Karang (Reef-Associated),Ayam ayam,2020,2,465,2020-01-02
+Pelagis Besar,Bawal laut,2020,2,1051,2020-01-02
+Pelagis Kecil,Bentong,2020,2,1800,2020-01-02
+Pelagis Besar,Cakalang,2020,2,100671,2020-01-02
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,2,3506,2020-01-02
+Demersal,Golok golok,2020,2,796,2020-01-02
+Demersal,Gulamah/Tigawaja/Samgeh,2020,2,3780,2020-01-02
+Demersal,Cucut,2020,2,598,2020-01-02
+Demersal,Ikan sebelah,2020,2,735,2020-01-02
+Pelagis Besar,ikan pedang,2020,2,520,2020-01-02
+Karang (Reef-Associated),Kerapu,2020,2,468,2020-01-02
+Pelagis Kecil,Kembung,2020,2,1901,2020-01-02
+Pelagis Kecil,Kapas kapas,2020,2,7030,2020-01-02
+Karang (Reef-Associated),kuwe,2020,2,6540,2020-01-02
+Karang (Reef-Associated),Jenaha,2020,2,253,2020-01-02
+Pelagis Kecil,Japuh,2020,2,735,2020-01-02
+Karang (Reef-Associated),Kakap Merah,2020,2,1465,2020-01-02
+Pelagis Kecil,Layang,2020,3,27456,2020-01-03
+Pelagis Besar,layaran,2020,3,6541,2020-01-03
+Pelagis Kecil,Layur,2020,3,20805,2020-01-03
+Demersal,Manyung,2020,3,812,2020-01-03
+Pelagis Besar,Marlin,2020,3,6805,2020-01-03
+Demersal,Pari,2020,3,632,2020-01-03
+Pelagis Kecil,Peperek,2020,3,1856,2020-01-03
+Pelagis Besar,Swanggi,2020,3,495,2020-01-03
+Pelagis Kecil,Selar,2020,3,2413,2020-01-03
+Pelagis Kecil,Tembang,2020,3,925,2020-01-03
+Pelagis Kecil,Laosan,2020,3,2780,2020-01-03
+Pelagis Kecil,Tetengkek,2020,3,696,2020-01-03
+Pelagis Besar,Tongkol,2020,3,37560,2020-01-03
+Pelagis Besar,Tuna Sirip Kuning,2020,3,140151,2020-01-03
+Pelagis Besar,Tuna Mata Besar,2020,3,6251,2020-01-03
+Pelagis Kecil,Teri,2020,3,0,2020-01-03
+jumlah,,2020,3,502837,2020-01-03
+Demersal,Tambakan,2020,3,654,2020-01-03
+Pelagis Besar,Tenggiri,2020,3,8501,2020-01-03
+Pelagis Besar,Lemadang,2020,3,16580,2020-01-03
+Karang (Reef-Associated),kuwe,2020,3,5980,2020-01-03
+Demersal,Kuniran/biji nangka,2020,3,2146,2020-01-03
+Pelagis Besar,Alu Alu/baracuda,2020,3,550,2020-01-03
+Karang (Reef-Associated),Ayam ayam,2020,3,650,2020-01-03
+Pelagis Besar,Bawal laut,2020,3,1056,2020-01-03
+Pelagis Kecil,Bentong,2020,3,2100,2020-01-03
+Pelagis Besar,Cakalang,2020,3,186000,2020-01-03
+Demersal,Cucut,2020,3,789,2020-01-03
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,3,2986,2020-01-03
+Demersal,Golok golok,2020,3,950,2020-01-03
+Demersal,Kurisi,2020,3,1458,2020-01-03
+Pelagis Besar,ikan pedang,2020,3,496,2020-01-03
+Demersal,Gulamah/Tigawaja/Samgeh,2020,3,3560,2020-01-03
+Pelagis Kecil,Kembung,2020,3,1983,2020-01-03
+Pelagis Kecil,Kapas kapas,2020,3,6580,2020-01-03
+Karang (Reef-Associated),Kerapu,2020,3,436,2020-01-03
+Karang (Reef-Associated),Jenaha,2020,3,242,2020-01-03
+Pelagis Kecil,Japuh,2020,3,553,2020-01-03
+Demersal,Ikan sebelah,2020,3,620,2020-01-03
+Karang (Reef-Associated),Kakap Merah,2020,3,1789,2020-01-03
+Pelagis Besar,layaran,2020,4,6213,2020-01-04
+Pelagis Kecil,Peperek,2020,4,1872,2020-01-04
+Pelagis Kecil,Layur,2020,4,19550,2020-01-04
+Pelagis Besar,Lemadang,2020,4,18018,2020-01-04
+Demersal,Manyung,2020,4,856,2020-01-04
+Pelagis Besar,Marlin,2020,4,8302,2020-01-04
+Demersal,Pari,2020,4,656,2020-01-04
+Pelagis Besar,Swanggi,2020,4,520,2020-01-04
+Pelagis Kecil,Tetengkek,2020,4,720,2020-01-04
+Demersal,Tambakan,2020,4,680,2020-01-04
+Pelagis Kecil,Tembang,2020,4,914,2020-01-04
+Pelagis Besar,Tenggiri,2020,4,7560,2020-01-04
+Pelagis Besar,Tongkol,2020,4,36893,2020-01-04
+Pelagis Besar,Tuna Sirip Kuning,2020,4,132560,2020-01-04
+Pelagis Besar,Tuna Mata Besar,2020,4,6152,2020-01-04
+Pelagis Kecil,Teri,2020,4,0,2020-01-04
+Pelagis Kecil,Layang,2020,4,27830,2020-01-04
+Pelagis Kecil,Selar,2020,4,2335,2020-01-04
+jumlah,,2020,4,497338,2020-01-04
+Pelagis Kecil,Laosan,2020,4,2980,2020-01-04
+Demersal,Kuniran/biji nangka,2020,4,2386,2020-01-04
+Pelagis Besar,Alu Alu/baracuda,2020,4,619,2020-01-04
+Karang (Reef-Associated),Ayam ayam,2020,4,420,2020-01-04
+Pelagis Besar,Bawal laut,2020,4,1002,2020-01-04
+Pelagis Kecil,Bentong,2020,4,1050,2020-01-04
+Pelagis Besar,Cakalang,2020,4,186500,2020-01-04
+Demersal,Cucut,2020,4,543,2020-01-04
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,4,2886,2020-01-04
+Demersal,Golok golok,2020,4,709,2020-01-04
+Demersal,Gulamah/Tigawaja/Samgeh,2020,4,3937,2020-01-04
+Demersal,Kurisi,2020,4,1705,2020-01-04
+Demersal,Ikan sebelah,2020,4,542,2020-01-04
+Pelagis Kecil,Japuh,2020,4,598,2020-01-04
+Karang (Reef-Associated),Jenaha,2020,4,215,2020-01-04
+Karang (Reef-Associated),Kakap Merah,2020,4,1235,2020-01-04
+Pelagis Kecil,Kapas kapas,2020,4,9803,2020-01-04
+Pelagis Kecil,Kembung,2020,4,1856,2020-01-04
+Karang (Reef-Associated),Kerapu,2020,4,302,2020-01-04
+Karang (Reef-Associated),kuwe,2020,4,5883,2020-01-04
+Pelagis Besar,ikan pedang,2020,4,536,2020-01-04
+Pelagis Kecil,Peperek,2020,5,1868,2020-01-05
+Demersal,Pari,2020,5,702,2020-01-05
+Pelagis Besar,Marlin,2020,5,7320,2020-01-05
+Pelagis Besar,layaran,2020,5,6801,2020-01-05
+Pelagis Besar,Lemadang,2020,5,17230,2020-01-05
+Pelagis Kecil,Layur,2020,5,20145,2020-01-05
+Pelagis Besar,Swanggi,2020,5,508,2020-01-05
+Demersal,Manyung,2020,5,832,2020-01-05
+Pelagis Kecil,Selar,2020,5,2450,2020-01-05
+Pelagis Kecil,Tetengkek,2020,5,692,2020-01-05
+Pelagis Kecil,Tembang,2020,5,891,2020-01-05
+Pelagis Besar,Tenggiri,2020,5,8540,2020-01-05
+Pelagis Besar,Tongkol,2020,5,36560,2020-01-05
+Pelagis Besar,Tuna Sirip Kuning,2020,5,156040,2020-01-05
+Pelagis Besar,Tuna Mata Besar,2020,5,6601,2020-01-05
+Pelagis Kecil,Teri,2020,5,0,2020-01-05
+jumlah,,2020,5,482302,2020-01-05
+Pelagis Kecil,Layang,2020,5,26805,2020-01-05
+Demersal,Tambakan,2020,5,621,2020-01-05
+Pelagis Kecil,Laosan,2020,5,3055,2020-01-05
+Demersal,Kurisi,2020,5,2122,2020-01-05
+Demersal,Kuniran/biji nangka,2020,5,2443,2020-01-05
+Karang (Reef-Associated),Ayam ayam,2020,5,633,2020-01-05
+Pelagis Besar,Bawal laut,2020,5,1248,2020-01-05
+Pelagis Kecil,Bentong,2020,5,1650,2020-01-05
+Pelagis Besar,Cakalang,2020,5,148836,2020-01-05
+Demersal,Cucut,2020,5,469,2020-01-05
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,5,3560,2020-01-05
+Demersal,Golok golok,2020,5,786,2020-01-05
+Demersal,Gulamah/Tigawaja/Samgeh,2020,5,4005,2020-01-05
+Pelagis Besar,Alu Alu/baracuda,2020,5,560,2020-01-05
+Demersal,Ikan sebelah,2020,5,635,2020-01-05
+Pelagis Kecil,Japuh,2020,5,603,2020-01-05
+Karang (Reef-Associated),Jenaha,2020,5,245,2020-01-05
+Karang (Reef-Associated),Kakap Merah,2020,5,1573,2020-01-05
+Pelagis Kecil,Kapas kapas,2020,5,6530,2020-01-05
+Pelagis Kecil,Kembung,2020,5,1788,2020-01-05
+Karang (Reef-Associated),Kerapu,2020,5,488,2020-01-05
+Karang (Reef-Associated),kuwe,2020,5,5978,2020-01-05
+Pelagis Besar,ikan pedang,2020,5,489,2020-01-05
+Demersal,Pari,2020,6,730,2020-01-06
+Pelagis Besar,Marlin,2020,6,8325,2020-01-06
+Pelagis Besar,layaran,2020,6,6540,2020-01-06
+Pelagis Besar,Lemadang,2020,6,17803,2020-01-06
+Pelagis Kecil,Layur,2020,6,19253,2020-01-06
+Pelagis Kecil,Peperek,2020,6,1856,2020-01-06
+Demersal,Manyung,2020,6,903,2020-01-06
+Pelagis Besar,Swanggi,2020,6,532,2020-01-06
+Pelagis Kecil,Tetengkek,2020,6,655,2020-01-06
+Demersal,Tambakan,2020,6,671,2020-01-06
+Pelagis Kecil,Tembang,2020,6,970,2020-01-06
+Pelagis Besar,Tenggiri,2020,6,7851,2020-01-06
+Pelagis Besar,Tongkol,2020,6,35501,2020-01-06
+Pelagis Besar,Tuna Sirip Kuning,2020,6,132050,2020-01-06
+Pelagis Besar,Tuna Mata Besar,2020,6,6321,2020-01-06
+Pelagis Kecil,Teri,2020,6,0,2020-01-06
+Pelagis Kecil,Layang,2020,6,27456,2020-01-06
+Pelagis Kecil,Selar,2020,6,2432,2020-01-06
+Pelagis Kecil,Laosan,2020,6,3120,2020-01-06
+jumlah,,2020,6,565406,2020-01-06
+Demersal,Kuniran/biji nangka,2020,6,2689,2020-01-06
+Pelagis Besar,Alu Alu/baracuda,2020,6,668,2020-01-06
+Karang (Reef-Associated),Ayam ayam,2020,6,514,2020-01-06
+Pelagis Besar,Bawal laut,2020,6,1008,2020-01-06
+Pelagis Kecil,Bentong,2020,6,1980,2020-01-06
+Pelagis Besar,Cakalang,2020,6,256733,2020-01-06
+Demersal,Cucut,2020,6,596,2020-01-06
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,6,3056,2020-01-06
+Demersal,Golok golok,2020,6,1030,2020-01-06
+Demersal,Gulamah/Tigawaja/Samgeh,2020,6,3640,2020-01-06
+Demersal,Kurisi,2020,6,1413,2020-01-06
+Demersal,Ikan sebelah,2020,6,835,2020-01-06
+Pelagis Kecil,Japuh,2020,6,785,2020-01-06
+Karang (Reef-Associated),Jenaha,2020,6,180,2020-01-06
+Karang (Reef-Associated),Kakap Merah,2020,6,1523,2020-01-06
+Pelagis Kecil,Kapas kapas,2020,6,6856,2020-01-06
+Pelagis Kecil,Kembung,2020,6,1685,2020-01-06
+Karang (Reef-Associated),Kerapu,2020,6,496,2020-01-06
+Karang (Reef-Associated),kuwe,2020,6,6320,2020-01-06
+Pelagis Besar,ikan pedang,2020,6,430,2020-01-06
+Demersal,Pari,2020,7,756,2020-01-07
+Pelagis Besar,Marlin,2020,7,8850,2020-01-07
+Pelagis Besar,layaran,2020,7,6471,2020-01-07
+Pelagis Besar,Lemadang,2020,7,17060,2020-01-07
+Pelagis Kecil,Layur,2020,7,19320,2020-01-07
+Pelagis Kecil,Peperek,2020,7,1832,2020-01-07
+Demersal,Manyung,2020,7,915,2020-01-07
+Pelagis Besar,Swanggi,2020,7,503,2020-01-07
+Pelagis Kecil,Tetengkek,2020,7,687,2020-01-07
+Demersal,Tambakan,2020,7,520,2020-01-07
+Pelagis Kecil,Tembang,2020,7,956,2020-01-07
+Pelagis Besar,Tenggiri,2020,7,8565,2020-01-07
+Pelagis Besar,Tongkol,2020,7,36530,2020-01-07
+Pelagis Besar,Tuna Sirip Kuning,2020,7,136856,2020-01-07
+Pelagis Besar,Tuna Mata Besar,2020,7,6215,2020-01-07
+Pelagis Kecil,Teri,2020,7,0,2020-01-07
+Pelagis Kecil,Layang,2020,7,27560,2020-01-07
+Pelagis Kecil,Selar,2020,7,2193,2020-01-07
+Pelagis Kecil,Laosan,2020,7,2950,2020-01-07
+jumlah,,2020,7,503023,2020-01-07
+Demersal,Kuniran/biji nangka,2020,7,2135,2020-01-07
+Pelagis Besar,Alu Alu/baracuda,2020,7,650,2020-01-07
+Karang (Reef-Associated),Ayam ayam,2020,7,489,2020-01-07
+Pelagis Besar,Bawal laut,2020,7,1032,2020-01-07
+Pelagis Kecil,Bentong,2020,7,1880,2020-01-07
+Pelagis Besar,Cakalang,2020,7,186476,2020-01-07
+Demersal,Cucut,2020,7,732,2020-01-07
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,7,3426,2020-01-07
+Demersal,Golok golok,2020,7,832,2020-01-07
+Demersal,Gulamah/Tigawaja/Samgeh,2020,7,4056,2020-01-07
+Demersal,Kurisi,2020,7,1555,2020-01-07
+Demersal,Ikan sebelah,2020,7,795,2020-01-07
+Pelagis Kecil,Japuh,2020,7,732,2020-01-07
+Karang (Reef-Associated),Jenaha,2020,7,213,2020-01-07
+Karang (Reef-Associated),Kakap Merah,2020,7,1620,2020-01-07
+Pelagis Kecil,Kapas kapas,2020,7,7890,2020-01-07
+Pelagis Kecil,Kembung,2020,7,2010,2020-01-07
+Karang (Reef-Associated),Kerapu,2020,7,391,2020-01-07
+Karang (Reef-Associated),kuwe,2020,7,6830,2020-01-07
+Pelagis Besar,ikan pedang,2020,7,540,2020-01-07
+Demersal,Pari,2020,8,656,2020-01-08
+Pelagis Besar,Marlin,2020,8,8985,2020-01-08
+Demersal,Manyung,2020,8,825,2020-01-08
+Pelagis Kecil,Layang,2020,8,27860,2020-01-08
+Pelagis Kecil,Layur,2020,8,20560,2020-01-08
+Pelagis Besar,layaran,2020,8,6423,2020-01-08
+Pelagis Kecil,Peperek,2020,8,1892,2020-01-08
+Pelagis Besar,Lemadang,2020,8,18006,2020-01-08
+Pelagis Besar,Swanggi,2020,8,512,2020-01-08
+Pelagis Besar,Tenggiri,2020,8,7225,2020-01-08
+Demersal,Tambakan,2020,8,541,2020-01-08
+Pelagis Kecil,Tembang,2020,8,903,2020-01-08
+Pelagis Kecil,Tetengkek,2020,8,732,2020-01-08
+Pelagis Besar,Tongkol,2020,8,37560,2020-01-08
+Pelagis Besar,Tuna Sirip Kuning,2020,8,138560,2020-01-08
+Pelagis Besar,Tuna Mata Besar,2020,8,6152,2020-01-08
+Pelagis Kecil,Teri,2020,8,0,2020-01-08
+Pelagis Kecil,Laosan,2020,8,3005,2020-01-08
+Pelagis Kecil,Selar,2020,8,2120,2020-01-08
+jumlah,,2020,8,491126,2020-01-08
+Demersal,Kurisi,2020,8,1658,2020-01-08
+Karang (Reef-Associated),kuwe,2020,8,5984,2020-01-08
+Demersal,Kuniran/biji nangka,2020,8,2004,2020-01-08
+Pelagis Besar,Alu Alu/baracuda,2020,8,769,2020-01-08
+Karang (Reef-Associated),Ayam ayam,2020,8,730,2020-01-08
+Pelagis Besar,Bawal laut,2020,8,932,2020-01-08
+Pelagis Kecil,Bentong,2020,8,1875,2020-01-08
+Demersal,Cucut,2020,8,803,2020-01-08
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,8,3456,2020-01-08
+Demersal,Golok golok,2020,8,736,2020-01-08
+Pelagis Besar,Cakalang,2020,8,173056,2020-01-08
+Pelagis Besar,ikan pedang,2020,8,732,2020-01-08
+Demersal,Ikan sebelah,2020,8,635,2020-01-08
+Pelagis Kecil,Japuh,2020,8,783,2020-01-08
+Karang (Reef-Associated),Jenaha,2020,8,373,2020-01-08
+Karang (Reef-Associated),Kakap Merah,2020,8,1058,2020-01-08
+Pelagis Kecil,Kapas kapas,2020,8,7050,2020-01-08
+Pelagis Kecil,Kembung,2020,8,1860,2020-01-08
+Demersal,Gulamah/Tigawaja/Samgeh,2020,8,3737,2020-01-08
+Karang (Reef-Associated),Kerapu,2020,8,378,2020-01-08
+Pelagis Kecil,Peperek,2020,9,1864,2020-01-09
+Demersal,Pari,2020,9,620,2020-01-09
+Pelagis Besar,Marlin,2020,9,7334,2020-01-09
+Pelagis Besar,layaran,2020,9,6004,2020-01-09
+Pelagis Besar,Lemadang,2020,9,17530,2020-01-09
+Pelagis Kecil,Layur,2020,9,20056,2020-01-09
+Pelagis Besar,Swanggi,2020,9,602,2020-01-09
+Demersal,Manyung,2020,9,805,2020-01-09
+Pelagis Kecil,Selar,2020,9,2986,2020-01-09
+jumlah,,2020,9,487668,2020-01-09
+Pelagis Kecil,Tembang,2020,9,886,2020-01-09
+Pelagis Besar,Tenggiri,2020,9,7986,2020-01-09
+Pelagis Kecil,Tetengkek,2020,9,756,2020-01-09
+Pelagis Besar,Tongkol,2020,9,52032,2020-01-09
+Pelagis Besar,Tuna Sirip Kuning,2020,9,125605,2020-01-09
+Pelagis Besar,Tuna Mata Besar,2020,9,6381,2020-01-09
+Pelagis Kecil,Teri,2020,9,0,2020-01-09
+Pelagis Kecil,Layang,2020,9,27586,2020-01-09
+Demersal,Tambakan,2020,9,510,2020-01-09
+Pelagis Kecil,Laosan,2020,9,3560,2020-01-09
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,9,3654,2020-01-09
+Demersal,Kuniran/biji nangka,2020,9,2756,2020-01-09
+Pelagis Besar,Alu Alu/baracuda,2020,9,521,2020-01-09
+Karang (Reef-Associated),Ayam ayam,2020,9,764,2020-01-09
+Pelagis Besar,Bawal laut,2020,9,1150,2020-01-09
+Pelagis Kecil,Bentong,2020,9,1650,2020-01-09
+Pelagis Besar,Cakalang,2020,9,165882,2020-01-09
+Demersal,Kurisi,2020,9,1835,2020-01-09
+Demersal,Golok golok,2020,9,890,2020-01-09
+Demersal,Gulamah/Tigawaja/Samgeh,2020,9,3560,2020-01-09
+Demersal,Cucut,2020,9,626,2020-01-09
+Demersal,Ikan sebelah,2020,9,895,2020-01-09
+Pelagis Besar,ikan pedang,2020,9,452,2020-01-09
+Karang (Reef-Associated),Kerapu,2020,9,365,2020-01-09
+Pelagis Kecil,Kembung,2020,9,2632,2020-01-09
+Pelagis Kecil,Kapas kapas,2020,9,7501,2020-01-09
+Karang (Reef-Associated),kuwe,2020,9,6729,2020-01-09
+Karang (Reef-Associated),Jenaha,2020,9,231,2020-01-09
+Pelagis Kecil,Japuh,2020,9,852,2020-01-09
+Karang (Reef-Associated),Kakap Merah,2020,9,1620,2020-01-09
+Pelagis Besar,Swanggi,2020,10,432,2020-01-10
+Pelagis Besar,layaran,2020,10,6840,2020-01-10
+Pelagis Kecil,Layur,2020,10,19850,2020-01-10
+Pelagis Besar,Lemadang,2020,10,17030,2020-01-10
+Demersal,Manyung,2020,10,873,2020-01-10
+Pelagis Besar,Marlin,2020,10,8056,2020-01-10
+Demersal,Pari,2020,10,654,2020-01-10
+Pelagis Kecil,Peperek,2020,10,1730,2020-01-10
+Pelagis Kecil,Selar,2020,10,2532,2020-01-10
+jumlah,,2020,10,506079,2020-01-10
+Pelagis Kecil,Tembang,2020,10,975,2020-01-10
+Pelagis Besar,Tenggiri,2020,10,8732,2020-01-10
+Pelagis Kecil,Tetengkek,2020,10,714,2020-01-10
+Pelagis Besar,Tongkol,2020,10,38625,2020-01-10
+Pelagis Besar,Tuna Sirip Kuning,2020,10,125320,2020-01-10
+Pelagis Besar,Tuna Mata Besar,2020,10,6856,2020-01-10
+Pelagis Kecil,Teri,2020,10,0,2020-01-10
+Pelagis Kecil,Layang,2020,10,27320,2020-01-10
+Demersal,Tambakan,2020,10,602,2020-01-10
+Pelagis Kecil,Laosan,2020,10,3760,2020-01-10
+Demersal,Kurisi,2020,10,1689,2020-01-10
+Demersal,Kuniran/biji nangka,2020,10,2856,2020-01-10
+Karang (Reef-Associated),Ayam ayam,2020,10,620,2020-01-10
+Pelagis Besar,Bawal laut,2020,10,1028,2020-01-10
+Pelagis Kecil,Bentong,2020,10,1816,2020-01-10
+Pelagis Besar,Cakalang,2020,10,198560,2020-01-10
+Demersal,Cucut,2020,10,626,2020-01-10
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,10,3201,2020-01-10
+Demersal,Golok golok,2020,10,893,2020-01-10
+Demersal,Gulamah/Tigawaja/Samgeh,2020,10,4020,2020-01-10
+Pelagis Besar,Alu Alu/baracuda,2020,10,630,2020-01-10
+Demersal,Ikan sebelah,2020,10,918,2020-01-10
+Pelagis Kecil,Japuh,2020,10,798,2020-01-10
+Karang (Reef-Associated),Jenaha,2020,10,210,2020-01-10
+Karang (Reef-Associated),Kakap Merah,2020,10,1550,2020-01-10
+Pelagis Kecil,Kapas kapas,2020,10,6835,2020-01-10
+Pelagis Kecil,Kembung,2020,10,1680,2020-01-10
+Karang (Reef-Associated),Kerapu,2020,10,425,2020-01-10
+Karang (Reef-Associated),kuwe,2020,10,6300,2020-01-10
+Pelagis Besar,ikan pedang,2020,10,523,2020-01-10
+Demersal,Pari,2020,11,703,2020-01-11
+Pelagis Besar,Marlin,2020,11,7356,2020-01-11
+Pelagis Besar,layaran,2020,11,6600,2020-01-11
+Pelagis Besar,Lemadang,2020,11,17080,2020-01-11
+Pelagis Kecil,Layur,2020,11,20450,2020-01-11
+Pelagis Kecil,Peperek,2020,11,1760,2020-01-11
+Demersal,Manyung,2020,11,889,2020-01-11
+Pelagis Besar,Swanggi,2020,11,613,2020-01-11
+Pelagis Kecil,Tetengkek,2020,11,922,2020-01-11
+Demersal,Tambakan,2020,11,656,2020-01-11
+Pelagis Kecil,Tembang,2020,11,845,2020-01-11
+Pelagis Besar,Tenggiri,2020,11,7956,2020-01-11
+Pelagis Besar,Tongkol,2020,11,38205,2020-01-11
+Pelagis Besar,Tuna Sirip Kuning,2020,11,156350,2020-01-11
+Pelagis Besar,Tuna Mata Besar,2020,11,6965,2020-01-11
+Pelagis Kecil,Teri,2020,11,0,2020-01-11
+Pelagis Kecil,Layang,2020,11,27856,2020-01-11
+Pelagis Kecil,Selar,2020,11,2140,2020-01-11
+Pelagis Kecil,Laosan,2020,11,2890,2020-01-11
+jumlah,,2020,11,588146,2020-01-11
+Demersal,Kuniran/biji nangka,2020,11,2560,2020-01-11
+Pelagis Besar,Alu Alu/baracuda,2020,11,502,2020-01-11
+Karang (Reef-Associated),Ayam ayam,2020,11,611,2020-01-11
+Pelagis Besar,Bawal laut,2020,11,986,2020-01-11
+Pelagis Kecil,Bentong,2020,11,1705,2020-01-11
+Pelagis Besar,Cakalang,2020,11,252500,2020-01-11
+Demersal,Cucut,2020,11,626,2020-01-11
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,11,3567,2020-01-11
+Demersal,Golok golok,2020,11,730,2020-01-11
+Demersal,Gulamah/Tigawaja/Samgeh,2020,11,3646,2020-01-11
+Demersal,Kurisi,2020,11,1602,2020-01-11
+Demersal,Ikan sebelah,2020,11,695,2020-01-11
+Pelagis Kecil,Japuh,2020,11,620,2020-01-11
+Karang (Reef-Associated),Jenaha,2020,11,189,2020-01-11
+Karang (Reef-Associated),Kakap Merah,2020,11,1565,2020-01-11
+Pelagis Kecil,Kapas kapas,2020,11,6223,2020-01-11
+Pelagis Kecil,Kembung,2020,11,1890,2020-01-11
+Karang (Reef-Associated),Kerapu,2020,11,384,2020-01-11
+Karang (Reef-Associated),kuwe,2020,11,6820,2020-01-11
+Pelagis Besar,ikan pedang,2020,11,489,2020-01-11
+Demersal,Pari,2020,12,653,2020-01-12
+Pelagis Besar,Marlin,2020,12,7850,2020-01-12
+Pelagis Besar,layaran,2020,12,6980,2020-01-12
+Pelagis Besar,Lemadang,2020,12,17560,2020-01-12
+Pelagis Kecil,Layur,2020,12,18663,2020-01-12
+Pelagis Kecil,Peperek,2020,12,1713,2020-01-12
+Demersal,Manyung,2020,12,882,2020-01-12
+Pelagis Besar,Swanggi,2020,12,485,2020-01-12
+Pelagis Kecil,Tetengkek,2020,12,924,2020-01-12
+Demersal,Tambakan,2020,12,680,2020-01-12
+Pelagis Kecil,Tembang,2020,12,899,2020-01-12
+Pelagis Besar,Tenggiri,2020,12,7356,2020-01-12
+Pelagis Besar,Tongkol,2020,12,37250,2020-01-12
+Pelagis Besar,Tuna Sirip Kuning,2020,12,166424,2020-01-12
+Pelagis Besar,Tuna Mata Besar,2020,12,7325,2020-01-12
+Pelagis Kecil,Teri,2020,12,0,2020-01-12
+Pelagis Kecil,Layang,2020,12,27858,2020-01-12
+Pelagis Kecil,Selar,2020,12,2650,2020-01-12
+Pelagis Kecil,Laosan,2020,12,3560,2020-01-12
+jumlah,,2020,12,633241,2020-01-12
+Demersal,Kuniran/biji nangka,2020,12,4045,2020-01-12
+Pelagis Besar,Alu Alu/baracuda,2020,12,668,2020-01-12
+Karang (Reef-Associated),Ayam ayam,2020,12,628,2020-01-12
+Pelagis Besar,Bawal laut,2020,12,1051,2020-01-12
+Pelagis Kecil,Bentong,2020,12,1400,2020-01-12
+Pelagis Besar,Cakalang,2020,12,286476,2020-01-12
+Demersal,Cucut,2020,12,626,2020-01-12
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2020,12,3502,2020-01-12
+Demersal,Golok golok,2020,12,960,2020-01-12
+Demersal,Gulamah/Tigawaja/Samgeh,2020,12,3756,2020-01-12
+Demersal,Kurisi,2020,12,1623,2020-01-12
+Demersal,Ikan sebelah,2020,12,568,2020-01-12
+Pelagis Kecil,Japuh,2020,12,685,2020-01-12
+Karang (Reef-Associated),Jenaha,2020,12,273,2020-01-12
+Karang (Reef-Associated),Kakap Merah,2020,12,1578,2020-01-12
+Pelagis Kecil,Kapas kapas,2020,12,6350,2020-01-12
+Pelagis Kecil,Kembung,2020,12,1890,2020-01-12
+Karang (Reef-Associated),Kerapu,2020,12,354,2020-01-12
+Karang (Reef-Associated),kuwe,2020,12,6532,2020-01-12
+Pelagis Besar,ikan pedang,2020,12,564,2020-01-12
+Demersal,Pari,2021,1,14375,2021-01-01
+Pelagis Besar,Marlin,2021,1,5500,2021-01-01
+Demersal,Manyung,2021,1,250,2021-01-01
+Pelagis Kecil,Layang,2021,1,52750,2021-01-01
+Pelagis Kecil,Layur,2021,1,27650,2021-01-01
+Pelagis Besar,layaran,2021,1,4125,2021-01-01
+Pelagis Kecil,Peperek,2021,1,1500,2021-01-01
+Pelagis Besar,Lemadang,2021,1,20050,2021-01-01
+Pelagis Besar,Swanggi,2021,1,500,2021-01-01
+Pelagis Besar,Tenggiri,2021,1,2605,2021-01-01
+Demersal,Tambakan,2021,1,725,2021-01-01
+Pelagis Kecil,Tembang,2021,1,580,2021-01-01
+Pelagis Kecil,Tetengkek,2021,1,425,2021-01-01
+Pelagis Besar,Tongkol,2021,1,38000,2021-01-01
+Pelagis Besar,Tuna Sirip Kuning,2021,1,173800,2021-01-01
+Pelagis Besar,Tuna Mata Besar,2021,1,3200,2021-01-01
+Pelagis Kecil,Teri,2021,1,0,2021-01-01
+Pelagis Kecil,Laosan,2021,1,2750,2021-01-01
+Pelagis Kecil,Selar,2021,1,2750,2021-01-01
+jumlah,,2021,1,6106795,2021-01-01
+Demersal,Kurisi,2021,1,750,2021-01-01
+Karang (Reef-Associated),kuwe,2021,1,5750,2021-01-01
+Demersal,Kuniran/biji nangka,2021,1,2250,2021-01-01
+Pelagis Besar,Alu Alu/baracuda,2021,1,450,2021-01-01
+Karang (Reef-Associated),Ayam ayam,2021,1,950,2021-01-01
+Pelagis Besar,Bawal laut,2021,1,325,2021-01-01
+Pelagis Kecil,Bentong,2021,1,3725,2021-01-01
+Demersal,Cucut,2021,1,121,2021-01-01
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,1,10250,2021-01-01
+Demersal,Golok golok,2021,1,750,2021-01-01
+Pelagis Besar,Cakalang,2021,1,226625,2021-01-01
+Pelagis Besar,ikan pedang,2021,1,405,2021-01-01
+Demersal,Gulamah/Tigawaja/Samgeh,2021,1,4300,2021-01-01
+Pelagis Kecil,Kembung,2021,1,3800,2021-01-01
+Pelagis Kecil,Kapas kapas,2021,1,42225,2021-01-01
+Karang (Reef-Associated),Kakap Merah,2021,1,3675,2021-01-01
+Karang (Reef-Associated),Kerapu,2021,1,1750,2021-01-01
+Pelagis Kecil,Japuh,2021,1,306,2021-01-01
+Demersal,Ikan sebelah,2021,1,375,2021-01-01
+Karang (Reef-Associated),Jenaha,2021,1,13025,2021-01-01
+Pelagis Besar,Swanggi,2021,2,350,2021-01-02
+Pelagis Kecil,Layur,2021,2,197425,2021-01-02
+Pelagis Besar,Lemadang,2021,2,28850,2021-01-02
+Demersal,Manyung,2021,2,875,2021-01-02
+Pelagis Besar,Marlin,2021,2,8550,2021-01-02
+Demersal,Pari,2021,2,1050,2021-01-02
+Pelagis Kecil,Peperek,2021,2,1150,2021-01-02
+Pelagis Kecil,Selar,2021,2,3750,2021-01-02
+Pelagis Besar,layaran,2021,2,2250,2021-01-02
+Pelagis Kecil,Tembang,2021,2,381,2021-01-02
+Pelagis Besar,Tenggiri,2021,2,22325,2021-01-02
+Pelagis Kecil,Tetengkek,2021,2,325,2021-01-02
+Pelagis Besar,Tongkol,2021,2,25375,2021-01-02
+Pelagis Besar,Tuna Sirip Kuning,2021,2,165250,2021-01-02
+Pelagis Besar,Tuna Mata Besar,2021,2,2100,2021-01-02
+Pelagis Kecil,Teri,2021,2,0,2021-01-02
+jumlah,,2021,2,5239395,2021-01-02
+Demersal,Tambakan,2021,2,800,2021-01-02
+Pelagis Kecil,Layang,2021,2,444875,2021-01-02
+Pelagis Kecil,Laosan,2021,2,1900,2021-01-02
+Pelagis Besar,Alu Alu/baracuda,2021,2,360,2021-01-02
+Demersal,Kurisi,2021,2,1025,2021-01-02
+Karang (Reef-Associated),Ayam ayam,2021,2,1125,2021-01-02
+Pelagis Besar,Bawal laut,2021,2,200,2021-01-02
+Pelagis Kecil,Bentong,2021,2,6500,2021-01-02
+Pelagis Besar,Cakalang,2021,2,1622675,2021-01-02
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,2,115625,2021-01-02
+Demersal,Golok golok,2021,2,700,2021-01-02
+Demersal,Gulamah/Tigawaja/Samgeh,2021,2,3000,2021-01-02
+Pelagis Besar,ikan pedang,2021,2,325,2021-01-02
+Demersal,Cucut,2021,2,103,2021-01-02
+Pelagis Kecil,Japuh,2021,2,278,2021-01-02
+Karang (Reef-Associated),Jenaha,2021,2,1250,2021-01-02
+Karang (Reef-Associated),Kakap Merah,2021,2,3350,2021-01-02
+Pelagis Kecil,Kapas kapas,2021,2,2175,2021-01-02
+Pelagis Kecil,Kembung,2021,2,4725,2021-01-02
+Karang (Reef-Associated),Kerapu,2021,2,3250,2021-01-02
+Karang (Reef-Associated),kuwe,2021,2,10150,2021-01-02
+Demersal,Ikan sebelah,2021,2,575,2021-01-02
+Demersal,Kuniran/biji nangka,2021,2,1600,2021-01-02
+Pelagis Besar,Swanggi,2021,3,475,2021-01-03
+Pelagis Kecil,Peperek,2021,3,1500,2021-01-03
+Demersal,Pari,2021,3,875,2021-01-03
+Pelagis Kecil,Layur,2021,3,15000,2021-01-03
+Demersal,Manyung,2021,3,125,2021-01-03
+Pelagis Besar,Lemadang,2021,3,6750,2021-01-03
+Pelagis Kecil,Selar,2021,3,3500,2021-01-03
+Pelagis Besar,Marlin,2021,3,11250,2021-01-03
+Demersal,Tambakan,2021,3,700,2021-01-03
+Demersal,Kurisi,2021,3,1250,2021-01-03
+Pelagis Besar,Tenggiri,2021,3,1525,2021-01-03
+Pelagis Kecil,Tetengkek,2021,3,600,2021-01-03
+Pelagis Besar,Tongkol,2021,3,168125,2021-01-03
+Pelagis Besar,Tuna Sirip Kuning,2021,3,172000,2021-01-03
+Pelagis Besar,Tuna Mata Besar,2021,3,1100,2021-01-03
+Pelagis Kecil,Teri,2021,3,0,2021-01-03
+jumlah,,2021,3,4643725,2021-01-03
+Pelagis Besar,layaran,2021,3,3750,2021-01-03
+Pelagis Kecil,Tembang,2021,3,282,2021-01-03
+Pelagis Kecil,Layang,2021,3,49000,2021-01-03
+Karang (Reef-Associated),Kakap Merah,2021,3,3000,2021-01-03
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,3,18250,2021-01-03
+Pelagis Besar,Alu Alu/baracuda,2021,3,310,2021-01-03
+Karang (Reef-Associated),Ayam ayam,2021,3,1000,2021-01-03
+Pelagis Besar,Bawal laut,2021,3,300,2021-01-03
+Pelagis Kecil,Bentong,2021,3,5250,2021-01-03
+Pelagis Besar,Cakalang,2021,3,126500,2021-01-03
+Demersal,Cucut,2021,3,94,2021-01-03
+Pelagis Kecil,Laosan,2021,3,1500,2021-01-03
+Demersal,Golok golok,2021,3,550,2021-01-03
+Demersal,Gulamah/Tigawaja/Samgeh,2021,3,2000,2021-01-03
+Pelagis Besar,ikan pedang,2021,3,500,2021-01-03
+Demersal,Ikan sebelah,2021,3,500,2021-01-03
+Pelagis Kecil,Japuh,2021,3,249,2021-01-03
+Karang (Reef-Associated),Jenaha,2021,3,1750,2021-01-03
+Pelagis Kecil,Kapas kapas,2021,3,1750,2021-01-03
+Pelagis Kecil,Kembung,2021,3,2000,2021-01-03
+Karang (Reef-Associated),Kerapu,2021,3,1625,2021-01-03
+Karang (Reef-Associated),kuwe,2021,3,10000,2021-01-03
+Demersal,Kuniran/biji nangka,2021,3,750,2021-01-03
+Demersal,Pari,2021,4,1350,2021-01-04
+Pelagis Besar,Marlin,2021,4,15125,2021-01-04
+Demersal,Manyung,2021,4,225,2021-01-04
+Pelagis Besar,layaran,2021,4,2250,2021-01-04
+Pelagis Kecil,Layur,2021,4,12500,2021-01-04
+Pelagis Kecil,Peperek,2021,4,2175,2021-01-04
+Pelagis Besar,Lemadang,2021,4,4500,2021-01-04
+Pelagis Besar,Swanggi,2021,4,300,2021-01-04
+jumlah,,2021,4,4812795,2021-01-04
+Demersal,Tambakan,2021,4,850,2021-01-04
+Pelagis Kecil,Tembang,2021,4,183,2021-01-04
+Pelagis Besar,Tenggiri,2021,4,2650,2021-01-04
+Pelagis Besar,Tongkol,2021,4,17075,2021-01-04
+Pelagis Besar,Tuna Sirip Kuning,2021,4,140125,2021-01-04
+Pelagis Besar,Tuna Mata Besar,2021,4,980,2021-01-04
+Pelagis Kecil,Teri,2021,4,0,2021-01-04
+Pelagis Kecil,Layang,2021,4,52500,2021-01-04
+Pelagis Kecil,Selar,2021,4,3250,2021-01-04
+Pelagis Kecil,Laosan,2021,4,2000,2021-01-04
+Pelagis Kecil,Tetengkek,2021,4,750,2021-01-04
+Demersal,Kuniran/biji nangka,2021,4,675,2021-01-04
+Demersal,Kurisi,2021,4,875,2021-01-04
+Karang (Reef-Associated),Ayam ayam,2021,4,16025,2021-01-04
+Pelagis Besar,Bawal laut,2021,4,150,2021-01-04
+Pelagis Kecil,Bentong,2021,4,3750,2021-01-04
+Pelagis Besar,Cakalang,2021,4,178250,2021-01-04
+Demersal,Cucut,2021,4,98,2021-01-04
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,4,14800,2021-01-04
+Demersal,Golok golok,2021,4,1000,2021-01-04
+Demersal,Gulamah/Tigawaja/Samgeh,2021,4,1425,2021-01-04
+Pelagis Besar,Alu Alu/baracuda,2021,4,641,2021-01-04
+Demersal,Ikan sebelah,2021,4,750,2021-01-04
+Pelagis Besar,ikan pedang,2021,4,550,2021-01-04
+Karang (Reef-Associated),Kerapu,2021,4,1275,2021-01-04
+Pelagis Kecil,Kembung,2021,4,1500,2021-01-04
+Pelagis Kecil,Kapas kapas,2021,4,5275,2021-01-04
+Karang (Reef-Associated),kuwe,2021,4,6000,2021-01-04
+Karang (Reef-Associated),Jenaha,2021,4,1125,2021-01-04
+Pelagis Kecil,Japuh,2021,4,250,2021-01-04
+Karang (Reef-Associated),Kakap Merah,2021,4,2500,2021-01-04
+jumlah,,2021,5,451385,2021-01-05
+Pelagis Besar,layaran,2021,5,4000,2021-01-05
+Pelagis Kecil,Layur,2021,5,11250,2021-01-05
+Pelagis Besar,Lemadang,2021,5,12700,2021-01-05
+Demersal,Manyung,2021,5,1150,2021-01-05
+Pelagis Besar,Marlin,2021,5,13750,2021-01-05
+Demersal,Pari,2021,5,875,2021-01-05
+Pelagis Kecil,Peperek,2021,5,2575,2021-01-05
+Pelagis Besar,Swanggi,2021,5,1000,2021-01-05
+Demersal,Tambakan,2021,5,750,2021-01-05
+Pelagis Kecil,Tembang,2021,5,148,2021-01-05
+Pelagis Besar,Tenggiri,2021,5,3000,2021-01-05
+Pelagis Besar,Tongkol,2021,5,8225,2021-01-05
+Pelagis Besar,Tuna Sirip Kuning,2021,5,134750,2021-01-05
+Pelagis Besar,Tuna Mata Besar,2021,5,1020,2021-01-05
+Pelagis Kecil,Teri,2021,5,0,2021-01-05
+Pelagis Kecil,Layang,2021,5,43750,2021-01-05
+Pelagis Kecil,Selar,2021,5,5500,2021-01-05
+Pelagis Kecil,Laosan,2021,5,5100,2021-01-05
+Pelagis Kecil,Tetengkek,2021,5,400,2021-01-05
+Demersal,Kuniran/biji nangka,2021,5,725,2021-01-05
+Demersal,Kurisi,2021,5,1150,2021-01-05
+Pelagis Besar,Alu Alu/baracuda,2021,5,462,2021-01-05
+Karang (Reef-Associated),Ayam ayam,2021,5,1000,2021-01-05
+Pelagis Besar,Bawal laut,2021,5,525,2021-01-05
+Pelagis Kecil,Bentong,2021,5,4000,2021-01-05
+Pelagis Besar,Cakalang,2021,5,161825,2021-01-05
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,5,8750,2021-01-05
+Demersal,Golok golok,2021,5,1900,2021-01-05
+Demersal,Gulamah/Tigawaja/Samgeh,2021,5,1750,2021-01-05
+Demersal,Cucut,2021,5,109,2021-01-05
+Demersal,Ikan sebelah,2021,5,500,2021-01-05
+Pelagis Kecil,Japuh,2021,5,221,2021-01-05
+Karang (Reef-Associated),Jenaha,2021,5,700,2021-01-05
+Karang (Reef-Associated),Kakap Merah,2021,5,2075,2021-01-05
+Pelagis Kecil,Kapas kapas,2021,5,4250,2021-01-05
+Pelagis Kecil,Kembung,2021,5,2500,2021-01-05
+Karang (Reef-Associated),Kerapu,2021,5,925,2021-01-05
+Pelagis Besar,ikan pedang,2021,5,325,2021-01-05
+Karang (Reef-Associated),kuwe,2021,5,7750,2021-01-05
+Demersal,Pari,2021,6,650,2021-01-06
+Pelagis Besar,Marlin,2021,6,14500,2021-01-06
+Demersal,Manyung,2021,6,950,2021-01-06
+Pelagis Besar,layaran,2021,6,5750,2021-01-06
+Pelagis Kecil,Layur,2021,6,9500,2021-01-06
+Pelagis Kecil,Peperek,2021,6,3250,2021-01-06
+Pelagis Besar,Lemadang,2021,6,9350,2021-01-06
+Pelagis Besar,Swanggi,2021,6,525,2021-01-06
+jumlah,,2021,6,342861,2021-01-06
+Demersal,Tambakan,2021,6,200,2021-01-06
+Pelagis Kecil,Tembang,2021,6,194,2021-01-06
+Pelagis Besar,Tenggiri,2021,6,1300,2021-01-06
+Pelagis Kecil,Tetengkek,2021,6,125,2021-01-06
+Pelagis Besar,Tongkol,2021,6,26150,2021-01-06
+Pelagis Besar,Tuna Sirip Kuning,2021,6,106750,2021-01-06
+Pelagis Besar,Tuna Mata Besar,2021,6,1150,2021-01-06
+Pelagis Kecil,Teri,2021,6,0,2021-01-06
+Pelagis Kecil,Layang,2021,6,21250,2021-01-06
+Pelagis Kecil,Selar,2021,6,5250,2021-01-06
+Pelagis Kecil,Laosan,2021,6,4000,2021-01-06
+Pelagis Kecil,Kapas kapas,2021,6,1675,2021-01-06
+Demersal,Kuniran/biji nangka,2021,6,325,2021-01-06
+Pelagis Besar,Alu Alu/baracuda,2021,6,346,2021-01-06
+Karang (Reef-Associated),Ayam ayam,2021,6,900,2021-01-06
+Pelagis Besar,Bawal laut,2021,6,100,2021-01-06
+Pelagis Kecil,Bentong,2021,6,4000,2021-01-06
+Demersal,Kurisi,2021,6,675,2021-01-06
+Demersal,Cucut,2021,6,89,2021-01-06
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,6,6800,2021-01-06
+Demersal,Golok golok,2021,6,850,2021-01-06
+Pelagis Besar,Cakalang,2021,6,105750,2021-01-06
+Pelagis Besar,ikan pedang,2021,6,750,2021-01-06
+Demersal,Ikan sebelah,2021,6,200,2021-01-06
+Pelagis Kecil,Japuh,2021,6,232,2021-01-06
+Karang (Reef-Associated),Jenaha,2021,6,250,2021-01-06
+Karang (Reef-Associated),Kakap Merah,2021,6,1450,2021-01-06
+Pelagis Kecil,Kembung,2021,6,3000,2021-01-06
+Karang (Reef-Associated),Kerapu,2021,6,500,2021-01-06
+Karang (Reef-Associated),kuwe,2021,6,3125,2021-01-06
+Demersal,Gulamah/Tigawaja/Samgeh,2021,6,1000,2021-01-06
+Demersal,Pari,2021,7,425,2021-01-07
+Pelagis Besar,Marlin,2021,7,26250,2021-01-07
+Demersal,Manyung,2021,7,1450,2021-01-07
+Pelagis Kecil,Peperek,2021,7,3250,2021-01-07
+Pelagis Kecil,Layur,2021,7,13250,2021-01-07
+Pelagis Besar,layaran,2021,7,3500,2021-01-07
+jumlah,,2021,7,6367065,2021-01-07
+Pelagis Besar,Lemadang,2021,7,17250,2021-01-07
+Pelagis Besar,Swanggi,2021,7,325,2021-01-07
+Pelagis Kecil,Layang,2021,7,39500,2021-01-07
+Demersal,Tambakan,2021,7,425,2021-01-07
+Pelagis Kecil,Tembang,2021,7,195,2021-01-07
+Pelagis Besar,Tenggiri,2021,7,2725,2021-01-07
+Pelagis Kecil,Tetengkek,2021,7,6625,2021-01-07
+Pelagis Besar,Tongkol,2021,7,31175,2021-01-07
+Pelagis Besar,Tuna Sirip Kuning,2021,7,225150,2021-01-07
+Pelagis Besar,Tuna Mata Besar,2021,7,1050,2021-01-07
+Pelagis Kecil,Teri,2021,7,0,2021-01-07
+Pelagis Kecil,Selar,2021,7,4000,2021-01-07
+Pelagis Kecil,Laosan,2021,7,5000,2021-01-07
+Karang (Reef-Associated),kuwe,2021,7,4500,2021-01-07
+Demersal,Kuniran/biji nangka,2021,7,500,2021-01-07
+Pelagis Besar,Alu Alu/baracuda,2021,7,446,2021-01-07
+Karang (Reef-Associated),Ayam ayam,2021,7,3250,2021-01-07
+Pelagis Besar,Bawal laut,2021,7,225,2021-01-07
+Pelagis Kecil,Bentong,2021,7,7250,2021-01-07
+Pelagis Besar,Cakalang,2021,7,198500,2021-01-07
+Demersal,Cucut,2021,7,120,2021-01-07
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,7,23875,2021-01-07
+Demersal,Golok golok,2021,7,750,2021-01-07
+Demersal,Kurisi,2021,7,1000,2021-01-07
+Pelagis Besar,ikan pedang,2021,7,1600,2021-01-07
+Demersal,Ikan sebelah,2021,7,525,2021-01-07
+Pelagis Kecil,Japuh,2021,7,233,2021-01-07
+Karang (Reef-Associated),Jenaha,2021,7,1000,2021-01-07
+Karang (Reef-Associated),Kakap Merah,2021,7,975,2021-01-07
+Pelagis Kecil,Kapas kapas,2021,7,2250,2021-01-07
+Pelagis Kecil,Kembung,2021,7,10500,2021-01-07
+Karang (Reef-Associated),Kerapu,2021,7,375,2021-01-07
+Demersal,Gulamah/Tigawaja/Samgeh,2021,7,3250,2021-01-07
+Pelagis Kecil,Peperek,2021,8,1750,2021-01-08
+Demersal,Pari,2021,8,650,2021-01-08
+Pelagis Kecil,Layur,2021,8,19325,2021-01-08
+Demersal,Manyung,2021,8,445,2021-01-08
+Pelagis Besar,Lemadang,2021,8,14500,2021-01-08
+Pelagis Besar,Swanggi,2021,8,100,2021-01-08
+Pelagis Besar,Marlin,2021,8,9000,2021-01-08
+Pelagis Kecil,Selar,2021,8,2250,2021-01-08
+Pelagis Besar,Tongkol,2021,8,9025,2021-01-08
+Pelagis Kecil,Tembang,2021,8,196,2021-01-08
+Pelagis Besar,Tenggiri,2021,8,1975,2021-01-08
+Pelagis Kecil,Tetengkek,2021,8,750,2021-01-08
+Pelagis Besar,Tuna Sirip Kuning,2021,8,164650,2021-01-08
+Pelagis Besar,Tuna Mata Besar,2021,8,1250,2021-01-08
+Pelagis Kecil,Teri,2021,8,0,2021-01-08
+jumlah,,2021,8,424188,2021-01-08
+Pelagis Besar,layaran,2021,8,1750,2021-01-08
+Demersal,Tambakan,2021,8,150,2021-01-08
+Pelagis Kecil,Layang,2021,8,18500,2021-01-08
+Pelagis Kecil,Laosan,2021,8,61625,2021-01-08
+Pelagis Besar,Alu Alu/baracuda,2021,8,247,2021-01-08
+Demersal,Kurisi,2021,8,700,2021-01-08
+Karang (Reef-Associated),Ayam ayam,2021,8,1625,2021-01-08
+Pelagis Besar,Bawal laut,2021,8,125,2021-01-08
+Pelagis Kecil,Bentong,2021,8,3500,2021-01-08
+Pelagis Besar,Cakalang,2021,8,135500,2021-01-08
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,8,11650,2021-01-08
+Demersal,Golok golok,2021,8,225,2021-01-08
+Demersal,Gulamah/Tigawaja/Samgeh,2021,8,2375,2021-01-08
+Pelagis Besar,ikan pedang,2021,8,675,2021-01-08
+Demersal,Cucut,2021,8,111,2021-01-08
+Pelagis Kecil,Japuh,2021,8,214,2021-01-08
+Demersal,Ikan sebelah,2021,8,1375,2021-01-08
+Karang (Reef-Associated),kuwe,2021,8,2250,2021-01-08
+Karang (Reef-Associated),Kerapu,2021,8,275,2021-01-08
+Pelagis Kecil,Kembung,2021,8,7750,2021-01-08
+Demersal,Kuniran/biji nangka,2021,8,725,2021-01-08
+Karang (Reef-Associated),Kakap Merah,2021,8,925,2021-01-08
+Karang (Reef-Associated),Jenaha,2021,8,750,2021-01-08
+Pelagis Kecil,Kapas kapas,2021,8,2000,2021-01-08
+Pelagis Besar,Swanggi,2021,9,700,2021-01-09
+Pelagis Besar,layaran,2021,9,1250,2021-01-09
+Pelagis Kecil,Layur,2021,9,24000,2021-01-09
+Pelagis Besar,Lemadang,2021,9,21750,2021-01-09
+Demersal,Manyung,2021,9,500,2021-01-09
+Pelagis Besar,Marlin,2021,9,4500,2021-01-09
+Demersal,Pari,2021,9,475,2021-01-09
+Pelagis Kecil,Peperek,2021,9,1850,2021-01-09
+Pelagis Kecil,Selar,2021,9,2500,2021-01-09
+Pelagis Kecil,Layang,2021,9,13250,2021-01-09
+Pelagis Kecil,Tembang,2021,9,157,2021-01-09
+Pelagis Besar,Tenggiri,2021,9,1225,2021-01-09
+Pelagis Kecil,Tetengkek,2021,9,550,2021-01-09
+Pelagis Besar,Tongkol,2021,9,10950,2021-01-09
+Pelagis Besar,Tuna Sirip Kuning,2021,9,156300,2021-01-09
+Pelagis Besar,Tuna Mata Besar,2021,9,1200,2021-01-09
+Pelagis Kecil,Teri,2021,9,0,2021-01-09
+jumlah,,2021,9,448537,2021-01-09
+Demersal,Tambakan,2021,9,350,2021-01-09
+Pelagis Kecil,Laosan,2021,9,7900,2021-01-09
+Pelagis Besar,Alu Alu/baracuda,2021,9,248,2021-01-09
+Demersal,Kuniran/biji nangka,2021,9,650,2021-01-09
+Demersal,Kurisi,2021,9,1000,2021-01-09
+Karang (Reef-Associated),Ayam ayam,2021,9,750,2021-01-09
+Pelagis Besar,Bawal laut,2021,9,300,2021-01-09
+Pelagis Kecil,Bentong,2021,9,4500,2021-01-09
+Pelagis Besar,Cakalang,2021,9,160250,2021-01-09
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,9,7500,2021-01-09
+Demersal,Golok golok,2021,9,850,2021-01-09
+Demersal,Gulamah/Tigawaja/Samgeh,2021,9,3000,2021-01-09
+Demersal,Cucut,2021,9,102,2021-01-09
+Demersal,Ikan sebelah,2021,9,950,2021-01-09
+Pelagis Kecil,Japuh,2021,9,205,2021-01-09
+Karang (Reef-Associated),Jenaha,2021,9,650,2021-01-09
+Karang (Reef-Associated),Kakap Merah,2021,9,925,2021-01-09
+Pelagis Kecil,Kapas kapas,2021,9,2250,2021-01-09
+Pelagis Kecil,Kembung,2021,9,11450,2021-01-09
+Karang (Reef-Associated),Kerapu,2021,9,425,2021-01-09
+Pelagis Besar,ikan pedang,2021,9,325,2021-01-09
+Karang (Reef-Associated),kuwe,2021,9,2800,2021-01-09
+Pelagis Kecil,Peperek,2021,10,3000,2021-01-10
+Demersal,Pari,2021,10,1075,2021-01-10
+Pelagis Besar,Marlin,2021,10,4000,2021-01-10
+Pelagis Besar,layaran,2021,10,17000,2021-01-10
+Pelagis Besar,Lemadang,2021,10,19625,2021-01-10
+Pelagis Kecil,Layur,2021,10,26000,2021-01-10
+Pelagis Besar,Swanggi,2021,10,600,2021-01-10
+Demersal,Manyung,2021,10,700,2021-01-10
+Pelagis Kecil,Selar,2021,10,175,2021-01-10
+jumlah,,2021,10,606544,2021-01-10
+Pelagis Kecil,Tembang,2021,10,228,2021-01-10
+Pelagis Besar,Tenggiri,2021,10,22913,2021-01-10
+Pelagis Kecil,Tetengkek,2021,10,1075,2021-01-10
+Pelagis Besar,Tongkol,2021,10,26925,2021-01-10
+Pelagis Besar,Tuna Sirip Kuning,2021,10,193800,2021-01-10
+Pelagis Besar,Tuna Mata Besar,2021,10,2320,2021-01-10
+Pelagis Kecil,Teri,2021,10,0,2021-01-10
+Pelagis Kecil,Layang,2021,10,2375,2021-01-10
+Demersal,Tambakan,2021,10,375,2021-01-10
+Pelagis Kecil,Laosan,2021,10,7625,2021-01-10
+Pelagis Besar,Alu Alu/baracuda,2021,10,349,2021-01-10
+Demersal,Kuniran/biji nangka,2021,10,800,2021-01-10
+Karang (Reef-Associated),Ayam ayam,2021,10,775,2021-01-10
+Pelagis Besar,Bawal laut,2021,10,2425,2021-01-10
+Pelagis Kecil,Bentong,2021,10,750,2021-01-10
+Pelagis Besar,Cakalang,2021,10,213750,2021-01-10
+Demersal,Cucut,2021,10,133,2021-01-10
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,10,13125,2021-01-10
+Demersal,Golok golok,2021,10,1400,2021-01-10
+Demersal,Gulamah/Tigawaja/Samgeh,2021,10,3250,2021-01-10
+Demersal,Kurisi,2021,10,1625,2021-01-10
+Demersal,Ikan sebelah,2021,10,975,2021-01-10
+Pelagis Kecil,Japuh,2021,10,226,2021-01-10
+Karang (Reef-Associated),Jenaha,2021,10,675,2021-01-10
+Karang (Reef-Associated),Kakap Merah,2021,10,18950,2021-01-10
+Pelagis Kecil,Kapas kapas,2021,10,425,2021-01-10
+Pelagis Kecil,Kembung,2021,10,10450,2021-01-10
+Karang (Reef-Associated),Kerapu,2021,10,1250,2021-01-10
+Karang (Reef-Associated),kuwe,2021,10,4550,2021-01-10
+Pelagis Besar,ikan pedang,2021,10,850,2021-01-10
+Demersal,Pari,2021,11,1200,2021-01-11
+Pelagis Besar,Marlin,2021,11,14425,2021-01-11
+Pelagis Besar,layaran,2021,11,20400,2021-01-11
+Pelagis Besar,Lemadang,2021,11,21875,2021-01-11
+Pelagis Kecil,Layur,2021,11,28500,2021-01-11
+Pelagis Kecil,Peperek,2021,11,3550,2021-01-11
+Demersal,Manyung,2021,11,925,2021-01-11
+Pelagis Besar,Swanggi,2021,11,725,2021-01-11
+Pelagis Kecil,Tetengkek,2021,11,1575,2021-01-11
+Demersal,Tambakan,2021,11,625,2021-01-11
+Pelagis Kecil,Tembang,2021,11,329,2021-01-11
+Pelagis Besar,Tenggiri,2021,11,28413,2021-01-11
+Pelagis Besar,Tongkol,2021,11,29425,2021-01-11
+Pelagis Besar,Tuna Sirip Kuning,2021,11,218800,2021-01-11
+Pelagis Besar,Tuna Mata Besar,2021,11,3580,2021-01-11
+Pelagis Kecil,Teri,2021,11,0,2021-01-11
+Pelagis Kecil,Layang,2021,11,3625,2021-01-11
+Pelagis Kecil,Selar,2021,11,425,2021-01-11
+jumlah,,2021,11,706328,2021-01-11
+Pelagis Kecil,Laosan,2021,11,7525,2021-01-11
+Demersal,Kuniran/biji nangka,2021,11,875,2021-01-11
+Demersal,Kurisi,2021,11,2125,2021-01-11
+Pelagis Besar,Alu Alu/baracuda,2021,11,590,2021-01-11
+Karang (Reef-Associated),Ayam ayam,2021,11,775,2021-01-11
+Pelagis Besar,Bawal laut,2021,11,4475,2021-01-11
+Pelagis Kecil,Bentong,2021,11,125,2021-01-11
+Demersal,Cucut,2021,11,164,2021-01-11
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,11,18625,2021-01-11
+Demersal,Golok golok,2021,11,1650,2021-01-11
+Demersal,Gulamah/Tigawaja/Samgeh,2021,11,3500,2021-01-11
+Pelagis Besar,Cakalang,2021,11,239375,2021-01-11
+Demersal,Ikan sebelah,2021,11,1025,2021-01-11
+Pelagis Besar,ikan pedang,2021,11,950,2021-01-11
+Karang (Reef-Associated),Kerapu,2021,11,1825,2021-01-11
+Pelagis Kecil,Kembung,2021,11,10950,2021-01-11
+Pelagis Kecil,Kapas kapas,2021,11,225,2021-01-11
+Karang (Reef-Associated),kuwe,2021,11,9800,2021-01-11
+Karang (Reef-Associated),Jenaha,2021,11,925,2021-01-11
+Pelagis Kecil,Japuh,2021,11,227,2021-01-11
+Karang (Reef-Associated),Kakap Merah,2021,11,22200,2021-01-11
+Pelagis Kecil,Peperek,2021,12,3300,2021-01-12
+jumlah,,2021,12,579005,2021-01-12
+Pelagis Besar,layaran,2021,12,10900,2021-01-12
+Pelagis Kecil,Layur,2021,12,29000,2021-01-12
+Pelagis Besar,Lemadang,2021,12,14375,2021-01-12
+Demersal,Manyung,2021,12,675,2021-01-12
+Pelagis Besar,Marlin,2021,12,14175,2021-01-12
+Demersal,Pari,2021,12,1025,2021-01-12
+Pelagis Besar,Swanggi,2021,12,475,2021-01-12
+Pelagis Kecil,Layang,2021,12,3250,2021-01-12
+Demersal,Tambakan,2021,12,375,2021-01-12
+Pelagis Kecil,Tembang,2021,12,330,2021-01-12
+Pelagis Besar,Tenggiri,2021,12,30413,2021-01-12
+Pelagis Kecil,Tetengkek,2021,12,1325,2021-01-12
+Pelagis Besar,Tongkol,2021,12,31925,2021-01-12
+Pelagis Besar,Tuna Sirip Kuning,2021,12,171300,2021-01-12
+Pelagis Besar,Tuna Mata Besar,2021,12,3340,2021-01-12
+Pelagis Kecil,Teri,2021,12,0,2021-01-12
+Pelagis Kecil,Selar,2021,12,250,2021-01-12
+Pelagis Kecil,Laosan,2021,12,9100,2021-01-12
+Karang (Reef-Associated),kuwe,2021,12,7800,2021-01-12
+Demersal,Kuniran/biji nangka,2021,12,675,2021-01-12
+Demersal,Kurisi,2021,12,1300,2021-01-12
+Pelagis Besar,Alu Alu/baracuda,2021,12,591,2021-01-12
+Karang (Reef-Associated),Ayam ayam,2021,12,525,2021-01-12
+Pelagis Besar,Bawal laut,2021,12,2225,2021-01-12
+Pelagis Besar,Cakalang,2021,12,205125,2021-01-12
+Demersal,Cucut,2021,12,165,2021-01-12
+Pelagis Kecil,Ekor kuning/Pisang-pisang/sunglir/salem,2021,12,3625,2021-01-12
+Demersal,Golok golok,2021,12,900,2021-01-12
+Pelagis Kecil,Bentong,2021,12,375,2021-01-12
+Pelagis Besar,ikan pedang,2021,12,450,2021-01-12
+Demersal,Ikan sebelah,2021,12,525,2021-01-12
+Pelagis Kecil,Japuh,2021,12,228,2021-01-12
+Karang (Reef-Associated),Jenaha,2021,12,425,2021-01-12
+Karang (Reef-Associated),Kakap Merah,2021,12,18875,2021-01-12
+Pelagis Kecil,Kapas kapas,2021,12,725,2021-01-12
+Pelagis Kecil,Kembung,2021,12,3500,2021-01-12
+Karang (Reef-Associated),Kerapu,2021,12,1888,2021-01-12
+Demersal,Gulamah/Tigawaja/Samgeh,2021,12,3550,2021-01-12
+Demersal,Selar Bentong,2022,1,8016,2022-01-01
+Pelagis Kecil,Sebelah,2022,1,3220,2022-01-01
+Karang (Reef-Associated),Pisang-pisang,2022,1,31500,2022-01-01
+Pelagis Kecil,Pinjalo,2022,1,490,2022-01-01
+Demersal,Marlin,2022,1,2400,2022-01-01
+Demersal,Pedang,2022,1,131625,2022-01-01
+Pelagis Kecil,Pari,2022,1,26688,2022-01-01
+Pelagis Besar,Nyunglas,2022,1,134,2022-01-01
+Pelagis Kecil,Selar Kuning,2022,1,1240,2022-01-01
+Pelagis Besar,Peperek,2022,1,10010,2022-01-01
+Pelagis Kecil,Swanggi,2022,1,1089,2022-01-01
+Pelagis Besar,Tuna Mata Besar,2022,1,2969275,2022-01-01
+Pelagis Besar,Tenggiri Papan,2022,1,45225,2022-01-01
+Pelagis Besar,Tetengkek,2022,1,213675,2022-01-01
+Pelagis Kecil,Tongkol,2022,1,462,2022-01-01
+Pelagis Besar,Tongkol Abu-Abu,2022,1,3465,2022-01-01
+Pelagis Besar,Tongkol Komo,2022,1,4620,2022-01-01
+Pelagis Besar,Tongkol Kray,2022,1,5775,2022-01-01
+Pelagis Besar,Tongkol Lisong,2022,1,7700,2022-01-01
+Pelagis Kecil,Lencam,2022,1,11385,2022-01-01
+Pelagis Besar,Tuna Sirip Kuning,2022,1,66690,2022-01-01
+jumlah,,2022,1,443480325,2022-01-01
+Pelagis Besar,Tenggiri,2022,1,670,2022-01-01
+Pelagis Besar,Lemadang,2022,1,30288,2022-01-01
+Demersal,Manyung,2022,1,3780,2022-01-01
+Pelagis Besar,layaran,2022,1,660,2022-01-01
+Pelagis Kecil,Layur,2022,1,15840,2022-01-01
+Pelagis Besar,Bawal laut,2022,1,148,2022-01-01
+Pelagis Besar,Cakalang,2022,1,12854635,2022-01-01
+Pelagis Besar,Cendro,2022,1,10692,2022-01-01
+Pelagis Kecil,Ekor kuning,2022,1,1386,2022-01-01
+Demersal,Gabus Laut,2022,1,12375,2022-01-01
+Demersal,Gerot Gerot,2022,1,46035,2022-01-01
+Demersal,Golok golok,2022,1,32175,2022-01-01
+Demersal,Gulamah/Tigawaja/Samgeh,2022,1,6435,2022-01-01
+Karang (Reef-Associated),Kakap,2022,1,975,2022-01-01
+Karang (Reef-Associated),Kakap Batu,2022,1,2340,2022-01-01
+Karang (Reef-Associated),Kakap Jenaha,2022,1,1365,2022-01-01
+Karang (Reef-Associated),Ayam ayam,2022,1,57646,2022-01-01
+Pelagis Kecil,Kapas kapas/Bagas,2022,1,1728,2022-01-01
+Karang (Reef-Associated),Kakap Merah,2022,1,990,2022-01-01
+Karang (Reef-Associated),kuwe gerong,2022,1,1232,2022-01-01
+Karang (Reef-Associated),kuwe,2022,1,3388,2022-01-01
+Pelagis Kecil,Kuro/Senangin/laosan,2022,1,8910,2022-01-01
+Pelagis Kecil,Layang,2022,1,215915,2022-01-01
+Demersal,Kuniran/biji nangka,2022,1,3663,2022-01-01
+Karang (Reef-Associated),Kerapu,2022,1,32175,2022-01-01
+Pelagis Kecil,Kembung Perempuan,2022,1,2695,2022-01-01
+Pelagis Kecil,Kembung Lelaki,2022,1,5005,2022-01-01
+Demersal,Kurisi,2022,1,28215,2022-01-01
+jumlah,,2022,2,419620425,2022-01-02
+Demersal,Selar Bentong,2022,2,10000,2022-01-02
+Demersal,Marlin,2022,2,2120,2022-01-02
+Pelagis Besar,Nyunglas,2022,2,420,2022-01-02
+Pelagis Kecil,Pari,2022,2,3090,2022-01-02
+Demersal,Pedang,2022,2,38775,2022-01-02
+Pelagis Besar,Peperek,2022,2,8960,2022-01-02
+Pelagis Kecil,Pinjalo,2022,2,252,2022-01-02
+Karang (Reef-Associated),Pisang-pisang,2022,2,36400,2022-01-02
+Pelagis Kecil,Sebelah,2022,2,2100,2022-01-02
+Pelagis Kecil,Selar Kuning,2022,2,3360,2022-01-02
+Pelagis Kecil,Tongkol,2022,2,957,2022-01-02
+Pelagis Besar,Tenggiri,2022,2,700,2022-01-02
+Pelagis Besar,Tenggiri Papan,2022,2,480,2022-01-02
+Pelagis Besar,Tetengkek,2022,2,783,2022-01-02
+Pelagis Besar,Tongkol Abu-Abu,2022,2,2175,2022-01-02
+Pelagis Besar,Tongkol Komo,2022,2,4089,2022-01-02
+Pelagis Besar,Tongkol Kray,2022,2,5220,2022-01-02
+Pelagis Besar,Tongkol Lisong,2022,2,105705,2022-01-02
+Pelagis Besar,Tuna Mata Besar,2022,2,146775,2022-01-02
+Pelagis Besar,Tuna Sirip Kuning,2022,2,75560625,2022-01-02
+Pelagis Kecil,Lencam,2022,2,885,2022-01-02
+Pelagis Kecil,Swanggi,2022,2,22715,2022-01-02
+Pelagis Besar,Lemadang,2022,2,20500,2022-01-02
+Demersal,Manyung,2022,2,2660,2022-01-02
+Pelagis Besar,layaran,2022,2,11045,2022-01-02
+Karang (Reef-Associated),Ayam ayam,2022,2,3432,2022-01-02
+Pelagis Besar,Bawal laut,2022,2,260,2022-01-02
+Pelagis Besar,Cakalang,2022,2,11486475,2022-01-02
+Pelagis Besar,Cendro,2022,2,826,2022-01-02
+Pelagis Kecil,Ekor kuning,2022,2,2360,2022-01-02
+Demersal,Gabus Laut,2022,2,1180,2022-01-02
+Demersal,Gerot Gerot,2022,2,6313,2022-01-02
+Demersal,Golok golok,2022,2,4130,2022-01-02
+Demersal,Gulamah/Tigawaja/Samgeh,2022,2,5900,2022-01-02
+Karang (Reef-Associated),Kakap,2022,2,544,2022-01-02
+Karang (Reef-Associated),Kakap Batu,2022,2,1156,2022-01-02
+Pelagis Kecil,Layur,2022,2,14927,2022-01-02
+Karang (Reef-Associated),Kakap Merah,2022,2,12095,2022-01-02
+Pelagis Kecil,Kapas kapas/Bagas,2022,2,1455,2022-01-02
+Pelagis Kecil,Kembung Lelaki,2022,2,10005,2022-01-02
+Pelagis Kecil,Kembung Perempuan,2022,2,5220,2022-01-02
+Karang (Reef-Associated),Kerapu,2022,2,1711,2022-01-02
+Demersal,Kuniran/biji nangka,2022,2,2537,2022-01-02
+Demersal,Kurisi,2022,2,2478,2022-01-02
+Pelagis Kecil,Kuro/Senangin/laosan,2022,2,7729,2022-01-02
+Karang (Reef-Associated),kuwe,2022,2,31755,2022-01-02
+Karang (Reef-Associated),kuwe gerong,2022,2,957,2022-01-02
+Pelagis Kecil,Layang,2022,2,18560,2022-01-02
+Karang (Reef-Associated),Kakap Jenaha,2022,2,9248,2022-01-02
+Karang (Reef-Associated),Pisang-pisang,2022,3,28840,2022-01-03
+Pelagis Kecil,Pinjalo,2022,3,630,2022-01-03
+Pelagis Besar,Peperek,2022,3,11200,2022-01-03
+Demersal,Pedang,2022,3,50625,2022-01-03
+Pelagis Kecil,Lencam,2022,3,91575,2022-01-03
+Pelagis Besar,Nyunglas,2022,3,268,2022-01-03
+Demersal,Marlin,2022,3,1800,2022-01-03
+Demersal,Manyung,2022,3,2415,2022-01-03
+Pelagis Kecil,Sebelah,2022,3,2800,2022-01-03
+Pelagis Kecil,Pari,2022,3,3456,2022-01-03
+Demersal,Selar Bentong,2022,3,15840,2022-01-03
+Pelagis Kecil,Tongkol,2022,3,24255,2022-01-03
+Pelagis Kecil,Swanggi,2022,3,241065,2022-01-03
+Pelagis Besar,Tenggiri,2022,3,45225,2022-01-03
+Pelagis Besar,Tenggiri Papan,2022,3,3685,2022-01-03
+Pelagis Besar,Tetengkek,2022,3,10395,2022-01-03
+Pelagis Besar,Tongkol Abu-Abu,2022,3,308,2022-01-03
+Pelagis Besar,Tongkol Komo,2022,3,78155,2022-01-03
+Pelagis Besar,Tongkol Kray,2022,3,4235,2022-01-03
+Pelagis Besar,Tongkol Lisong,2022,3,798875,2022-01-03
+Pelagis Besar,Tuna Mata Besar,2022,3,446176,2022-01-03
+Pelagis Besar,Tuna Sirip Kuning,2022,3,107730,2022-01-03
+Pelagis Besar,Lemadang,2022,3,34080,2022-01-03
+Pelagis Kecil,Selar Kuning,2022,3,3720,2022-01-03
+jumlah,,2022,3,6005205,2022-01-03
+Pelagis Kecil,Layur,2022,3,15444,2022-01-03
+Pelagis Kecil,Layang,2022,3,320354,2022-01-03
+Pelagis Besar,layaran,2022,3,1276,2022-01-03
+Karang (Reef-Associated),Ayam ayam,2022,3,35816,2022-01-03
+Pelagis Besar,Bawal laut,2022,3,185,2022-01-03
+Pelagis Besar,Cakalang,2022,3,2057765,2022-01-03
+Pelagis Besar,Cendro,2022,3,18711,2022-01-03
+Pelagis Kecil,Ekor kuning,2022,3,21582,2022-01-03
+Demersal,Gerot Gerot,2022,3,41085,2022-01-03
+Demersal,Golok golok,2022,3,31779,2022-01-03
+Demersal,Gulamah/Tigawaja/Samgeh,2022,3,5841,2022-01-03
+Karang (Reef-Associated),Kakap,2022,3,689,2022-01-03
+Karang (Reef-Associated),Kakap Batu,2022,3,1170,2022-01-03
+Demersal,Gabus Laut,2022,3,19305,2022-01-03
+Karang (Reef-Associated),Kakap Merah,2022,3,86625,2022-01-03
+Karang (Reef-Associated),Kakap Jenaha,2022,3,1144,2022-01-03
+Karang (Reef-Associated),kuwe,2022,3,50435,2022-01-03
+Pelagis Kecil,Kuro/Senangin/laosan,2022,3,44055,2022-01-03
+Demersal,Kurisi,2022,3,25245,2022-01-03
+Demersal,Kuniran/biji nangka,2022,3,3465,2022-01-03
+Karang (Reef-Associated),kuwe gerong,2022,3,16555,2022-01-03
+Pelagis Kecil,Kembung Perempuan,2022,3,7161,2022-01-03
+Pelagis Kecil,Kembung Lelaki,2022,3,83545,2022-01-03
+Pelagis Kecil,Kapas kapas/Bagas,2022,3,1368,2022-01-03
+Karang (Reef-Associated),Kerapu,2022,3,160875,2022-01-03
+Pelagis Kecil,Selar Kuning,2022,4,4929,2022-01-04
+Demersal,Manyung,2022,4,3710,2022-01-04
+Demersal,Marlin,2022,4,2715,2022-01-04
+Pelagis Kecil,Pari,2022,4,2640,2022-01-04
+Demersal,Pedang,2022,4,729,2022-01-04
+Pelagis Besar,Peperek,2022,4,12670,2022-01-04
+Pelagis Kecil,Pinjalo,2022,4,1190,2022-01-04
+Karang (Reef-Associated),Pisang-pisang,2022,4,42560,2022-01-04
+Pelagis Kecil,Sebelah,2022,4,1946,2022-01-04
+Demersal,Selar Bentong,2022,4,23328,2022-01-04
+Pelagis Kecil,Swanggi,2022,4,12375,2022-01-04
+Pelagis Kecil,Lencam,2022,4,17325,2022-01-04
+Pelagis Besar,Tenggiri Papan,2022,4,51925,2022-01-04
+Pelagis Besar,Tetengkek,2022,4,7931,2022-01-04
+Pelagis Kecil,Tongkol,2022,4,5005,2022-01-04
+Pelagis Besar,Tongkol Abu-Abu,2022,4,1925,2022-01-04
+Pelagis Besar,Tongkol Komo,2022,4,92785,2022-01-04
+Pelagis Besar,Tongkol Kray,2022,4,7931,2022-01-04
+Pelagis Besar,Tongkol Lisong,2022,4,6699,2022-01-04
+Pelagis Besar,Tuna Mata Besar,2022,4,35359375,2022-01-04
+Pelagis Besar,Tuna Sirip Kuning,2022,4,1201275,2022-01-04
+jumlah,,2022,4,611530675,2022-01-04
+Pelagis Besar,Tenggiri,2022,4,5695,2022-01-04
+Pelagis Besar,Lemadang,2022,4,38640,2022-01-04
+Pelagis Besar,Nyunglas,2022,4,45225,2022-01-04
+Pelagis Besar,layaran,2022,4,1760,2022-01-04
+Pelagis Besar,Bawal laut,2022,4,407,2022-01-04
+Pelagis Besar,Cakalang,2022,4,184943,2022-01-04
+Pelagis Besar,Cendro,2022,4,17226,2022-01-04
+Pelagis Kecil,Ekor kuning,2022,4,18315,2022-01-04
+Demersal,Gabus Laut,2022,4,2079,2022-01-04
+Demersal,Gerot Gerot,2022,4,33858,2022-01-04
+Demersal,Golok golok,2022,4,36135,2022-01-04
+Demersal,Gulamah/Tigawaja/Samgeh,2022,4,57915,2022-01-04
+Karang (Reef-Associated),Kakap,2022,4,2171,2022-01-04
+Karang (Reef-Associated),Kakap Batu,2022,4,1365,2022-01-04
+Karang (Reef-Associated),Kakap Jenaha,2022,4,1365,2022-01-04
+Karang (Reef-Associated),Ayam ayam,2022,4,48766,2022-01-04
+Pelagis Kecil,Kapas kapas/Bagas,2022,4,2544,2022-01-04
+Pelagis Kecil,Kembung Lelaki,2022,4,11935,2022-01-04
+Pelagis Kecil,Kembung Perempuan,2022,4,10780,2022-01-04
+Karang (Reef-Associated),Kerapu,2022,4,9405,2022-01-04
+Demersal,Kuniran/biji nangka,2022,4,25245,2022-01-04
+Demersal,Kurisi,2022,4,18612,2022-01-04
+Pelagis Kecil,Kuro/Senangin/laosan,2022,4,3069,2022-01-04
+Pelagis Kecil,Layur,2022,4,120285,2022-01-04
+Karang (Reef-Associated),kuwe,2022,4,45045,2022-01-04
+Karang (Reef-Associated),kuwe gerong,2022,4,847,2022-01-04
+Pelagis Kecil,Layang,2022,4,23498,2022-01-04
+Karang (Reef-Associated),Kakap Merah,2022,4,12375,2022-01-04
+Pelagis Kecil,Sebelah,2022,5,2240,2022-01-05
+Karang (Reef-Associated),Pisang-pisang,2022,5,27559,2022-01-05
+Pelagis Kecil,Pinjalo,2022,5,630,2022-01-05
+Pelagis Besar,Peperek,2022,5,6160,2022-01-05
+Demersal,Manyung,2022,5,2240,2022-01-05
+Pelagis Kecil,Pari,2022,5,15748,2022-01-05
+Pelagis Besar,Nyunglas,2022,5,4899,2022-01-05
+Demersal,Marlin,2022,5,2288,2022-01-05
+Demersal,Selar Bentong,2022,5,77216,2022-01-05
+Demersal,Pedang,2022,5,5456,2022-01-05
+Pelagis Kecil,Selar Kuning,2022,5,22624,2022-01-05
+Pelagis Besar,Tongkol Abu-Abu,2022,5,5811,2022-01-05
+Pelagis Besar,Tenggiri,2022,5,4473,2022-01-05
+Pelagis Besar,Tenggiri Papan,2022,5,39405,2022-01-05
+Pelagis Besar,Tetengkek,2022,5,75096,2022-01-05
+Pelagis Kecil,Tongkol,2022,5,1699494,2022-01-05
+Pelagis Besar,Tongkol Komo,2022,5,72414,2022-01-05
+Pelagis Besar,Tongkol Kray,2022,5,59004,2022-01-05
+Pelagis Besar,Tongkol Lisong,2022,5,380844,2022-01-05
+Pelagis Besar,Tuna Mata Besar,2022,5,201579,2022-01-05
+Pelagis Besar,Tuna Sirip Kuning,2022,5,7654245,2022-01-05
+jumlah,,2022,5,40353775,2022-01-05
+Pelagis Kecil,Lencam,2022,5,6512,2022-01-05
+Pelagis Kecil,Swanggi,2022,5,11248,2022-01-05
+Pelagis Besar,Lemadang,2022,5,184912,2022-01-05
+Pelagis Kecil,Layur,2022,5,7696,2022-01-05
+Pelagis Besar,layaran,2022,5,11086,2022-01-05
+Karang (Reef-Associated),Ayam ayam,2022,5,43672,2022-01-05
+Pelagis Besar,Bawal laut,2022,5,206,2022-01-05
+Pelagis Besar,Cakalang,2022,5,11870385,2022-01-05
+Pelagis Besar,Cendro,2022,5,1776,2022-01-05
+Pelagis Kecil,Ekor kuning,2022,5,1184,2022-01-05
+Demersal,Gabus Laut,2022,5,34336,2022-01-05
+Demersal,Golok golok,2022,5,196544,2022-01-05
+Demersal,Gulamah/Tigawaja/Samgeh,2022,5,30784,2022-01-05
+Karang (Reef-Associated),Kakap,2022,5,986,2022-01-05
+Karang (Reef-Associated),Kakap Batu,2022,5,21586,2022-01-05
+Karang (Reef-Associated),Kakap Jenaha,2022,5,1088,2022-01-05
+Demersal,Gerot Gerot,2022,5,2072,2022-01-05
+Pelagis Kecil,Kapas kapas/Bagas,2022,5,198792,2022-01-05
+Karang (Reef-Associated),Kakap Merah,2022,5,12432,2022-01-05
+Karang (Reef-Associated),kuwe gerong,2022,5,18327,2022-01-05
+Karang (Reef-Associated),kuwe,2022,5,32631,2022-01-05
+Pelagis Kecil,Kuro/Senangin/laosan,2022,5,46768,2022-01-05
+Demersal,Kurisi,2022,5,279424,2022-01-05
+Pelagis Kecil,Layang,2022,5,149884,2022-01-05
+Karang (Reef-Associated),Kerapu,2022,5,14208,2022-01-05
+Pelagis Kecil,Kembung Perempuan,2022,5,91188,2022-01-05
+Pelagis Kecil,Kembung Lelaki,2022,5,488124,2022-01-05
+Demersal,Kuniran/biji nangka,2022,5,265216,2022-01-05
+Demersal,Selar Bentong,2022,6,79248,2022-01-06
+Demersal,Manyung,2022,6,2590,2022-01-06
+Demersal,Marlin,2022,6,2354,2022-01-06
+Pelagis Besar,Nyunglas,2022,6,2343,2022-01-06
+Pelagis Kecil,Pari,2022,6,232156,2022-01-06
+Demersal,Pedang,2022,6,744,2022-01-06
+Pelagis Besar,Peperek,2022,6,5180,2022-01-06
+Pelagis Kecil,Pinjalo,2022,6,840,2022-01-06
+Karang (Reef-Associated),Pisang-pisang,2022,6,37870,2022-01-06
+Pelagis Kecil,Sebelah,2022,6,2870,2022-01-06
+Pelagis Kecil,Selar Kuning,2022,6,25048,2022-01-06
+jumlah,,2022,6,461133655,2022-01-06
+Pelagis Besar,Tenggiri,2022,6,60705,2022-01-06
+Pelagis Besar,Tenggiri Papan,2022,6,2982,2022-01-06
+Pelagis Besar,Tetengkek,2022,6,693,2022-01-06
+Pelagis Kecil,Tongkol,2022,6,125664,2022-01-06
+Pelagis Besar,Tongkol Abu-Abu,2022,6,12936,2022-01-06
+Pelagis Besar,Tongkol Komo,2022,6,95634,2022-01-06
+Pelagis Besar,Tongkol Kray,2022,6,75768,2022-01-06
+Pelagis Besar,Tongkol Lisong,2022,6,4851,2022-01-06
+Pelagis Besar,Tuna Mata Besar,2022,6,1222263,2022-01-06
+Pelagis Besar,Tuna Sirip Kuning,2022,6,86973345,2022-01-06
+Pelagis Kecil,Lencam,2022,6,13062,2022-01-06
+Pelagis Kecil,Swanggi,2022,6,14306,2022-01-06
+Pelagis Besar,Lemadang,2022,6,256032,2022-01-06
+Pelagis Kecil,Layur,2022,6,126266,2022-01-06
+Pelagis Besar,layaran,2022,6,11327,2022-01-06
+Pelagis Besar,Bawal laut,2022,6,1442,2022-01-06
+Pelagis Besar,Cakalang,2022,6,15504447,2022-01-06
+Pelagis Besar,Cendro,2022,6,1555,2022-01-06
+Pelagis Kecil,Ekor kuning,2022,6,2177,2022-01-06
+Demersal,Gabus Laut,2022,6,19282,2022-01-06
+Demersal,Gerot Gerot,2022,6,16483,2022-01-06
+Demersal,Golok golok,2022,6,299804,2022-01-06
+Demersal,Gulamah/Tigawaja/Samgeh,2022,6,38564,2022-01-06
+Karang (Reef-Associated),Kakap,2022,6,1587,2022-01-06
+Karang (Reef-Associated),Kakap Batu,2022,6,3765,2022-01-06
+Karang (Reef-Associated),Kakap Jenaha,2022,6,621,2022-01-06
+Karang (Reef-Associated),Ayam ayam,2022,6,8652,2022-01-06
+Pelagis Kecil,Kapas kapas/Bagas,2022,6,22088,2022-01-06
+Pelagis Kecil,Kembung Lelaki,2022,6,104412,2022-01-06
+Pelagis Kecil,Kembung Perempuan,2022,6,38346,2022-01-06
+Karang (Reef-Associated),Kerapu,2022,6,1555,2022-01-06
+Demersal,Kuniran/biji nangka,2022,6,16794,2022-01-06
+Demersal,Kurisi,2022,6,215212,2022-01-06
+Pelagis Kecil,Kuro/Senangin/laosan,2022,6,62822,2022-01-06
+Karang (Reef-Associated),kuwe,2022,6,1617,2022-01-06
+Karang (Reef-Associated),kuwe gerong,2022,6,16632,2022-01-06
+Pelagis Kecil,Layang,2022,6,145642,2022-01-06
+Karang (Reef-Associated),Kakap Merah,2022,6,16794,2022-01-06
+Demersal,Selar Bentong,2022,7,55328,2022-01-07
+Pelagis Kecil,Sebelah,2022,7,2240,2022-01-07
+Karang (Reef-Associated),Pisang-pisang,2022,7,29400,2022-01-07
+Pelagis Kecil,Pinjalo,2022,7,1190,2022-01-07
+Demersal,Marlin,2022,7,3854,2022-01-07
+Demersal,Pedang,2022,7,61575,2022-01-07
+Pelagis Kecil,Pari,2022,7,216448,2022-01-07
+Pelagis Besar,Nyunglas,2022,7,36872,2022-01-07
+Pelagis Kecil,Selar Kuning,2022,7,18841,2022-01-07
+Pelagis Besar,Peperek,2022,7,4830,2022-01-07
+Pelagis Kecil,Swanggi,2022,7,13806,2022-01-07
+Pelagis Besar,Tongkol Abu-Abu,2022,7,2368,2022-01-07
+Pelagis Besar,Tenggiri Papan,2022,7,41481,2022-01-07
+Pelagis Besar,Tetengkek,2022,7,4736,2022-01-07
+Pelagis Kecil,Tongkol,2022,7,14708,2022-01-07
+Pelagis Besar,Tongkol Komo,2022,7,61272,2022-01-07
+Pelagis Besar,Tongkol Kray,2022,7,48544,2022-01-07
+Pelagis Besar,Tongkol Lisong,2022,7,59792,2022-01-07
+Pelagis Besar,Tuna Mata Besar,2022,7,6188595,2022-01-07
+Pelagis Besar,Tuna Sirip Kuning,2022,7,117583305,2022-01-07
+jumlah,,2022,7,5072078,2022-01-07
+Demersal,Manyung,2022,7,3150,2022-01-07
+Pelagis Besar,Tenggiri,2022,7,87571,2022-01-07
+Pelagis Kecil,Lencam,2022,7,4602,2022-01-07
+Pelagis Besar,Lemadang,2022,7,233472,2022-01-07
+Karang (Reef-Associated),Ayam ayam,2022,7,39902,2022-01-07
+Pelagis Kecil,Layur,2022,7,109681,2022-01-07
+Pelagis Besar,Bawal laut,2022,7,281,2022-01-07
+Pelagis Besar,Cakalang,2022,7,2073435,2022-01-07
+Pelagis Besar,Cendro,2022,7,129623,2022-01-07
+Pelagis Kecil,Ekor kuning,2022,7,20709,2022-01-07
+Demersal,Gabus Laut,2022,7,16874,2022-01-07
+Demersal,Gerot Gerot,2022,7,16107,2022-01-07
+Demersal,Gulamah/Tigawaja/Samgeh,2022,7,41418,2022-01-07
+Karang (Reef-Associated),Kakap,2022,7,14965,2022-01-07
+Karang (Reef-Associated),Kakap Batu,2022,7,67368,2022-01-07
+Karang (Reef-Associated),Kakap Jenaha,2022,7,9198,2022-01-07
+Demersal,Golok golok,2022,7,21476,2022-01-07
+Pelagis Kecil,Kapas kapas/Bagas,2022,7,199206,2022-01-07
+Karang (Reef-Associated),Kakap Merah,2022,7,159536,2022-01-07
+Pelagis Kecil,Layang,2022,7,119402,2022-01-07
+Karang (Reef-Associated),kuwe gerong,2022,7,170496,2022-01-07
+Karang (Reef-Associated),kuwe,2022,7,17168,2022-01-07
+Pelagis Kecil,Kuro/Senangin/laosan,2022,7,49088,2022-01-07
+Pelagis Besar,layaran,2022,7,232812,2022-01-07
+Demersal,Kuniran/biji nangka,2022,7,174876,2022-01-07
+Karang (Reef-Associated),Kerapu,2022,7,1534,2022-01-07
+Pelagis Kecil,Kembung Perempuan,2022,7,40848,2022-01-07
+Pelagis Kecil,Kembung Lelaki,2022,7,70448,2022-01-07
+Demersal,Kurisi,2022,7,335946,2022-01-07
+Demersal,Selar Bentong,2022,8,4872,2022-01-08
+Demersal,Manyung,2022,8,1406,2022-01-08
+Demersal,Marlin,2022,8,3180,2022-01-08
+Pelagis Besar,Nyunglas,2022,8,77585,2022-01-08
+Pelagis Kecil,Pari,2022,8,4176,2022-01-08
+Demersal,Pedang,2022,8,1350,2022-01-08
+Pelagis Besar,Peperek,2022,8,3496,2022-01-08
+Pelagis Kecil,Pinjalo,2022,8,494,2022-01-08
+Karang (Reef-Associated),Pisang-pisang,2022,8,21280,2022-01-08
+Pelagis Kecil,Sebelah,2022,8,950,2022-01-08
+Pelagis Kecil,Selar Kuning,2022,8,420,2022-01-08
+Pelagis Kecil,Lencam,2022,8,5916,2022-01-08
+Pelagis Besar,Tenggiri,2022,8,354,2022-01-08
+Pelagis Besar,Tenggiri Papan,2022,8,413,2022-01-08
+Pelagis Besar,Tetengkek,2022,8,5871,2022-01-08
+Pelagis Kecil,Tongkol,2022,8,89952,2022-01-08
+Pelagis Besar,Tongkol Abu-Abu,2022,8,5253,2022-01-08
+Pelagis Besar,Tongkol Komo,2022,8,24102,2022-01-08
+Pelagis Besar,Tongkol Kray,2022,8,3399,2022-01-08
+Pelagis Besar,Tongkol Lisong,2022,8,2472,2022-01-08
+Pelagis Besar,Tuna Mata Besar,2022,8,418278,2022-01-08
+Pelagis Besar,Tuna Sirip Kuning,2022,8,7947282,2022-01-08
+jumlah,,2022,8,45644477,2022-01-08
+Pelagis Kecil,Swanggi,2022,8,9048,2022-01-08
+Pelagis Besar,Lemadang,2022,8,9744,2022-01-08
+Pelagis Kecil,Layur,2022,8,114144,2022-01-08
+Pelagis Besar,layaran,2022,8,1888,2022-01-08
+Karang (Reef-Associated),Ayam ayam,2022,8,53784,2022-01-08
+Pelagis Besar,Bawal laut,2022,8,2656,2022-01-08
+Pelagis Besar,Cakalang,2022,8,2571372,2022-01-08
+Pelagis Besar,Cendro,2022,8,348,2022-01-08
+Pelagis Kecil,Ekor kuning,2022,8,1044,2022-01-08
+Demersal,Gabus Laut,2022,8,14268,2022-01-08
+Demersal,Golok golok,2022,8,10092,2022-01-08
+Demersal,Gulamah/Tigawaja/Samgeh,2022,8,14616,2022-01-08
+Karang (Reef-Associated),Kakap,2022,8,10416,2022-01-08
+Karang (Reef-Associated),Kakap Batu,2022,8,4425,2022-01-08
+Karang (Reef-Associated),Kakap Jenaha,2022,8,372,2022-01-08
+Demersal,Gerot Gerot,2022,8,2262,2022-01-08
+Pelagis Kecil,Kapas kapas/Bagas,2022,8,13356,2022-01-08
+Karang (Reef-Associated),Kakap Merah,2022,8,9048,2022-01-08
+Karang (Reef-Associated),kuwe gerong,2022,8,11433,2022-01-08
+Karang (Reef-Associated),kuwe,2022,8,9579,2022-01-08
+Pelagis Kecil,Kuro/Senangin/laosan,2022,8,27492,2022-01-08
+Demersal,Kurisi,2022,8,9048,2022-01-08
+Pelagis Kecil,Layang,2022,8,127575,2022-01-08
+Karang (Reef-Associated),Kerapu,2022,8,5568,2022-01-08
+Pelagis Kecil,Kembung Perempuan,2022,8,16377,2022-01-08
+Pelagis Kecil,Kembung Lelaki,2022,8,19467,2022-01-08
+Demersal,Kuniran/biji nangka,2022,8,14616,2022-01-08
+Demersal,Selar Bentong,2022,9,1465044,2022-01-09
+Demersal,Manyung,2022,9,2100,2022-01-09
+Demersal,Marlin,2022,9,3840,2022-01-09
+Pelagis Besar,Nyunglas,2022,9,7228,2022-01-09
+Pelagis Kecil,Pari,2022,9,14338,2022-01-09
+Demersal,Pedang,2022,9,4695,2022-01-09
+Pelagis Besar,Peperek,2022,9,3960,2022-01-09
+Pelagis Kecil,Pinjalo,2022,9,475,2022-01-09
+Karang (Reef-Associated),Pisang-pisang,2022,9,27700,2022-01-09
+Pelagis Kecil,Sebelah,2022,9,1000,2022-01-09
+Pelagis Kecil,Selar Kuning,2022,9,4876,2022-01-09
+jumlah,,2022,9,4944528438,2022-01-09
+Pelagis Besar,Tenggiri,2022,9,3614,2022-01-09
+Pelagis Besar,Tenggiri Papan,2022,9,10286,2022-01-09
+Pelagis Besar,Tetengkek,2022,9,10956,2022-01-09
+Pelagis Kecil,Tongkol,2022,9,7304,2022-01-09
+Pelagis Besar,Tongkol Abu-Abu,2022,9,2822,2022-01-09
+Pelagis Besar,Tongkol Komo,2022,9,20916,2022-01-09
+Pelagis Besar,Tongkol Kray,2022,9,57436,2022-01-09
+Pelagis Besar,Tongkol Lisong,2022,9,3984,2022-01-09
+Pelagis Besar,Tuna Mata Besar,2022,9,3557651,2022-01-09
+Pelagis Besar,Tuna Sirip Kuning,2022,9,5382737275,2022-01-09
+Pelagis Kecil,Lencam,2022,9,33712,2022-01-09
+Pelagis Kecil,Swanggi,2022,9,19208,2022-01-09
+Pelagis Besar,Lemadang,2022,9,473368,2022-01-09
+Pelagis Kecil,Layur,2022,9,16072,2022-01-09
+Pelagis Besar,layaran,2022,9,23577,2022-01-09
+Pelagis Besar,Bawal laut,2022,9,494,2022-01-09
+Pelagis Besar,Cakalang,2022,9,223713,2022-01-09
+Pelagis Besar,Cendro,2022,9,6272,2022-01-09
+Pelagis Kecil,Ekor kuning,2022,9,11368,2022-01-09
+Demersal,Gabus Laut,2022,9,14112,2022-01-09
+Demersal,Gerot Gerot,2022,9,29792,2022-01-09
+Demersal,Golok golok,2022,9,20384,2022-01-09
+Demersal,Gulamah/Tigawaja/Samgeh,2022,9,22344,2022-01-09
+Karang (Reef-Associated),Kakap,2022,9,1598,2022-01-09
+Karang (Reef-Associated),Kakap Batu,2022,9,29786,2022-01-09
+Karang (Reef-Associated),Kakap Jenaha,2022,9,705,2022-01-09
+Karang (Reef-Associated),Ayam ayam,2022,9,71782,2022-01-09
+Pelagis Kecil,Kapas kapas/Bagas,2022,9,34888,2022-01-09
+Pelagis Kecil,Kembung Lelaki,2022,9,30544,2022-01-09
+Pelagis Kecil,Kembung Perempuan,2022,9,982388,2022-01-09
+Karang (Reef-Associated),Kerapu,2022,9,9408,2022-01-09
+Demersal,Kuniran/biji nangka,2022,9,13328,2022-01-09
+Demersal,Kurisi,2022,9,12152,2022-01-09
+Pelagis Kecil,Kuro/Senangin/laosan,2022,9,20776,2022-01-09
+Karang (Reef-Associated),kuwe,2022,9,71048,2022-01-09
+Karang (Reef-Associated),kuwe gerong,2022,9,277884,2022-01-09
+Pelagis Kecil,Layang,2022,9,218784,2022-01-09
+Karang (Reef-Associated),Kakap Merah,2022,9,784,2022-01-09
+Demersal,Selar Bentong,2022,10,23465,2022-01-10
+Pelagis Kecil,Sebelah,2022,10,994,2022-01-10
+Karang (Reef-Associated),Pisang-pisang,2022,10,27230,2022-01-10
+Pelagis Kecil,Pinjalo,2022,10,7700,2022-01-10
+Demersal,Marlin,2022,10,2040,2022-01-10
+Demersal,Pedang,2022,10,2115,2022-01-10
+Pelagis Kecil,Pari,2022,10,1250,2022-01-10
+Pelagis Besar,Nyunglas,2022,10,352,2022-01-10
+Pelagis Kecil,Selar Kuning,2022,10,3800,2022-01-10
+Pelagis Besar,Peperek,2022,10,6020,2022-01-10
+Pelagis Kecil,Swanggi,2022,10,1550,2022-01-10
+Pelagis Besar,Tongkol Abu-Abu,2022,10,360,2022-01-10
+Pelagis Besar,Tenggiri Papan,2022,10,820,2022-01-10
+Pelagis Besar,Tetengkek,2022,10,1840,2022-01-10
+Pelagis Kecil,Tongkol,2022,10,880,2022-01-10
+Pelagis Besar,Tongkol Komo,2022,10,1024,2022-01-10
+Pelagis Besar,Tongkol Kray,2022,10,2400,2022-01-10
+Pelagis Besar,Tongkol Lisong,2022,10,20504,2022-01-10
+Pelagis Besar,Tuna Mata Besar,2022,10,5170,2022-01-10
+Pelagis Besar,Tuna Sirip Kuning,2022,10,736725,2022-01-10
+jumlah,,2022,10,66771025,2022-01-10
+Demersal,Manyung,2022,10,2009,2022-01-10
+Pelagis Besar,Tenggiri,2022,10,360,2022-01-10
+Pelagis Kecil,Lencam,2022,10,5535,2022-01-10
+Pelagis Besar,Lemadang,2022,10,41800,2022-01-10
+Karang (Reef-Associated),Ayam ayam,2022,10,1800,2022-01-10
+Pelagis Besar,Bawal laut,2022,10,4640,2022-01-10
+Pelagis Besar,Cakalang,2022,10,24363325,2022-01-10
+Pelagis Besar,Cendro,2022,10,6050,2022-01-10
+Pelagis Kecil,Ekor kuning,2022,10,6750,2022-01-10
+Demersal,Gabus Laut,2022,10,3145,2022-01-10
+Demersal,Gerot Gerot,2022,10,4000,2022-01-10
+Demersal,Golok golok,2022,10,6230,2022-01-10
+Demersal,Gulamah/Tigawaja/Samgeh,2022,10,8450,2022-01-10
+Karang (Reef-Associated),Kakap,2022,10,7995,2022-01-10
+Karang (Reef-Associated),Kakap Batu,2022,10,1225,2022-01-10
+Karang (Reef-Associated),Kakap Jenaha,2022,10,7670,2022-01-10
+Pelagis Kecil,Layur,2022,10,20430,2022-01-10
+Pelagis Kecil,Kapas kapas/Bagas,2022,10,13130,2022-01-10
+Pelagis Kecil,Kembung Lelaki,2022,10,20504,2022-01-10
+Pelagis Kecil,Kembung Perempuan,2022,10,9300,2022-01-10
+Karang (Reef-Associated),Kerapu,2022,10,6540,2022-01-10
+Demersal,Kuniran/biji nangka,2022,10,3500,2022-01-10
+Demersal,Kurisi,2022,10,6300,2022-01-10
+Pelagis Kecil,Kuro/Senangin/laosan,2022,10,3400,2022-01-10
+Karang (Reef-Associated),kuwe,2022,10,7068,2022-01-10
+Karang (Reef-Associated),kuwe gerong,2022,10,5312,2022-01-10
+Pelagis Kecil,Layang,2022,10,31970,2022-01-10
+Pelagis Besar,layaran,2022,10,1081,2022-01-10
+Karang (Reef-Associated),Kakap Merah,2022,10,6600,2022-01-10
+Pelagis Kecil,Sebelah,2022,11,1610,2022-01-11
+Karang (Reef-Associated),Pisang-pisang,2022,11,22890,2022-01-11
+Pelagis Kecil,Pinjalo,2022,11,10745,2022-01-11
+Pelagis Besar,Peperek,2022,11,10640,2022-01-11
+Demersal,Manyung,2022,11,1330,2022-01-11
+Pelagis Kecil,Pari,2022,11,2950,2022-01-11
+Pelagis Besar,Nyunglas,2022,11,2514,2022-01-11
+Demersal,Marlin,2022,11,1310,2022-01-11
+Demersal,Selar Bentong,2022,11,26630,2022-01-11
+Demersal,Pedang,2022,11,376,2022-01-11
+Pelagis Kecil,Selar Kuning,2022,11,6600,2022-01-11
+Pelagis Besar,Tongkol Abu-Abu,2022,11,1120,2022-01-11
+Pelagis Besar,Tenggiri,2022,11,2100,2022-01-11
+Pelagis Besar,Tenggiri Papan,2022,11,1158,2022-01-11
+Pelagis Besar,Tetengkek,2022,11,1720,2022-01-11
+Pelagis Kecil,Tongkol,2022,11,560,2022-01-11
+Pelagis Besar,Tongkol Komo,2022,11,2120,2022-01-11
+Pelagis Besar,Tongkol Kray,2022,11,2080,2022-01-11
+Pelagis Besar,Tongkol Lisong,2022,11,20040,2022-01-11
+Pelagis Besar,Tuna Mata Besar,2022,11,66147,2022-01-11
+Pelagis Besar,Tuna Sirip Kuning,2022,11,37259475,2022-01-11
+jumlah,,2022,11,60471835,2022-01-11
+Pelagis Kecil,Lencam,2022,11,970,2022-01-11
+Pelagis Kecil,Swanggi,2022,11,5750,2022-01-11
+Pelagis Kecil,Layur,2022,11,17765,2022-01-11
+Demersal,Kuniran/biji nangka,2022,11,7445,2022-01-11
+Pelagis Besar,layaran,2022,11,893,2022-01-11
+Karang (Reef-Associated),Ayam ayam,2022,11,6600,2022-01-11
+Pelagis Besar,Bawal laut,2022,11,680,2022-01-11
+Pelagis Besar,Cakalang,2022,11,207396175,2022-01-11
+Pelagis Besar,Cendro,2022,11,2900,2022-01-11
+Pelagis Kecil,Ekor kuning,2022,11,5925,2022-01-11
+Demersal,Gabus Laut,2022,11,1250,2022-01-11
+Pelagis Besar,Lemadang,2022,11,20600,2022-01-11
+Demersal,Golok golok,2022,11,7010,2022-01-11
+Demersal,Gulamah/Tigawaja/Samgeh,2022,11,3600,2022-01-11
+Karang (Reef-Associated),Kakap,2022,11,7670,2022-01-11
+Karang (Reef-Associated),Kakap Batu,2022,11,2744,2022-01-11
+Demersal,Gerot Gerot,2022,11,19780,2022-01-11
+Karang (Reef-Associated),Kakap Merah,2022,11,6380,2022-01-11
+Karang (Reef-Associated),Kakap Jenaha,2022,11,7189,2022-01-11
+Karang (Reef-Associated),kuwe gerong,2022,11,5164,2022-01-11
+Karang (Reef-Associated),kuwe,2022,11,2716,2022-01-11
+Pelagis Kecil,Kuro/Senangin/laosan,2022,11,24745,2022-01-11
+Demersal,Kurisi,2022,11,6400,2022-01-11
+Pelagis Kecil,Layang,2022,11,22884,2022-01-11
+Karang (Reef-Associated),Kerapu,2022,11,2500,2022-01-11
+Pelagis Kecil,Kembung Perempuan,2022,11,13300,2022-01-11
+Pelagis Kecil,Kembung Lelaki,2022,11,20040,2022-01-11
+Pelagis Kecil,Kapas kapas/Bagas,2022,11,12055,2022-01-11
+Demersal,Manyung,2022,12,2184,2022-01-12
+Demersal,Marlin,2022,12,2640,2022-01-12
+Pelagis Besar,Nyunglas,2022,12,396,2022-01-12
+Pelagis Kecil,Pari,2022,12,1600,2022-01-12
+Demersal,Pedang,2022,12,235,2022-01-12
+Pelagis Besar,Peperek,2022,12,6790,2022-01-12
+Pelagis Kecil,Pinjalo,2022,12,1610,2022-01-12
+Karang (Reef-Associated),Pisang-pisang,2022,12,28784,2022-01-12
+Pelagis Kecil,Sebelah,2022,12,1610,2022-01-12
+Demersal,Selar Bentong,2022,12,23940,2022-01-12
+Pelagis Kecil,Selar Kuning,2022,12,4200,2022-01-12
+Pelagis Kecil,Lencam,2022,12,1165,2022-01-12
+Pelagis Besar,Tenggiri,2022,12,420,2022-01-12
+Pelagis Besar,Tenggiri Papan,2022,12,1060,2022-01-12
+Pelagis Besar,Tetengkek,2022,12,2200,2022-01-12
+Pelagis Kecil,Tongkol,2022,12,1020,2022-01-12
+Pelagis Besar,Tongkol Abu-Abu,2022,12,1720,2022-01-12
+Pelagis Besar,Tongkol Komo,2022,12,2080,2022-01-12
+Pelagis Besar,Tongkol Kray,2022,12,3560,2022-01-12
+Pelagis Besar,Tongkol Lisong,2022,12,20920,2022-01-12
+Pelagis Besar,Tuna Mata Besar,2022,12,4860,2022-01-12
+Pelagis Besar,Tuna Sirip Kuning,2022,12,75000,2022-01-12
+jumlah,,2022,12,59405775,2022-01-12
+Pelagis Kecil,Swanggi,2022,12,2100,2022-01-12
+Pelagis Besar,Lemadang,2022,12,42125,2022-01-12
+Pelagis Kecil,Layur,2022,12,16015,2022-01-12
+Pelagis Besar,layaran,2022,12,177425,2022-01-12
+Karang (Reef-Associated),Ayam ayam,2022,12,1720,2022-01-12
+Pelagis Besar,Bawal laut,2022,12,800,2022-01-12
+Pelagis Besar,Cakalang,2022,12,2435125,2022-01-12
+Pelagis Besar,Cendro,2022,12,2000,2022-01-12
+Pelagis Kecil,Ekor kuning,2022,12,1750,2022-01-12
+Demersal,Gabus Laut,2022,12,3500,2022-01-12
+Demersal,Golok golok,2022,12,1250,2022-01-12
+Demersal,Gulamah/Tigawaja/Samgeh,2022,12,3500,2022-01-12
+Karang (Reef-Associated),Kakap,2022,12,1625,2022-01-12
+Karang (Reef-Associated),Kakap Batu,2022,12,735,2022-01-12
+Karang (Reef-Associated),Kakap Jenaha,2022,12,1235,2022-01-12
+Demersal,Gerot Gerot,2022,12,3000,2022-01-12
+Pelagis Kecil,Kapas kapas/Bagas,2022,12,9250,2022-01-12
+Karang (Reef-Associated),Kakap Merah,2022,12,2000,2022-01-12
+Karang (Reef-Associated),kuwe gerong,2022,12,1312,2022-01-12
+Karang (Reef-Associated),kuwe,2022,12,3000,2022-01-12
+Pelagis Kecil,Kuro/Senangin/laosan,2022,12,3500,2022-01-12
+Demersal,Kurisi,2022,12,1500,2022-01-12
+Pelagis Kecil,Layang,2022,12,29010,2022-01-12
+Karang (Reef-Associated),Kerapu,2022,12,2000,2022-01-12
+Pelagis Kecil,Kembung Perempuan,2022,12,7000,2022-01-12
+Pelagis Kecil,Kembung Lelaki,2022,12,19600,2022-01-12
+Demersal,Kuniran/biji nangka,2022,12,1250,2022-01-12
+Demersal,Selar Bentong ,2023,1,31872,2023-01-01
+Demersal,Manyung,2023,1,1530,2023-01-01
+Demersal,Marlin,2023,1,540,2023-01-01
+Pelagis Besar,Nyunglas ,2023,1,268,2023-01-01
+Pelagis Kecil,Pari,2023,1,276,2023-01-01
+Demersal,Pedang ,2023,1,8375,2023-01-01
+Pelagis Besar,Peperek,2023,1,2610,2023-01-01
+Pelagis Kecil,Pinjalo ,2023,1,270,2023-01-01
+Karang (Reef-Associated),Pisang-pisang ,2023,1,16560,2023-01-01
+Pelagis Kecil,Sebelah ,2023,1,1170,2023-01-01
+Pelagis Kecil,Selar Kuning ,2023,1,1116,2023-01-01
+jumlah,,2023,1,35199885,2023-01-01
+Pelagis Besar,Tenggiri ,2023,1,3015,2023-01-01
+Pelagis Besar,Tenggiri Papan ,2023,1,23785,2023-01-01
+Pelagis Besar,Tetengkek ,2023,1,61473,2023-01-01
+Pelagis Kecil,Tongkol ,2023,1,51429,2023-01-01
+Pelagis Besar,Tongkol Abu-abu ,2023,1,53475,2023-01-01
+Pelagis Besar,Tongkol Banyar ,2023,1,6231,2023-01-01
+Pelagis Besar,Tongkol Komo ,2023,1,7347,2023-01-01
+Pelagis Besar,Tongkol Lisong ,2023,1,85095,2023-01-01
+Pelagis Besar,Tuna Mata Besar ,2023,1,3650,2023-01-01
+Pelagis Besar,Tuna Sirip Kuning,2023,1,262515,2023-01-01
+Pelagis Kecil,Lencam ,2023,1,38745,2023-01-01
+Pelagis Kecil,Swanggi ,2023,1,5535,2023-01-01
+Pelagis Besar,Lemadang ,2023,1,10944,2023-01-01
+Pelagis Kecil,Layur ,2023,1,19844,2023-01-01
+Pelagis Besar,Layaran ,2023,1,518,2023-01-01
+Pelagis Besar,Bawal Laut,2023,1,1125,2023-01-01
+Pelagis Besar,Cakalang ,2023,1,113643,2023-01-01
+Pelagis Besar,Cendro ,2023,1,3198,2023-01-01
+Pelagis Kecil,Ekor Kuning ,2023,1,7257,2023-01-01
+Demersal,Gabus Laut ,2023,1,246,2023-01-01
+Demersal,Gerot-gerot ,2023,1,96555,2023-01-01
+Demersal,Golok-golok ,2023,1,9225,2023-01-01
+Demersal,Gulamah ,2023,1,1230,2023-01-01
+Karang (Reef-Associated),Kakap ,2023,1,498,2023-01-01
+Karang (Reef-Associated),Kakap Batu ,2023,1,1079,2023-01-01
+Karang (Reef-Associated),Kakap Jenaha ,2023,1,4399,2023-01-01
+Karang (Reef-Associated),Ayam-ayam,2023,1,5346,2023-01-01
+Pelagis Kecil,Kapas-kapas ,2023,1,6660,2023-01-01
+Pelagis Kecil,Kembung Lelaki ,2023,1,5673,2023-01-01
+Pelagis Kecil,Kembung Perempuan ,2023,1,24645,2023-01-01
+Karang (Reef-Associated),Kerapu,2023,1,17466,2023-01-01
+Demersal,Kuniran,2023,1,12915,2023-01-01
+Demersal,Kurisi ,2023,1,6642,2023-01-01
+Pelagis Kecil,Kuro,2023,1,8733,2023-01-01
+Karang (Reef-Associated),Kuwe ,2023,1,830955,2023-01-01
+Karang (Reef-Associated),Kuwe Gerong ,2023,1,6975,2023-01-01
+Pelagis Kecil,Layang ,2023,1,361274,2023-01-01
+Karang (Reef-Associated),Kakap Merah ,2023,1,181425,2023-01-01
+Demersal,Selar Bentong ,2023,2,129518,2023-01-02
+Pelagis Kecil,Sebelah ,2023,2,1431,2023-01-02
+Karang (Reef-Associated),Pisang-pisang ,2023,2,28602,2023-01-02
+Pelagis Kecil,Pinjalo ,2023,2,207,2023-01-02
+Demersal,Marlin,2023,2,1292,2023-01-02
+Demersal,Pedang ,2023,2,262,2023-01-02
+Pelagis Kecil,Pari,2023,2,5084,2023-01-02
+Pelagis Besar,Nyunglas ,2023,2,220,2023-01-02
+Pelagis Kecil,Selar Kuning ,2023,2,960,2023-01-02
+Pelagis Besar,Peperek,2023,2,1440,2023-01-02
+Pelagis Kecil,Swanggi ,2023,2,9088,2023-01-02
+Pelagis Besar,Tongkol Abu-abu ,2023,2,58195,2023-01-02
+Pelagis Besar,Tenggiri Papan ,2023,2,280,2023-01-02
+Pelagis Besar,Tetengkek ,2023,2,610275,2023-01-02
+Pelagis Kecil,Tongkol ,2023,2,55002,2023-01-02
+Pelagis Besar,Tongkol Banyar ,2023,2,64375,2023-01-02
+Pelagis Besar,Tongkol Komo ,2023,2,71585,2023-01-02
+Pelagis Besar,Tongkol Lisong ,2023,2,8240,2023-01-02
+Pelagis Besar,Tuna Mata Besar ,2023,2,4750,2023-01-02
+Pelagis Besar,Tuna Sirip Kuning,2023,2,258363,2023-01-02
+jumlah,,2023,2,2929737475,2023-01-02
+Demersal,Manyung,2023,2,1170,2023-01-02
+Pelagis Besar,Tenggiri ,2023,2,260,2023-01-02
+Pelagis Kecil,Lencam ,2023,2,355,2023-01-02
+Pelagis Besar,Lemadang ,2023,2,61725,2023-01-02
+Karang (Reef-Associated),Ayam-ayam,2023,2,2496,2023-01-02
+Pelagis Besar,Bawal Laut,2023,2,384,2023-01-02
+Pelagis Besar,Cakalang ,2023,2,591146475,2023-01-02
+Pelagis Besar,Cendro ,2023,2,2627,2023-01-02
+Pelagis Kecil,Ekor Kuning ,2023,2,497,2023-01-02
+Demersal,Gabus Laut ,2023,2,568,2023-01-02
+Demersal,Gerot-gerot ,2023,2,143207,2023-01-02
+Demersal,Golok-golok ,2023,2,852,2023-01-02
+Demersal,Gulamah ,2023,2,10295,2023-01-02
+Karang (Reef-Associated),Kakap ,2023,2,516,2023-01-02
+Karang (Reef-Associated),Kakap Batu ,2023,2,258,2023-01-02
+Karang (Reef-Associated),Kakap Jenaha ,2023,2,215,2023-01-02
+Pelagis Kecil,Layur ,2023,2,2870,2023-01-02
+Pelagis Kecil,Kapas-kapas ,2023,2,5203,2023-01-02
+Pelagis Kecil,Kembung Lelaki ,2023,2,824,2023-01-02
+Pelagis Kecil,Kembung Perempuan ,2023,2,1751,2023-01-02
+Karang (Reef-Associated),Kerapu,2023,2,639,2023-01-02
+Demersal,Kuniran,2023,2,568,2023-01-02
+Demersal,Kurisi ,2023,2,7597,2023-01-02
+Pelagis Kecil,Kuro,2023,2,10082,2023-01-02
+Karang (Reef-Associated),Kuwe ,2023,2,1970905,2023-01-02
+Karang (Reef-Associated),Kuwe Gerong ,2023,2,618,2023-01-02
+Pelagis Kecil,Layang ,2023,2,322016,2023-01-02
+Pelagis Besar,Layaran ,2023,2,600,2023-01-02
+Karang (Reef-Associated),Kakap Merah ,2023,2,568,2023-01-02
+Pelagis Kecil,Sebelah ,2023,3,1260,2023-01-03
+Karang (Reef-Associated),Pisang-pisang ,2023,3,32328,2023-01-03
+Pelagis Kecil,Pinjalo ,2023,3,315,2023-01-03
+Pelagis Besar,Peperek,2023,3,2097,2023-01-03
+Demersal,Manyung,2023,3,1152,2023-01-03
+Pelagis Kecil,Pari,2023,3,450,2023-01-03
+Pelagis Besar,Nyunglas ,2023,3,2211,2023-01-03
+Demersal,Marlin,2023,3,855,2023-01-03
+Demersal,Selar Bentong ,2023,3,8688,2023-01-03
+Demersal,Pedang ,2023,3,239525,2023-01-03
+Pelagis Kecil,Selar Kuning ,2023,3,961,2023-01-03
+Pelagis Besar,Tongkol Abu-abu ,2023,3,50127,2023-01-03
+Pelagis Besar,Tenggiri ,2023,3,16415,2023-01-03
+Pelagis Besar,Tenggiri Papan ,2023,3,30485,2023-01-03
+Pelagis Besar,Tetengkek ,2023,3,5301,2023-01-03
+Pelagis Kecil,Tongkol ,2023,3,505455,2023-01-03
+Pelagis Besar,Tongkol Banyar ,2023,3,6603,2023-01-03
+Pelagis Besar,Tongkol Komo ,2023,3,5952,2023-01-03
+Pelagis Besar,Tongkol Lisong ,2023,3,80445,2023-01-03
+Pelagis Besar,Tuna Mata Besar ,2023,3,36135,2023-01-03
+Pelagis Besar,Tuna Sirip Kuning,2023,3,33081,2023-01-03
+jumlah,,2023,3,34304377,2023-01-03
+Pelagis Kecil,Lencam ,2023,3,5289,2023-01-03
+Pelagis Kecil,Swanggi ,2023,3,4305,2023-01-03
+Pelagis Kecil,Layur ,2023,3,902,2023-01-03
+Demersal,Kuniran,2023,3,162975,2023-01-03
+Pelagis Besar,Layaran ,2023,3,3515,2023-01-03
+Karang (Reef-Associated),Ayam-ayam,2023,3,2070,2023-01-03
+Pelagis Besar,Bawal Laut,2023,3,540,2023-01-03
+Pelagis Besar,Cakalang ,2023,3,85632795,2023-01-03
+Pelagis Besar,Cendro ,2023,3,1476,2023-01-03
+Pelagis Kecil,Ekor Kuning ,2023,3,1476,2023-01-03
+Demersal,Gabus Laut ,2023,3,94095,2023-01-03
+Pelagis Besar,Lemadang ,2023,3,17082,2023-01-03
+Demersal,Golok-golok ,2023,3,73185,2023-01-03
+Demersal,Gulamah ,2023,3,12915,2023-01-03
+Karang (Reef-Associated),Kakap ,2023,3,4399,2023-01-03
+Karang (Reef-Associated),Kakap Batu ,2023,3,1411,2023-01-03
+Demersal,Gerot-gerot ,2023,3,106641,2023-01-03
+Karang (Reef-Associated),Kakap Merah ,2023,3,64575,2023-01-03
+Karang (Reef-Associated),Kakap Jenaha ,2023,3,747,2023-01-03
+Karang (Reef-Associated),Kuwe Gerong ,2023,3,6975,2023-01-03
+Karang (Reef-Associated),Kuwe ,2023,3,1463355,2023-01-03
+Pelagis Kecil,Kuro,2023,3,101475,2023-01-03
+Demersal,Kurisi ,2023,3,682035,2023-01-03
+Pelagis Kecil,Layang ,2023,3,470859,2023-01-03
+Karang (Reef-Associated),Kerapu,2023,3,81795,2023-01-03
+Pelagis Kecil,Kembung Perempuan ,2023,3,8649,2023-01-03
+Pelagis Kecil,Kembung Lelaki ,2023,3,74865,2023-01-03
+Pelagis Kecil,Kapas-kapas ,2023,3,2754,2023-01-03
+Demersal,Manyung,2023,4,1440,2023-01-04
+Demersal,Marlin,2023,4,723,2023-01-04
+Pelagis Besar,Nyunglas ,2023,4,360125,2023-01-04
+Pelagis Kecil,Pari,2023,4,612,2023-01-04
+Demersal,Pedang ,2023,4,31825,2023-01-04
+Pelagis Besar,Peperek,2023,4,3888,2023-01-04
+Pelagis Kecil,Pinjalo ,2023,4,801,2023-01-04
+Karang (Reef-Associated),Pisang-pisang ,2023,4,20700,2023-01-04
+Pelagis Kecil,Sebelah ,2023,4,2943,2023-01-04
+Demersal,Selar Bentong ,2023,4,11100,2023-01-04
+Pelagis Kecil,Selar Kuning ,2023,4,11129,2023-01-04
+Pelagis Kecil,Lencam ,2023,4,4305,2023-01-04
+Pelagis Besar,Tenggiri ,2023,4,309875,2023-01-04
+Pelagis Besar,Tenggiri Papan ,2023,4,25125,2023-01-04
+Pelagis Besar,Tetengkek ,2023,4,57195,2023-01-04
+Pelagis Kecil,Tongkol ,2023,4,48081,2023-01-04
+Pelagis Besar,Tongkol Abu-abu ,2023,4,48825,2023-01-04
+Pelagis Besar,Tongkol Banyar ,2023,4,6231,2023-01-04
+Pelagis Besar,Tongkol Komo ,2023,4,66123,2023-01-04
+Pelagis Besar,Tongkol Lisong ,2023,4,738885,2023-01-04
+Pelagis Besar,Tuna Mata Besar ,2023,4,55115,2023-01-04
+Pelagis Besar,Tuna Sirip Kuning,2023,4,708255,2023-01-04
+jumlah,,2023,4,4138011,2023-01-04
+Pelagis Kecil,Swanggi ,2023,4,285975,2023-01-04
+Pelagis Besar,Lemadang ,2023,4,8010,2023-01-04
+Pelagis Kecil,Layur ,2023,4,4346,2023-01-04
+Pelagis Besar,Layaran ,2023,4,3145,2023-01-04
+Pelagis Besar,Bawal Laut,2023,4,180,2023-01-04
+Pelagis Besar,Cakalang ,2023,4,12777075,2023-01-04
+Pelagis Besar,Cendro ,2023,4,6273,2023-01-04
+Pelagis Kecil,Ekor Kuning ,2023,4,12915,2023-01-04
+Demersal,Gabus Laut ,2023,4,7995,2023-01-04
+Demersal,Gerot-gerot ,2023,4,140835,2023-01-04
+Demersal,Golok-golok ,2023,4,2091,2023-01-04
+Demersal,Gulamah ,2023,4,58425,2023-01-04
+Karang (Reef-Associated),Kakap ,2023,4,4814,2023-01-04
+Karang (Reef-Associated),Kakap Batu ,2023,4,581,2023-01-04
+Karang (Reef-Associated),Kakap Jenaha ,2023,4,8798,2023-01-04
+Karang (Reef-Associated),Ayam-ayam,2023,4,3420,2023-01-04
+Pelagis Kecil,Kapas-kapas ,2023,4,1620,2023-01-04
+Pelagis Kecil,Kembung Lelaki ,2023,4,6603,2023-01-04
+Pelagis Kecil,Kembung Perempuan ,2023,4,9021,2023-01-04
+Karang (Reef-Associated),Kerapu,2023,4,57195,2023-01-04
+Demersal,Kuniran,2023,4,2337,2023-01-04
+Demersal,Kurisi ,2023,4,78474,2023-01-04
+Pelagis Kecil,Kuro,2023,4,108117,2023-01-04
+Karang (Reef-Associated),Kuwe ,2023,4,550095,2023-01-04
+Karang (Reef-Associated),Kuwe Gerong ,2023,4,267375,2023-01-04
+Pelagis Kecil,Layang ,2023,4,29760,2023-01-04
+Karang (Reef-Associated),Kakap Merah ,2023,4,861,2023-01-04
+Demersal,Selar Bentong ,2023,5,16328,2023-01-05
+Pelagis Kecil,Sebelah ,2023,5,1080,2023-01-05
+Karang (Reef-Associated),Pisang-pisang ,2023,5,31230,2023-01-05
+Pelagis Kecil,Pinjalo ,2023,5,585,2023-01-05
+Demersal,Marlin,2023,5,1166,2023-01-05
+Demersal,Pedang ,2023,5,46008,2023-01-05
+Pelagis Kecil,Pari,2023,5,10676,2023-01-05
+Pelagis Besar,Nyunglas ,2023,5,2982,2023-01-05
+Pelagis Kecil,Selar Kuning ,2023,5,184224,2023-01-05
+Pelagis Besar,Peperek,2023,5,5517,2023-01-05
+Pelagis Kecil,Swanggi ,2023,5,22072,2023-01-05
+Pelagis Besar,Tongkol Abu-abu ,2023,5,111724,2023-01-05
+Pelagis Besar,Tenggiri Papan ,2023,5,47499,2023-01-05
+Pelagis Besar,Tetengkek ,2023,5,112251,2023-01-05
+Pelagis Kecil,Tongkol ,2023,5,114886,2023-01-05
+Pelagis Besar,Tongkol Banyar ,2023,5,1282718,2023-01-05
+Pelagis Besar,Tongkol Komo ,2023,5,132804,2023-01-05
+Pelagis Besar,Tongkol Lisong ,2023,5,125953,2023-01-05
+Pelagis Besar,Tuna Mata Besar ,2023,5,1624,2023-01-05
+Pelagis Besar,Tuna Sirip Kuning,2023,5,90522,2023-01-05
+jumlah,,2023,5,50868143,2023-01-05
+Demersal,Manyung,2023,5,1890,2023-01-05
+Pelagis Besar,Tenggiri ,2023,5,66882,2023-01-05
+Pelagis Kecil,Lencam ,2023,5,356,2023-01-05
+Pelagis Besar,Lemadang ,2023,5,125535,2023-01-05
+Karang (Reef-Associated),Ayam-ayam,2023,5,4674,2023-01-05
+Pelagis Kecil,Layur ,2023,5,2214,2023-01-05
+Pelagis Besar,Bawal Laut,2023,5,3444,2023-01-05
+Pelagis Besar,Cakalang ,2023,5,16417744,2023-01-05
+Pelagis Besar,Cendro ,2023,5,37024,2023-01-05
+Pelagis Kecil,Ekor Kuning ,2023,5,51976,2023-01-05
+Demersal,Gabus Laut ,2023,5,76896,2023-01-05
+Demersal,Gerot-gerot ,2023,5,1026704,2023-01-05
+Demersal,Gulamah ,2023,5,511928,2023-01-05
+Karang (Reef-Associated),Kakap ,2023,5,1032,2023-01-05
+Karang (Reef-Associated),Kakap Batu ,2023,5,1854,2023-01-05
+Karang (Reef-Associated),Kakap Jenaha ,2023,5,731,2023-01-05
+Demersal,Golok-golok ,2023,5,21004,2023-01-05
+Pelagis Kecil,Kapas-kapas ,2023,5,26746,2023-01-05
+Karang (Reef-Associated),Kakap Merah ,2023,5,9256,2023-01-05
+Pelagis Kecil,Layang ,2023,5,30906,2023-01-05
+Karang (Reef-Associated),Kuwe Gerong ,2023,5,25296,2023-01-05
+Karang (Reef-Associated),Kuwe ,2023,5,166532,2023-01-05
+Pelagis Kecil,Kuro,2023,5,57316,2023-01-05
+Pelagis Besar,Layaran ,2023,5,412,2023-01-05
+Demersal,Kuniran,2023,5,183696,2023-01-05
+Karang (Reef-Associated),Kerapu,2023,5,356,2023-01-05
+Pelagis Kecil,Kembung Perempuan ,2023,5,80104,2023-01-05
+Pelagis Kecil,Kembung Lelaki ,2023,5,99603,2023-01-05
+Demersal,Kurisi ,2023,5,297616,2023-01-05
+Demersal,Selar Bentong ,2023,6,116808,2023-01-06
+Demersal,Manyung,2023,6,2655,2023-01-06
+Demersal,Marlin,2023,6,1386,2023-01-06
+Pelagis Besar,Nyunglas ,2023,6,51759,2023-01-06
+Pelagis Kecil,Pari,2023,6,2826,2023-01-06
+Demersal,Pedang ,2023,6,6816,2023-01-06
+Pelagis Besar,Peperek,2023,6,7020,2023-01-06
+Pelagis Kecil,Pinjalo ,2023,6,747,2023-01-06
+Karang (Reef-Associated),Pisang-pisang ,2023,6,38610,2023-01-06
+Pelagis Kecil,Sebelah ,2023,6,2070,2023-01-06
+Pelagis Kecil,Selar Kuning ,2023,6,2424,2023-01-06
+Pelagis Kecil,Lencam ,2023,6,84588,2023-01-06
+Pelagis Besar,Tenggiri ,2023,6,27264,2023-01-06
+Pelagis Besar,Tenggiri Papan ,2023,6,143775,2023-01-06
+Pelagis Besar,Tetengkek ,2023,6,20054,2023-01-06
+Pelagis Kecil,Tongkol ,2023,6,13008,2023-01-06
+Pelagis Besar,Tongkol Abu-abu ,2023,6,8672,2023-01-06
+Pelagis Besar,Tongkol Banyar ,2023,6,36314,2023-01-06
+Pelagis Besar,Tongkol Komo ,2023,6,402164,2023-01-06
+Pelagis Besar,Tongkol Lisong ,2023,6,4878,2023-01-06
+Pelagis Besar,Tuna Mata Besar ,2023,6,33292,2023-01-06
+Pelagis Besar,Tuna Sirip Kuning,2023,6,1014681,2023-01-06
+jumlah,,2023,6,58853364,2023-01-06
+Pelagis Kecil,Swanggi ,2023,6,38584,2023-01-06
+Pelagis Besar,Lemadang ,2023,6,15600,2023-01-06
+Pelagis Kecil,Layur ,2023,6,10824,2023-01-06
+Pelagis Besar,Layaran ,2023,6,6386,2023-01-06
+Karang (Reef-Associated),Ayam-ayam,2023,6,61992,2023-01-06
+Pelagis Besar,Bawal Laut,2023,6,738,2023-01-06
+Pelagis Besar,Cakalang ,2023,6,2263576,2023-01-06
+Pelagis Besar,Cendro ,2023,6,97944,2023-01-06
+Pelagis Kecil,Ekor Kuning ,2023,6,15582,2023-01-06
+Demersal,Gabus Laut ,2023,6,212212,2023-01-06
+Demersal,Golok-golok ,2023,6,31164,2023-01-06
+Demersal,Gulamah ,2023,6,34132,2023-01-06
+Karang (Reef-Associated),Kakap ,2023,6,1566,2023-01-06
+Karang (Reef-Associated),Kakap Batu ,2023,6,42436,2023-01-06
+Karang (Reef-Associated),Kakap Jenaha ,2023,6,15138,2023-01-06
+Demersal,Gerot-gerot ,2023,6,171402,2023-01-06
+Pelagis Kecil,Kapas-kapas ,2023,6,4665,2023-01-06
+Karang (Reef-Associated),Kakap Merah ,2023,6,1113,2023-01-06
+Karang (Reef-Associated),Kuwe Gerong ,2023,6,182654,2023-01-06
+Karang (Reef-Associated),Kuwe ,2023,6,22764,2023-01-06
+Pelagis Kecil,Kuro,2023,6,41923,2023-01-06
+Demersal,Kurisi ,2023,6,39326,2023-01-06
+Pelagis Kecil,Layang ,2023,6,2772046,2023-01-06
+Karang (Reef-Associated),Kerapu,2023,6,76426,2023-01-06
+Pelagis Kecil,Kembung Perempuan ,2023,6,99186,2023-01-06
+Pelagis Kecil,Kembung Lelaki ,2023,6,16260,2023-01-06
+Demersal,Kuniran,2023,6,23002,2023-01-06
+Demersal,Selar Bentong ,2023,7,173646,2023-01-07
+Demersal,Manyung,2023,7,1620,2023-01-07
+Demersal,Marlin,2023,7,1563,2023-01-07
+Pelagis Besar,Nyunglas ,2023,7,590,2023-01-07
+Pelagis Kecil,Pari,2023,7,1881,2023-01-07
+Demersal,Pedang ,2023,7,591,2023-01-07
+Pelagis Besar,Peperek,2023,7,5580,2023-01-07
+Pelagis Kecil,Pinjalo ,2023,7,360,2023-01-07
+Karang (Reef-Associated),Pisang-pisang ,2023,7,16677,2023-01-07
+Pelagis Kecil,Sebelah ,2023,7,1287,2023-01-07
+Pelagis Kecil,Selar Kuning ,2023,7,1680,2023-01-07
+jumlah,,2023,7,43329076,2023-01-07
+Pelagis Besar,Tenggiri ,2023,7,6077,2023-01-07
+Pelagis Besar,Tenggiri Papan ,2023,7,101185,2023-01-07
+Pelagis Besar,Tetengkek ,2023,7,145794,2023-01-07
+Pelagis Kecil,Tongkol ,2023,7,16544,2023-01-07
+Pelagis Besar,Tongkol Abu-abu ,2023,7,9306,2023-01-07
+Pelagis Besar,Tongkol Banyar ,2023,7,26884,2023-01-07
+Pelagis Besar,Tongkol Komo ,2023,7,33605,2023-01-07
+Pelagis Besar,Tongkol Lisong ,2023,7,372757,2023-01-07
+Pelagis Besar,Tuna Mata Besar ,2023,7,2898,2023-01-07
+Pelagis Besar,Tuna Sirip Kuning,2023,7,9015264,2023-01-07
+Pelagis Kecil,Lencam ,2023,7,2244,2023-01-07
+Pelagis Kecil,Swanggi ,2023,7,23364,2023-01-07
+Pelagis Besar,Lemadang ,2023,7,206625,2023-01-07
+Pelagis Kecil,Layur ,2023,7,3772,2023-01-07
+Pelagis Besar,Layaran ,2023,7,767,2023-01-07
+Pelagis Besar,Bawal Laut,2023,7,4806,2023-01-07
+Pelagis Besar,Cakalang ,2023,7,179860,2023-01-07
+Pelagis Besar,Cendro ,2023,7,28446,2023-01-07
+Pelagis Kecil,Ekor Kuning ,2023,7,4092,2023-01-07
+Demersal,Gabus Laut ,2023,7,1122,2023-01-07
+Demersal,Gerot-gerot ,2023,7,4950,2023-01-07
+Demersal,Golok-golok ,2023,7,1386,2023-01-07
+Demersal,Gulamah ,2023,7,3861,2023-01-07
+Karang (Reef-Associated),Kakap ,2023,7,546,2023-01-07
+Karang (Reef-Associated),Kakap Batu ,2023,7,4071,2023-01-07
+Karang (Reef-Associated),Kakap Jenaha ,2023,7,924,2023-01-07
+Karang (Reef-Associated),Ayam-ayam,2023,7,3078,2023-01-07
+Pelagis Kecil,Kapas-kapas ,2023,7,33327,2023-01-07
+Pelagis Kecil,Kembung Lelaki ,2023,7,1165835,2023-01-07
+Pelagis Kecil,Kembung Perempuan ,2023,7,379478,2023-01-07
+Karang (Reef-Associated),Kerapu,2023,7,10098,2023-01-07
+Demersal,Kuniran,2023,7,30822,2023-01-07
+Demersal,Kurisi ,2023,7,43098,2023-01-07
+Pelagis Kecil,Kuro,2023,7,51678,2023-01-07
+Karang (Reef-Associated),Kuwe ,2023,7,151998,2023-01-07
+Karang (Reef-Associated),Kuwe Gerong ,2023,7,38775,2023-01-07
+Pelagis Kecil,Layang ,2023,7,91728,2023-01-07
+Karang (Reef-Associated),Kakap Merah ,2023,7,858,2023-01-07
+Pelagis Kecil,Sebelah ,2023,8,1881,2023-01-08
+Karang (Reef-Associated),Pisang-pisang ,2023,8,11673,2023-01-08
+Pelagis Kecil,Pinjalo ,2023,8,648,2023-01-08
+Pelagis Besar,Peperek,2023,8,11340,2023-01-08
+Demersal,Manyung,2023,8,450,2023-01-08
+Pelagis Kecil,Pari,2023,8,20922,2023-01-08
+Pelagis Besar,Nyunglas ,2023,8,944,2023-01-08
+Demersal,Marlin,2023,8,2811,2023-01-08
+Demersal,Selar Bentong ,2023,8,140778,2023-01-08
+Demersal,Pedang ,2023,8,723,2023-01-08
+jumlah,,2023,8,71270012,2023-01-08
+Pelagis Kecil,Tongkol ,2023,8,247126,2023-01-08
+Pelagis Besar,Tenggiri ,2023,8,12213,2023-01-08
+Pelagis Besar,Tenggiri Papan ,2023,8,14927,2023-01-08
+Pelagis Besar,Tetengkek ,2023,8,186637,2023-01-08
+Pelagis Besar,Tongkol Abu-abu ,2023,8,80652,2023-01-08
+Pelagis Besar,Tongkol Banyar ,2023,8,6204,2023-01-08
+Pelagis Besar,Tongkol Komo ,2023,8,32571,2023-01-08
+Pelagis Besar,Tongkol Lisong ,2023,8,46013,2023-01-08
+Pelagis Besar,Tuna Mata Besar ,2023,8,26496,2023-01-08
+Pelagis Besar,Tuna Sirip Kuning,2023,8,12286692,2023-01-08
+Pelagis Kecil,Lencam ,2023,8,924,2023-01-08
+Pelagis Kecil,Swanggi ,2023,8,2838,2023-01-08
+Pelagis Besar,Lemadang ,2023,8,33048,2023-01-08
+Pelagis Kecil,Selar Kuning ,2023,8,22092,2023-01-08
+Pelagis Besar,Layaran ,2023,8,31506,2023-01-08
+Karang (Reef-Associated),Ayam-ayam,2023,8,4374,2023-01-08
+Pelagis Besar,Bawal Laut,2023,8,7344,2023-01-08
+Pelagis Besar,Cakalang ,2023,8,2874977,2023-01-08
+Pelagis Besar,Cendro ,2023,8,40986,2023-01-08
+Pelagis Kecil,Ekor Kuning ,2023,8,2772,2023-01-08
+Demersal,Gabus Laut ,2023,8,858,2023-01-08
+Demersal,Gerot-gerot ,2023,8,7920,2023-01-08
+Demersal,Golok-golok ,2023,8,37818,2023-01-08
+Demersal,Gulamah ,2023,8,69432,2023-01-08
+Karang (Reef-Associated),Kakap ,2023,8,6552,2023-01-08
+Karang (Reef-Associated),Kakap Batu ,2023,8,5487,2023-01-08
+Pelagis Kecil,Layur ,2023,8,705282,2023-01-08
+Karang (Reef-Associated),Kakap Merah ,2023,8,1023,2023-01-08
+Pelagis Kecil,Kapas-kapas ,2023,8,14805,2023-01-08
+Pelagis Kecil,Kembung Lelaki ,2023,8,1157046,2023-01-08
+Pelagis Kecil,Kembung Perempuan ,2023,8,477191,2023-01-08
+Karang (Reef-Associated),Kerapu,2023,8,13662,2023-01-08
+Demersal,Kuniran,2023,8,48906,2023-01-08
+Demersal,Kurisi ,2023,8,4290,2023-01-08
+Pelagis Kecil,Kuro,2023,8,20460,2023-01-08
+Karang (Reef-Associated),Kuwe ,2023,8,146828,2023-01-08
+Karang (Reef-Associated),Kuwe Gerong ,2023,8,13959,2023-01-08
+Pelagis Kecil,Layang ,2023,8,185073,2023-01-08
+Karang (Reef-Associated),Kakap Jenaha ,2023,8,11928,2023-01-08
+Pelagis Kecil,Sebelah ,2023,9,5901,2023-01-09
+Karang (Reef-Associated),Pisang-pisang ,2023,9,14980,2023-01-09
+Pelagis Kecil,Pinjalo ,2023,9,735,2023-01-09
+Pelagis Besar,Peperek,2023,9,16170,2023-01-09
+Demersal,Manyung,2023,9,1078,2023-01-09
+Pelagis Kecil,Pari,2023,9,45484,2023-01-09
+Pelagis Besar,Nyunglas ,2023,9,83956,2023-01-09
+Demersal,Marlin,2023,9,3408,2023-01-09
+Demersal,Selar Bentong ,2023,9,1014348,2023-01-09
+Demersal,Pedang ,2023,9,147618,2023-01-09
+Pelagis Kecil,Selar Kuning ,2023,9,230824,2023-01-09
+Pelagis Besar,Tongkol Abu-abu ,2023,9,55476,2023-01-09
+Pelagis Besar,Tenggiri ,2023,9,105084,2023-01-09
+Pelagis Besar,Tenggiri Papan ,2023,9,162074,2023-01-09
+Pelagis Besar,Tetengkek ,2023,9,338484,2023-01-09
+Pelagis Kecil,Tongkol ,2023,9,12462,2023-01-09
+Pelagis Besar,Tongkol Banyar ,2023,9,93666,2023-01-09
+Pelagis Besar,Tongkol Komo ,2023,9,53064,2023-01-09
+Pelagis Besar,Tongkol Lisong ,2023,9,403608,2023-01-09
+Pelagis Besar,Tuna Mata Besar ,2023,9,12896,2023-01-09
+Pelagis Besar,Tuna Sirip Kuning,2023,9,106207335,2023-01-09
+jumlah,,2023,9,761664815,2023-01-09
+Pelagis Kecil,Lencam ,2023,9,86016,2023-01-09
+Pelagis Kecil,Swanggi ,2023,9,34816,2023-01-09
+Pelagis Besar,Lemadang ,2023,9,21570,2023-01-09
+Pelagis Kecil,Layur ,2023,9,92232,2023-01-09
+Pelagis Besar,Layaran ,2023,9,225616,2023-01-09
+Karang (Reef-Associated),Ayam-ayam,2023,9,49496,2023-01-09
+Pelagis Besar,Bawal Laut,2023,9,5244,2023-01-09
+Pelagis Besar,Cakalang ,2023,9,27755286,2023-01-09
+Pelagis Besar,Cendro ,2023,9,26624,2023-01-09
+Pelagis Kecil,Ekor Kuning ,2023,9,2586624,2023-01-09
+Demersal,Gabus Laut ,2023,9,174592,2023-01-09
+Demersal,Golok-golok ,2023,9,429568,2023-01-09
+Demersal,Gulamah ,2023,9,799744,2023-01-09
+Karang (Reef-Associated),Kakap ,2023,9,702,2023-01-09
+Karang (Reef-Associated),Kakap Batu ,2023,9,71036,2023-01-09
+Karang (Reef-Associated),Kakap Jenaha ,2023,9,7345,2023-01-09
+Demersal,Gerot-gerot ,2023,9,933376,2023-01-09
+Pelagis Kecil,Kapas-kapas ,2023,9,159537,2023-01-09
+Karang (Reef-Associated),Kakap Merah ,2023,9,10496,2023-01-09
+Karang (Reef-Associated),Kuwe Gerong ,2023,9,149544,2023-01-09
+Karang (Reef-Associated),Kuwe ,2023,9,20904,2023-01-09
+Pelagis Kecil,Kuro,2023,9,2669056,2023-01-09
+Demersal,Kurisi ,2023,9,1172992,2023-01-09
+Pelagis Kecil,Layang ,2023,9,2067612,2023-01-09
+Karang (Reef-Associated),Kerapu,2023,9,141312,2023-01-09
+Pelagis Kecil,Kembung Perempuan ,2023,9,469938,2023-01-09
+Pelagis Kecil,Kembung Lelaki ,2023,9,1217256,2023-01-09
+Demersal,Kuniran,2023,9,1056768,2023-01-09
+Demersal,Selar Bentong ,2023,10,28616,2023-01-10
+Demersal,Manyung,2023,10,2736,2023-01-10
+Demersal,Marlin,2023,10,3308,2023-01-10
+Pelagis Besar,Nyunglas ,2023,10,846,2023-01-10
+Pelagis Kecil,Pari,2023,10,3528,2023-01-10
+Demersal,Pedang ,2023,10,974,2023-01-10
+Pelagis Besar,Peperek,2023,10,22120,2023-01-10
+Pelagis Kecil,Pinjalo ,2023,10,1376,2023-01-10
+Karang (Reef-Associated),Pisang-pisang ,2023,10,14032,2023-01-10
+Pelagis Kecil,Sebelah ,2023,10,5944,2023-01-10
+Pelagis Kecil,Selar Kuning ,2023,10,40176,2023-01-10
+jumlah,,2023,10,77948625,2023-01-10
+Pelagis Besar,Tenggiri ,2023,10,1186,2023-01-10
+Pelagis Besar,Tenggiri Papan ,2023,10,1234,2023-01-10
+Pelagis Besar,Tetengkek ,2023,10,31476,2023-01-10
+Pelagis Kecil,Tongkol ,2023,10,18103,2023-01-10
+Pelagis Besar,Tongkol Abu-abu ,2023,10,688,2023-01-10
+Pelagis Besar,Tongkol Banyar ,2023,10,127753,2023-01-10
+Pelagis Besar,Tongkol Komo ,2023,10,44376,2023-01-10
+Pelagis Besar,Tongkol Lisong ,2023,10,41495,2023-01-10
+Pelagis Besar,Tuna Mata Besar ,2023,10,817,2023-01-10
+Pelagis Besar,Tuna Sirip Kuning,2023,10,79680,2023-01-10
+Pelagis Kecil,Lencam ,2023,10,1288,2023-01-10
+Pelagis Kecil,Swanggi ,2023,10,47824,2023-01-10
+Pelagis Besar,Lemadang ,2023,10,23595,2023-01-10
+Pelagis Kecil,Layur ,2023,10,1353788,2023-01-10
+Pelagis Besar,Layaran ,2023,10,2234,2023-01-10
+Pelagis Besar,Bawal Laut,2023,10,10736,2023-01-10
+Pelagis Besar,Cakalang ,2023,10,170107,2023-01-10
+Pelagis Besar,Cendro ,2023,10,58968,2023-01-10
+Pelagis Kecil,Ekor Kuning ,2023,10,121072,2023-01-10
+Demersal,Gabus Laut ,2023,10,234584,2023-01-10
+Demersal,Gerot-gerot ,2023,10,132832,2023-01-10
+Demersal,Golok-golok ,2023,10,79688,2023-01-10
+Demersal,Gulamah ,2023,10,253568,2023-01-10
+Karang (Reef-Associated),Kakap ,2023,10,12136,2023-01-10
+Karang (Reef-Associated),Kakap Batu ,2023,10,592,2023-01-10
+Karang (Reef-Associated),Kakap Jenaha ,2023,10,17316,2023-01-10
+Karang (Reef-Associated),Ayam-ayam,2023,10,5500,2023-01-10
+Pelagis Kecil,Kapas-kapas ,2023,10,2080265,2023-01-10
+Pelagis Kecil,Kembung Lelaki ,2023,10,174279,2023-01-10
+Pelagis Kecil,Kembung Perempuan ,2023,10,200552,2023-01-10
+Karang (Reef-Associated),Kerapu,2023,10,17136,2023-01-10
+Demersal,Kuniran,2023,10,15456,2023-01-10
+Demersal,Kurisi ,2023,10,98168,2023-01-10
+Pelagis Kecil,Kuro,2023,10,36624,2023-01-10
+Karang (Reef-Associated),Kuwe ,2023,10,2795,2023-01-10
+Karang (Reef-Associated),Kuwe Gerong ,2023,10,17458,2023-01-10
+Pelagis Kecil,Layang ,2023,10,182896,2023-01-10
+Karang (Reef-Associated),Kakap Merah ,2023,10,17696,2023-01-10
+Demersal,Selar Bentong ,2023,11,19362,2023-01-11
+Pelagis Kecil,Sebelah ,2023,11,3192,2023-01-11
+Karang (Reef-Associated),Pisang-pisang ,2023,11,52020,2023-01-11
+Pelagis Kecil,Pinjalo ,2023,11,420,2023-01-11
+Demersal,Marlin,2023,11,1905,2023-01-11
+Demersal,Pedang ,2023,11,108875,2023-01-11
+Pelagis Kecil,Pari,2023,11,2016,2023-01-11
+Pelagis Besar,Nyunglas ,2023,11,871,2023-01-11
+Pelagis Kecil,Selar Kuning ,2023,11,32795,2023-01-11
+Pelagis Besar,Peperek,2023,11,13740,2023-01-11
+Pelagis Kecil,Swanggi ,2023,11,210105,2023-01-11
+Pelagis Besar,Tongkol Abu-abu ,2023,11,945,2023-01-11
+Pelagis Besar,Tenggiri Papan ,2023,11,122275,2023-01-11
+Pelagis Besar,Tetengkek ,2023,11,1596,2023-01-11
+Pelagis Kecil,Tongkol ,2023,11,12215,2023-01-11
+Pelagis Besar,Tongkol Banyar ,2023,11,9798,2023-01-11
+Pelagis Besar,Tongkol Komo ,2023,11,77745,2023-01-11
+Pelagis Besar,Tongkol Lisong ,2023,11,307785,2023-01-11
+Pelagis Besar,Tuna Mata Besar ,2023,11,760375,2023-01-11
+Pelagis Besar,Tuna Sirip Kuning,2023,11,87555,2023-01-11
+jumlah,,2023,11,68915855,2023-01-11
+Demersal,Manyung,2023,11,1638,2023-01-11
+Pelagis Besar,Tenggiri ,2023,11,112895,2023-01-11
+Pelagis Kecil,Lencam ,2023,11,6525,2023-01-11
+Pelagis Besar,Lemadang ,2023,11,16140,2023-01-11
+Karang (Reef-Associated),Ayam-ayam,2023,11,34749,2023-01-11
+Pelagis Kecil,Layur ,2023,11,1669473,2023-01-11
+Pelagis Besar,Bawal Laut,2023,11,1419,2023-01-11
+Pelagis Besar,Cakalang ,2023,11,125209125,2023-01-11
+Pelagis Besar,Cendro ,2023,11,56985,2023-01-11
+Pelagis Kecil,Ekor Kuning ,2023,11,70905,2023-01-11
+Demersal,Gabus Laut ,2023,11,36975,2023-01-11
+Demersal,Gerot-gerot ,2023,11,63075,2023-01-11
+Demersal,Gulamah ,2023,11,22185,2023-01-11
+Karang (Reef-Associated),Kakap ,2023,11,1176,2023-01-11
+Karang (Reef-Associated),Kakap Batu ,2023,11,296,2023-01-11
+Karang (Reef-Associated),Kakap Jenaha ,2023,11,11536,2023-01-11
+Demersal,Golok-golok ,2023,11,77865,2023-01-11
+Pelagis Kecil,Kapas-kapas ,2023,11,17613,2023-01-11
+Karang (Reef-Associated),Kakap Merah ,2023,11,16095,2023-01-11
+Pelagis Kecil,Layang ,2023,11,1906975,2023-01-11
+Karang (Reef-Associated),Kuwe Gerong ,2023,11,10675,2023-01-11
+Karang (Reef-Associated),Kuwe ,2023,11,19705,2023-01-11
+Pelagis Kecil,Kuro,2023,11,23577,2023-01-11
+Pelagis Besar,Layaran ,2023,11,15725,2023-01-11
+Demersal,Kuniran,2023,11,962655,2023-01-11
+Karang (Reef-Associated),Kerapu,2023,11,1044,2023-01-11
+Pelagis Kecil,Kembung Perempuan ,2023,11,14588,2023-01-11
+Pelagis Kecil,Kembung Lelaki ,2023,11,5705,2023-01-11
+Demersal,Kurisi ,2023,11,57681,2023-01-11
+Demersal,Selar Bentong ,2023,12,1662389091,2023-01-12
+Demersal,Manyung,2023,12,1711636364,2023-01-12
+Demersal,Marlin,2023,12,1575454545,2023-01-12
+Pelagis Besar,Nyunglas ,2023,12,5027272727,2023-01-12
+Pelagis Kecil,Pari,2023,12,1954127273,2023-01-12
+Demersal,Pedang ,2023,12,5738181818,2023-01-12
+Pelagis Besar,Peperek,2023,12,9616090909,2023-01-12
+Pelagis Kecil,Pinjalo ,2023,12,6414545455,2023-01-12
+Karang (Reef-Associated),Pisang-pisang ,2023,12,2813236364,2023-01-12
+Pelagis Kecil,Sebelah ,2023,12,2925818182,2023-01-12
+Pelagis Kecil,Selar Kuning ,2023,12,2245272727,2023-01-12
+Pelagis Kecil,Lencam ,2023,12,651,2023-01-12
+Pelagis Besar,Tenggiri ,2023,12,600,2023-01-12
+Pelagis Besar,Tenggiri Papan ,2023,12,7801818182,2023-01-12
+Pelagis Besar,Tetengkek ,2023,12,1767272727,2023-01-12
+Pelagis Kecil,Tongkol ,2023,12,1087854545,2023-01-12
+Pelagis Besar,Tongkol Abu-abu ,2023,12,6946909091,2023-01-12
+Pelagis Besar,Tongkol Banyar ,2023,12,5338909091,2023-01-12
+Pelagis Besar,Tongkol Komo ,2023,12,38208,2023-01-12
+Pelagis Besar,Tongkol Lisong ,2023,12,3707345455,2023-01-12
+Pelagis Besar,Tuna Mata Besar ,2023,12,1424545455,2023-01-12
+Pelagis Besar,Tuna Sirip Kuning,2023,12,6436145455,2023-01-12
+jumlah,,2023,12,4982092727,2023-01-12
+Pelagis Kecil,Swanggi ,2023,12,2470981818,2023-01-12
+Pelagis Besar,Lemadang ,2023,12,168525,2023-01-12
+Pelagis Kecil,Layur ,2023,12,5323290909,2023-01-12
+Pelagis Besar,Layaran ,2023,12,1036545455,2023-01-12
+Pelagis Besar,Bawal Laut,2023,12,6536727273,2023-01-12
+Pelagis Besar,Cakalang ,2023,12,1626033182,2023-01-12
+Pelagis Besar,Cendro ,2023,12,4466818182,2023-01-12
+Pelagis Kecil,Ekor Kuning ,2023,12,7525672727,2023-01-12
+Demersal,Gabus Laut ,2023,12,3650672727,2023-01-12
+Demersal,Gerot-gerot ,2023,12,73036,2023-01-12
+Demersal,Golok-golok ,2023,12,3539072727,2023-01-12
+Demersal,Gulamah ,2023,12,8742563636,2023-01-12
+Karang (Reef-Associated),Kakap ,2023,12,8722545455,2023-01-12
+Karang (Reef-Associated),Kakap Batu ,2023,12,3230909091,2023-01-12
+Karang (Reef-Associated),Kakap Jenaha ,2023,12,1009581818,2023-01-12
+Karang (Reef-Associated),Ayam-ayam,2023,12,4318690909,2023-01-12
+Pelagis Kecil,Kapas-kapas ,2023,12,1009190909,2023-01-12
+Pelagis Kecil,Kembung Lelaki ,2023,12,5259490909,2023-01-12
+Pelagis Kecil,Kembung Perempuan ,2023,12,3644945455,2023-01-12
+Karang (Reef-Associated),Kerapu,2023,12,1090636364,2023-01-12
+Demersal,Kuniran,2023,12,5494327273,2023-01-12
+Demersal,Kurisi ,2023,12,4597018182,2023-01-12
+Pelagis Kecil,Kuro,2023,12,1390716364,2023-01-12
+Karang (Reef-Associated),Kuwe ,2023,12,5232436364,2023-01-12
+Karang (Reef-Associated),Kuwe Gerong ,2023,12,1007127273,2023-01-12
+Pelagis Kecil,Layang ,2023,12,1737545455,2023-01-12
+Karang (Reef-Associated),Kakap Merah ,2023,12,1170109091,2023-01-12
+Demersal,Selar Bentong,2024,1,39334,2024-01-01
+Pelagis Kecil,Sebelah,2024,1,1840,2024-01-01
+Karang (Reef-Associated),Pisang-pisang,2024,1,16079,2024-01-01
+Pelagis Kecil,Pinjalo,2024,1,688,2024-01-01
+Demersal,Marlin,2024,1,544,2024-01-01
+Demersal,Pedang,2024,1,306,2024-01-01
+Pelagis Kecil,Pari,2024,1,985,2024-01-01
+Pelagis Besar,Nyunglas,2024,1,451,2024-01-01
+Pelagis Kecil,Selar Kuning,2024,1,3287,2024-01-01
+Pelagis Besar,Peperek,2024,1,1856,2024-01-01
+Pelagis Kecil,Swanggi,2024,1,4206,2024-01-01
+Pelagis Besar,Tongkol Abu-Abu,2024,1,3764,2024-01-01
+Pelagis Besar,Tenggiri Papan,2024,1,320,2024-01-01
+Pelagis Besar,Tetengkek,2024,1,1250,2024-01-01
+Pelagis Kecil,Tongkol,2024,1,32594,2024-01-01
+Pelagis Besar,Tongkol Banyar,2024,1,13956,2024-01-01
+Pelagis Besar,Tongkol Komo,2024,1,78260,2024-01-01
+Pelagis Besar,Tongkol Lisong,2024,1,82715,2024-01-01
+Pelagis Besar,Tuna Mata Besar,2024,1,1026,2024-01-01
+Pelagis Besar,Tuna Sirip Kuning,2024,1,48284,2024-01-01
+jumlah,,2024,1,725865,2024-01-01
+Demersal,Manyung,2024,1,479,2024-01-01
+Pelagis Besar,Tenggiri,2024,1,480,2024-01-01
+Pelagis Kecil,Lencam,2024,1,672,2024-01-01
+Pelagis Besar,Lemadang,2024,1,46694,2024-01-01
+Karang (Reef-Associated),Ayam ayam,2024,1,3961,2024-01-01
+Pelagis Kecil,Layur,2024,1,37055,2024-01-01
+Pelagis Besar,Bawal laut,2024,1,814,2024-01-01
+Pelagis Besar,Cakalang,2024,1,155878,2024-01-01
+Pelagis Besar,Cendro,2024,1,4419,2024-01-01
+Pelagis Kecil,Ekor kuning,2024,1,12999,2024-01-01
+Demersal,Gabus Laut,2024,1,459,2024-01-01
+Demersal,Gerot Gerot,2024,1,2871,2024-01-01
+Demersal,Gulamah/Tigawaja/Samgeh,2024,1,1837,2024-01-01
+Karang (Reef-Associated),Kakap,2024,1,1369,2024-01-01
+Karang (Reef-Associated),Kakap Batu,2024,1,1776,2024-01-01
+Karang (Reef-Associated),Kakap Jenaha,2024,1,2205,2024-01-01
+Demersal,Golok golok,2024,1,2278,2024-01-01
+Pelagis Kecil,Kapas kapas/Bagas,2024,1,52009,2024-01-01
+Karang (Reef-Associated),Kakap Merah,2024,1,2167,2024-01-01
+Pelagis Kecil,Layang,2024,1,14003,2024-01-01
+Karang (Reef-Associated),Kuwe gerong,2024,1,301,2024-01-01
+Karang (Reef-Associated),Kuwe,2024,1,2709,2024-01-01
+Pelagis Kecil,Kuro/Senangin/laosan,2024,1,6204,2024-01-01
+Pelagis Besar,Layaran,2024,1,1060,2024-01-01
+Demersal,Kuniran/biji nangka,2024,1,3701,2024-01-01
+Karang (Reef-Associated),Kerapu,2024,1,852,2024-01-01
+Pelagis Kecil,Kembung Perempuan,2024,1,2581,2024-01-01
+Pelagis Kecil,Kembung Lelaki,2024,1,2473,2024-01-01
+Demersal,Kurisi,2024,1,29814,2024-01-01
+Demersal,Selar Bentong,2024,2,17164,2024-01-02
+Demersal,Manyung,2024,2,6408,2024-01-02
+Demersal,Marlin,2024,2,544,2024-01-02
+Pelagis Besar,Nyunglas,2024,2,1560,2024-01-02
+Pelagis Kecil,Pari,2024,2,1595,2024-01-02
+Demersal,Pedang,2024,2,180,2024-01-02
+Pelagis Besar,Peperek,2024,2,3455,2024-01-02
+Pelagis Kecil,Pinjalo,2024,2,1144,2024-01-02
+Karang (Reef-Associated),Pisang-pisang,2024,2,14873,2024-01-02
+Pelagis Kecil,Sebelah,2024,2,864,2024-01-02
+Pelagis Kecil,Selar Kuning,2024,2,3414,2024-01-02
+Pelagis Kecil,Lencam,2024,2,761,2024-01-02
+Pelagis Besar,Tenggiri,2024,2,735,2024-01-02
+Pelagis Besar,Tenggiri Papan,2024,2,422,2024-01-02
+Pelagis Besar,Tetengkek,2024,2,775,2024-01-02
+Pelagis Kecil,Tongkol,2024,2,30242,2024-01-02
+Pelagis Besar,Tongkol Abu-Abu,2024,2,604,2024-01-02
+Pelagis Besar,Tongkol Banyar,2024,2,19973,2024-01-02
+Pelagis Besar,Tongkol Komo,2024,2,41040,2024-01-02
+Pelagis Besar,Tongkol Lisong,2024,2,59180,2024-01-02
+Pelagis Besar,Tuna Mata Besar,2024,2,760,2024-01-02
+Pelagis Besar,Tuna Sirip Kuning,2024,2,65253,2024-01-02
+jumlah,,2024,2,692515,2024-01-02
+Pelagis Kecil,Swanggi,2024,2,14794,2024-01-02
+Pelagis Besar,Lemadang,2024,2,34900,2024-01-02
+Pelagis Kecil,Layur,2024,2,54001,2024-01-02
+Pelagis Besar,Layaran,2024,2,1060,2024-01-02
+Karang (Reef-Associated),Ayam ayam,2024,2,3376,2024-01-02
+Pelagis Besar,Bawal laut,2024,2,711,2024-01-02
+Pelagis Besar,Cakalang,2024,2,177314,2024-01-02
+Pelagis Besar,Cendro,2024,2,3075,2024-01-02
+Pelagis Kecil,Ekor kuning,2024,2,10744,2024-01-02
+Demersal,Gabus Laut,2024,2,1989,2024-01-02
+Demersal,Golok golok,2024,2,2470,2024-01-02
+Demersal,Gulamah/Tigawaja/Samgeh,2024,2,3153,2024-01-02
+Karang (Reef-Associated),Kakap,2024,2,2448,2024-01-02
+Karang (Reef-Associated),Kakap Batu,2024,2,3465,2024-01-02
+Karang (Reef-Associated),Kakap Jenaha,2024,2,1324,2024-01-02
+Demersal,Gerot Gerot,2024,2,3269,2024-01-02
+Pelagis Kecil,Kapas kapas/Bagas,2024,2,45720,2024-01-02
+Karang (Reef-Associated),Kakap Merah,2024,2,2808,2024-01-02
+Karang (Reef-Associated),Kuwe gerong,2024,2,1110,2024-01-02
+Karang (Reef-Associated),Kuwe,2024,2,1776,2024-01-02
+Pelagis Kecil,Kuro/Senangin/laosan,2024,2,6012,2024-01-02
+Demersal,Kurisi,2024,2,24141,2024-01-02
+Pelagis Kecil,Layang,2024,2,10439,2024-01-02
+Karang (Reef-Associated),Kerapu,2024,2,1483,2024-01-02
+Pelagis Kecil,Kembung Perempuan,2024,2,2375,2024-01-02
+Pelagis Kecil,Kembung Lelaki,2024,2,3895,2024-01-02
+Demersal,Kuniran/biji nangka,2024,2,3717,2024-01-02
+Demersal,Selar Bentong,2024,3,7588,2024-01-03
+Demersal,Manyung,2024,3,2144,2024-01-03
+Demersal,Marlin,2024,3,1946,2024-01-03
+Pelagis Besar,Nyunglas,2024,3,1220,2024-01-03
+Pelagis Kecil,Pari,2024,3,1204,2024-01-03
+Demersal,Pedang,2024,3,697,2024-01-03
+Pelagis Besar,Peperek,2024,3,4784,2024-01-03
+Pelagis Kecil,Pinjalo,2024,3,479,2024-01-03
+Karang (Reef-Associated),Pisang-pisang,2024,3,37032,2024-01-03
+Pelagis Kecil,Sebelah,2024,3,5233,2024-01-03
+Pelagis Kecil,Selar Kuning,2024,3,4752,2024-01-03
+jumlah,,2024,3,607810,2024-01-03
+Pelagis Besar,Tenggiri,2024,3,568,2024-01-03
+Pelagis Besar,Tenggiri Papan,2024,3,620,2024-01-03
+Pelagis Besar,Tetengkek,2024,3,1651,2024-01-03
+Pelagis Kecil,Tongkol,2024,3,19075,2024-01-03
+Pelagis Besar,Tongkol Abu-Abu,2024,3,1186,2024-01-03
+Pelagis Besar,Tongkol Banyar,2024,3,13372,2024-01-03
+Pelagis Besar,Tongkol Komo,2024,3,17330,2024-01-03
+Pelagis Besar,Tongkol Lisong,2024,3,27176,2024-01-03
+Pelagis Besar,Tuna Mata Besar,2024,3,855,2024-01-03
+Pelagis Besar,Tuna Sirip Kuning,2024,3,59107,2024-01-03
+Pelagis Kecil,Lencam,2024,3,919,2024-01-03
+Pelagis Kecil,Swanggi,2024,3,3707,2024-01-03
+Pelagis Besar,Lemadang,2024,3,21502,2024-01-03
+Pelagis Kecil,Layur,2024,3,92903,2024-01-03
+Pelagis Besar,Layaran,2024,3,718,2024-01-03
+Pelagis Besar,Bawal laut,2024,3,1117,2024-01-03
+Pelagis Besar,Cakalang,2024,3,159767,2024-01-03
+Pelagis Besar,Cendro,2024,3,3308,2024-01-03
+Pelagis Kecil,Ekor kuning,2024,3,5881,2024-01-03
+Demersal,Gabus Laut,2024,3,592,2024-01-03
+Demersal,Gerot Gerot,2024,3,2577,2024-01-03
+Demersal,Golok golok,2024,3,1377,2024-01-03
+Demersal,Gulamah/Tigawaja/Samgeh,2024,3,3801,2024-01-03
+Karang (Reef-Associated),Kakap,2024,3,1880,2024-01-03
+Karang (Reef-Associated),Kakap Batu,2024,3,2442,2024-01-03
+Karang (Reef-Associated),Kakap Jenaha,2024,3,1791,2024-01-03
+Karang (Reef-Associated),Ayam ayam,2024,3,4012,2024-01-03
+Pelagis Kecil,Kapas kapas/Bagas,2024,3,43278,2024-01-03
+Pelagis Kecil,Kembung Lelaki,2024,3,2635,2024-01-03
+Pelagis Kecil,Kembung Perempuan,2024,3,1720,2024-01-03
+Karang (Reef-Associated),Kerapu,2024,3,1008,2024-01-03
+Demersal,Kuniran/biji nangka,2024,3,3830,2024-01-03
+Demersal,Kurisi,2024,3,9755,2024-01-03
+Pelagis Kecil,Kuro/Senangin/laosan,2024,3,6284,2024-01-03
+Karang (Reef-Associated),Kuwe,2024,3,1763,2024-01-03
+Karang (Reef-Associated),Kuwe gerong,2024,3,1664,2024-01-03
+Pelagis Kecil,Layang,2024,3,17152,2024-01-03
+Karang (Reef-Associated),Kakap Merah,2024,3,2408,2024-01-03
+Pelagis Kecil,Sebelah,2024,4,840,2024-01-04
+Karang (Reef-Associated),Pisang-pisang,2024,4,22120,2024-01-04
+Pelagis Kecil,Pinjalo,2024,4,546,2024-01-04
+Pelagis Besar,Peperek,2024,4,3360,2024-01-04
+Demersal,Manyung,2024,4,2121,2024-01-04
+Pelagis Kecil,Pari,2024,4,986,2024-01-04
+Pelagis Besar,Nyunglas,2024,4,797,2024-01-04
+Demersal,Marlin,2024,4,1072,2024-01-04
+Demersal,Selar Bentong,2024,4,4735,2024-01-04
+Demersal,Pedang,2024,4,560,2024-01-04
+jumlah,,2024,4,433640,2024-01-04
+Pelagis Kecil,Tongkol,2024,4,6473,2024-01-04
+Pelagis Besar,Tenggiri,2024,4,452,2024-01-04
+Pelagis Besar,Tenggiri Papan,2024,4,492,2024-01-04
+Pelagis Besar,Tetengkek,2024,4,822,2024-01-04
+Pelagis Besar,Tongkol Abu-Abu,2024,4,468,2024-01-04
+Pelagis Besar,Tongkol Banyar,2024,4,4137,2024-01-04
+Pelagis Besar,Tongkol Komo,2024,4,12168,2024-01-04
+Pelagis Besar,Tongkol Lisong,2024,4,16989,2024-01-04
+Pelagis Besar,Tuna Mata Besar,2024,4,599,2024-01-04
+Pelagis Besar,Tuna Sirip Kuning,2024,4,37998,2024-01-04
+Pelagis Kecil,Lencam,2024,4,700,2024-01-04
+Pelagis Kecil,Swanggi,2024,4,3311,2024-01-04
+Pelagis Besar,Lemadang,2024,4,25260,2024-01-04
+Pelagis Kecil,Selar Kuning,2024,4,2768,2024-01-04
+Pelagis Besar,Layaran,2024,4,960,2024-01-04
+Karang (Reef-Associated),Ayam ayam,2024,4,1426,2024-01-04
+Pelagis Besar,Bawal laut,2024,4,592,2024-01-04
+Pelagis Besar,Cakalang,2024,4,113287,2024-01-04
+Pelagis Besar,Cendro,2024,4,1999,2024-01-04
+Pelagis Kecil,Ekor kuning,2024,4,3196,2024-01-04
+Demersal,Gabus Laut,2024,4,671,2024-01-04
+Demersal,Gerot Gerot,2024,4,6630,2024-01-04
+Demersal,Golok golok,2024,4,961,2024-01-04
+Demersal,Gulamah/Tigawaja/Samgeh,2024,4,2649,2024-01-04
+Karang (Reef-Associated),Kakap,2024,4,1156,2024-01-04
+Karang (Reef-Associated),Kakap Batu,2024,4,2066,2024-01-04
+Pelagis Kecil,Layur,2024,4,91650,2024-01-04
+Karang (Reef-Associated),Kakap Merah,2024,4,2559,2024-01-04
+Pelagis Kecil,Kapas kapas/Bagas,2024,4,18674,2024-01-04
+Pelagis Kecil,Kembung Lelaki,2024,4,1541,2024-01-04
+Pelagis Kecil,Kembung Perempuan,2024,4,1950,2024-01-04
+Karang (Reef-Associated),Kerapu,2024,4,785,2024-01-04
+Demersal,Kuniran/biji nangka,2024,4,4829,2024-01-04
+Demersal,Kurisi,2024,4,2266,2024-01-04
+Pelagis Kecil,Kuro/Senangin/laosan,2024,4,6626,2024-01-04
+Karang (Reef-Associated),Kuwe,2024,4,840,2024-01-04
+Karang (Reef-Associated),Kuwe gerong,2024,4,856,2024-01-04
+Pelagis Kecil,Layang,2024,4,14007,2024-01-04
+Karang (Reef-Associated),Kakap Jenaha,2024,4,1690,2024-01-04
+Pelagis Kecil,Sebelah,2024,5,1190,2024-01-05
+Karang (Reef-Associated),Pisang-pisang,2024,5,35741,2024-01-05
+Pelagis Kecil,Pinjalo,2024,5,1022,2024-01-05
+Pelagis Besar,Peperek,2024,5,4501,2024-01-05
+Demersal,Manyung,2024,5,1953,2024-01-05
+Pelagis Kecil,Pari,2024,5,700,2024-01-05
+Pelagis Besar,Nyunglas,2024,5,400,2024-01-05
+Demersal,Marlin,2024,5,1460,2024-01-05
+Demersal,Selar Bentong,2024,5,10566,2024-01-05
+Demersal,Pedang,2024,5,440,2024-01-05
+Pelagis Kecil,Selar Kuning,2024,5,2357,2024-01-05
+Pelagis Besar,Tongkol Abu-Abu,2024,5,1913,2024-01-05
+Pelagis Besar,Tenggiri,2024,5,580,2024-01-05
+Pelagis Besar,Tenggiri Papan,2024,5,624,2024-01-05
+Pelagis Besar,Tetengkek,2024,5,578,2024-01-05
+Pelagis Kecil,Tongkol,2024,5,10941,2024-01-05
+Pelagis Besar,Tongkol Banyar,2024,5,5834,2024-01-05
+Pelagis Besar,Tongkol Komo,2024,5,24563,2024-01-05
+Pelagis Besar,Tongkol Lisong,2024,5,18758,2024-01-05
+Pelagis Besar,Tuna Mata Besar,2024,5,666,2024-01-05
+Pelagis Besar,Tuna Sirip Kuning,2024,5,50505,2024-01-05
+jumlah,,2024,5,535354,2024-01-05
+Pelagis Kecil,Lencam,2024,5,1393,2024-01-05
+Pelagis Kecil,Swanggi,2024,5,2207,2024-01-05
+Pelagis Besar,Lemadang,2024,5,20622,2024-01-05
+Pelagis Kecil,Layur,2024,5,67529,2024-01-05
+Pelagis Besar,Layaran,2024,5,1287,2024-01-05
+Karang (Reef-Associated),Ayam ayam,2024,5,3359,2024-01-05
+Pelagis Besar,Bawal laut,2024,5,440,2024-01-05
+Pelagis Besar,Cakalang,2024,5,145569,2024-01-05
+Pelagis Besar,Cendro,2024,5,3440,2024-01-05
+Pelagis Kecil,Ekor kuning,2024,5,3156,2024-01-05
+Demersal,Gabus Laut,2024,5,3836,2024-01-05
+Demersal,Golok golok,2024,5,2248,2024-01-05
+Demersal,Gulamah/Tigawaja/Samgeh,2024,5,4177,2024-01-05
+Karang (Reef-Associated),Kakap,2024,5,1285,2024-01-05
+Karang (Reef-Associated),Kakap Batu,2024,5,2801,2024-01-05
+Karang (Reef-Associated),Kakap Jenaha,2024,5,2176,2024-01-05
+Demersal,Gerot Gerot,2024,5,5734,2024-01-05
+Pelagis Kecil,Kapas kapas/Bagas,2024,5,13444,2024-01-05
+Karang (Reef-Associated),Kakap Merah,2024,5,4307,2024-01-05
+Karang (Reef-Associated),Kuwe gerong,2024,5,1412,2024-01-05
+Karang (Reef-Associated),Kuwe,2024,5,2581,2024-01-05
+Pelagis Kecil,Kuro/Senangin/laosan,2024,5,7664,2024-01-05
+Demersal,Kurisi,2024,5,6909,2024-01-05
+Pelagis Kecil,Layang,2024,5,31756,2024-01-05
+Karang (Reef-Associated),Kerapu,2024,5,1504,2024-01-05
+Pelagis Kecil,Kembung Perempuan,2024,5,5428,2024-01-05
+Pelagis Kecil,Kembung Lelaki,2024,5,6009,2024-01-05
+Demersal,Kuniran/biji nangka,2024,5,7789,2024-01-05
+Demersal,Selar Bentong,2024,6,6366,2024-01-06
+Demersal,Manyung,2024,6,1751,2024-01-06
+Demersal,Marlin,2024,6,1232,2024-01-06
+Pelagis Besar,Nyunglas,2024,6,487,2024-01-06
+Pelagis Kecil,Pari,2024,6,929,2024-01-06
+Demersal,Pedang,2024,6,640,2024-01-06
+Pelagis Besar,Peperek,2024,6,5460,2024-01-06
+Pelagis Kecil,Pinjalo,2024,6,819,2024-01-06
+Karang (Reef-Associated),Pisang-pisang,2024,6,33963,2024-01-06
+Pelagis Kecil,Sebelah,2024,6,1849,2024-01-06
+Pelagis Kecil,Selar Kuning,2024,6,2860,2024-01-06
+jumlah,,2024,6,448550,2024-01-06
+Pelagis Besar,Tenggiri,2024,6,491,2024-01-06
+Pelagis Besar,Tenggiri Papan,2024,6,596,2024-01-06
+Pelagis Besar,Tetengkek,2024,6,1564,2024-01-06
+Pelagis Kecil,Tongkol,2024,6,8730,2024-01-06
+Pelagis Besar,Tongkol Abu-Abu,2024,6,1003,2024-01-06
+Pelagis Besar,Tongkol Banyar,2024,6,4828,2024-01-06
+Pelagis Besar,Tongkol Komo,2024,6,10867,2024-01-06
+Pelagis Besar,Tongkol Lisong,2024,6,9936,2024-01-06
+Pelagis Besar,Tuna Mata Besar,2024,6,534,2024-01-06
+Pelagis Besar,Tuna Sirip Kuning,2024,6,63678,2024-01-06
+Pelagis Kecil,Lencam,2024,6,1079,2024-01-06
+Pelagis Kecil,Swanggi,2024,6,1722,2024-01-06
+Pelagis Besar,Lemadang,2024,6,11700,2024-01-06
+Pelagis Kecil,Layur,2024,6,41367,2024-01-06
+Pelagis Besar,Layaran,2024,6,1139,2024-01-06
+Karang (Reef-Associated),Ayam ayam,2024,6,1669,2024-01-06
+Pelagis Besar,Bawal laut,2024,6,776,2024-01-06
+Pelagis Besar,Cakalang,2024,6,124686,2024-01-06
+Pelagis Besar,Cendro,2024,6,2030,2024-01-06
+Pelagis Kecil,Ekor kuning,2024,6,2598,2024-01-06
+Demersal,Gabus Laut,2024,6,2172,2024-01-06
+Demersal,Golok golok,2024,6,1774,2024-01-06
+Demersal,Gulamah/Tigawaja/Samgeh,2024,6,5555,2024-01-06
+Karang (Reef-Associated),Kakap,2024,6,1043,2024-01-06
+Karang (Reef-Associated),Kakap Batu,2024,6,1243,2024-01-06
+Karang (Reef-Associated),Kakap Jenaha,2024,6,1883,2024-01-06
+Demersal,Gerot Gerot,2024,6,7657,2024-01-06
+Pelagis Kecil,Kapas kapas/Bagas,2024,6,7830,2024-01-06
+Karang (Reef-Associated),Kakap Merah,2024,6,2940,2024-01-06
+Karang (Reef-Associated),Kuwe gerong,2024,6,1168,2024-01-06
+Karang (Reef-Associated),Kuwe,2024,6,1886,2024-01-06
+Pelagis Kecil,Kuro/Senangin/laosan,2024,6,8185,2024-01-06
+Demersal,Kurisi,2024,6,6572,2024-01-06
+Pelagis Kecil,Layang,2024,6,32327,2024-01-06
+Karang (Reef-Associated),Kerapu,2024,6,1085,2024-01-06
+Pelagis Kecil,Kembung Perempuan,2024,6,4508,2024-01-06
+Pelagis Kecil,Kembung Lelaki,2024,6,7359,2024-01-06
+Demersal,Kuniran/biji nangka,2024,6,6014,2024-01-06
+Demersal,Selar Bentong,2024,7,5752,2024-01-07
+Demersal,Manyung,2024,7,738,2024-01-07
+Demersal,Marlin,2024,7,2240,2024-01-07
+Pelagis Besar,Nyunglas,2024,7,554,2024-01-07
+Pelagis Kecil,Pari,2024,7,577,2024-01-07
+Demersal,Pedang,2024,7,920,2024-01-07
+Pelagis Besar,Peperek,2024,7,3888,2024-01-07
+Pelagis Kecil,Pinjalo,2024,7,336,2024-01-07
+Karang (Reef-Associated),Pisang-pisang,2024,7,30720,2024-01-07
+Pelagis Kecil,Sebelah,2024,7,1103,2024-01-07
+Pelagis Kecil,Selar Kuning,2024,7,2347,2024-01-07
+jumlah,,2024,7,410292,2024-01-07
+Pelagis Besar,Tenggiri,2024,7,671,2024-01-07
+Pelagis Besar,Tenggiri Papan,2024,7,640,2024-01-07
+Pelagis Besar,Tetengkek,2024,7,1134,2024-01-07
+Pelagis Kecil,Tongkol,2024,7,7918,2024-01-07
+Pelagis Besar,Tongkol Abu-Abu,2024,7,729,2024-01-07
+Pelagis Besar,Tongkol Banyar,2024,7,4289,2024-01-07
+Pelagis Besar,Tongkol Komo,2024,7,8996,2024-01-07
+Pelagis Besar,Tongkol Lisong,2024,7,9344,2024-01-07
+Pelagis Besar,Tuna Mata Besar,2024,7,516,2024-01-07
+Pelagis Besar,Tuna Sirip Kuning,2024,7,53101,2024-01-07
+Pelagis Kecil,Lencam,2024,7,848,2024-01-07
+Pelagis Kecil,Swanggi,2024,7,2030,2024-01-07
+Pelagis Besar,Lemadang,2024,7,12318,2024-01-07
+Pelagis Kecil,Layur,2024,7,53875,2024-01-07
+Pelagis Besar,Layaran,2024,7,880,2024-01-07
+Pelagis Besar,Bawal laut,2024,7,749,2024-01-07
+Pelagis Besar,Cakalang,2024,7,112376,2024-01-07
+Pelagis Besar,Cendro,2024,7,1216,2024-01-07
+Pelagis Kecil,Ekor kuning,2024,7,2013,2024-01-07
+Demersal,Gabus Laut,2024,7,1399,2024-01-07
+Demersal,Gerot Gerot,2024,7,6547,2024-01-07
+Demersal,Golok golok,2024,7,1219,2024-01-07
+Demersal,Gulamah/Tigawaja/Samgeh,2024,7,4134,2024-01-07
+Karang (Reef-Associated),Kakap,2024,7,803,2024-01-07
+Karang (Reef-Associated),Kakap Batu,2024,7,1576,2024-01-07
+Karang (Reef-Associated),Kakap Jenaha,2024,7,1611,2024-01-07
+Karang (Reef-Associated),Ayam ayam,2024,7,2733,2024-01-07
+Pelagis Kecil,Kapas kapas/Bagas,2024,7,8360,2024-01-07
+Pelagis Kecil,Kembung Lelaki,2024,7,8485,2024-01-07
+Pelagis Kecil,Kembung Perempuan,2024,7,5119,2024-01-07
+Karang (Reef-Associated),Kerapu,2024,7,1399,2024-01-07
+Demersal,Kuniran/biji nangka,2024,7,3338,2024-01-07
+Demersal,Kurisi,2024,7,2799,2024-01-07
+Pelagis Kecil,Kuro/Senangin/laosan,2024,7,5114,2024-01-07
+Karang (Reef-Associated),Kuwe,2024,7,1961,2024-01-07
+Karang (Reef-Associated),Kuwe gerong,2024,7,769,2024-01-07
+Pelagis Kecil,Layang,2024,7,28188,2024-01-07
+Karang (Reef-Associated),Kakap Merah,2024,7,1920,2024-01-07
+Pelagis Kecil,Sebelah,2024,8,2120,2024-01-08
+Karang (Reef-Associated),Pisang-pisang,2024,8,6174,2024-01-08
+Pelagis Kecil,Pinjalo,2024,8,1176,2024-01-08
+Pelagis Besar,Peperek,2024,8,5028,2024-01-08
+Demersal,Manyung,2024,8,1936,2024-01-08
+Pelagis Kecil,Pari,2024,8,734,2024-01-08
+Pelagis Besar,Nyunglas,2024,8,920,2024-01-08
+Demersal,Marlin,2024,8,2806,2024-01-08
+Demersal,Selar Bentong,2024,8,10904,2024-01-08
+Demersal,Pedang,2024,8,1024,2024-01-08
+jumlah,,2024,8,501586,2024-01-08
+Pelagis Kecil,Tongkol,2024,8,15232,2024-01-08
+Pelagis Besar,Tenggiri,2024,8,860,2024-01-08
+Pelagis Besar,Tenggiri Papan,2024,8,729,2024-01-08
+Pelagis Besar,Tetengkek,2024,8,2352,2024-01-08
+Pelagis Besar,Tongkol Abu-Abu,2024,8,2037,2024-01-08
+Pelagis Besar,Tongkol Banyar,2024,8,9698,2024-01-08
+Pelagis Besar,Tongkol Komo,2024,8,19574,2024-01-08
+Pelagis Besar,Tongkol Lisong,2024,8,17479,2024-01-08
+Pelagis Besar,Tuna Mata Besar,2024,8,625,2024-01-08
+Pelagis Besar,Tuna Sirip Kuning,2024,8,68072,2024-01-08
+Pelagis Kecil,Lencam,2024,8,1599,2024-01-08
+Pelagis Kecil,Swanggi,2024,8,4355,2024-01-08
+Pelagis Besar,Lemadang,2024,8,14440,2024-01-08
+Pelagis Kecil,Selar Kuning,2024,8,3120,2024-01-08
+Pelagis Besar,Layaran,2024,8,1440,2024-01-08
+Karang (Reef-Associated),Ayam ayam,2024,8,3599,2024-01-08
+Pelagis Besar,Bawal laut,2024,8,1372,2024-01-08
+Pelagis Besar,Cakalang,2024,8,130443,2024-01-08
+Pelagis Besar,Cendro,2024,8,3318,2024-01-08
+Pelagis Kecil,Ekor kuning,2024,8,2737,2024-01-08
+Demersal,Gabus Laut,2024,8,1261,2024-01-08
+Demersal,Gerot Gerot,2024,8,6651,2024-01-08
+Demersal,Golok golok,2024,8,2418,2024-01-08
+Demersal,Gulamah/Tigawaja/Samgeh,2024,8,4518,2024-01-08
+Karang (Reef-Associated),Kakap,2024,8,1363,2024-01-08
+Karang (Reef-Associated),Kakap Batu,2024,8,2510,2024-01-08
+Pelagis Kecil,Layur,2024,8,61886,2024-01-08
+Karang (Reef-Associated),Kakap Merah,2024,8,2354,2024-01-08
+Pelagis Kecil,Kapas kapas/Bagas,2024,8,10066,2024-01-08
+Pelagis Kecil,Kembung Lelaki,2024,8,10742,2024-01-08
+Pelagis Kecil,Kembung Perempuan,2024,8,8805,2024-01-08
+Karang (Reef-Associated),Kerapu,2024,8,1340,2024-01-08
+Demersal,Kuniran/biji nangka,2024,8,4758,2024-01-08
+Demersal,Kurisi,2024,8,5283,2024-01-08
+Pelagis Kecil,Kuro/Senangin/laosan,2024,8,6799,2024-01-08
+Karang (Reef-Associated),Kuwe,2024,8,3599,2024-01-08
+Karang (Reef-Associated),Kuwe gerong,2024,8,1193,2024-01-08
+Pelagis Kecil,Layang,2024,8,28474,2024-01-08
+Karang (Reef-Associated),Kakap Jenaha,2024,8,1663,2024-01-08
+Pelagis Kecil,Sebelah,2024,9,1513,2024-01-09
+Karang (Reef-Associated),Pisang-pisang,2024,9,17570,2024-01-09
+Pelagis Kecil,Pinjalo,2024,9,1045,2024-01-09
+Pelagis Besar,Peperek,2024,9,6000,2024-01-09
+Demersal,Manyung,2024,9,2100,2024-01-09
+Pelagis Kecil,Pari,2024,9,1108,2024-01-09
+Pelagis Besar,Nyunglas,2024,9,1926,2024-01-09
+Demersal,Marlin,2024,9,2940,2024-01-09
+Demersal,Selar Bentong,2024,9,11304,2024-01-09
+Demersal,Pedang,2024,9,1144,2024-01-09
+Pelagis Kecil,Selar Kuning,2024,9,3705,2024-01-09
+Pelagis Besar,Tongkol Abu-Abu,2024,9,6436,2024-01-09
+Pelagis Besar,Tenggiri,2024,9,941,2024-01-09
+Pelagis Besar,Tenggiri Papan,2024,9,842,2024-01-09
+Pelagis Besar,Tetengkek,2024,9,2274,2024-01-09
+Pelagis Kecil,Tongkol,2024,9,30901,2024-01-09
+Pelagis Besar,Tongkol Banyar,2024,9,17255,2024-01-09
+Pelagis Besar,Tongkol Komo,2024,9,43893,2024-01-09
+Pelagis Besar,Tongkol Lisong,2024,9,54186,2024-01-09
+Pelagis Besar,Tuna Mata Besar,2024,9,710,2024-01-09
+Pelagis Besar,Tuna Sirip Kuning,2024,9,50276,2024-01-09
+jumlah,,2024,9,581823,2024-01-09
+Pelagis Kecil,Lencam,2024,9,885,2024-01-09
+Pelagis Kecil,Swanggi,2024,9,1135,2024-01-09
+Pelagis Besar,Lemadang,2024,9,15217,2024-01-09
+Pelagis Kecil,Layur,2024,9,64291,2024-01-09
+Pelagis Besar,Layaran,2024,9,1507,2024-01-09
+Pelagis Besar,Bawal laut,2024,9,1221,2024-01-09
+Pelagis Besar,Cakalang,2024,9,132745,2024-01-09
+Pelagis Besar,Cendro,2024,9,3661,2024-01-09
+Pelagis Kecil,Ekor kuning,2024,9,4211,2024-01-09
+Demersal,Gabus Laut,2024,9,1704,2024-01-09
+Demersal,Gerot Gerot,2024,9,6784,2024-01-09
+Demersal,Golok golok,2024,9,2520,2024-01-09
+Demersal,Gulamah/Tigawaja/Samgeh,2024,9,4096,2024-01-09
+Karang (Reef-Associated),Kakap,2024,9,1379,2024-01-09
+Karang (Reef-Associated),Kakap Batu,2024,9,2041,2024-01-09
+Karang (Reef-Associated),Kakap Jenaha,2024,9,1802,2024-01-09
+Karang (Reef-Associated),Ayam ayam,2024,9,3816,2024-01-09
+Pelagis Kecil,Kapas kapas/Bagas,2024,9,7918,2024-01-09
+Pelagis Kecil,Kembung Lelaki,2024,9,9128,2024-01-09
+Pelagis Kecil,Kembung Perempuan,2024,9,9112,2024-01-09
+Karang (Reef-Associated),Kerapu,2024,9,1141,2024-01-09
+Demersal,Kuniran/biji nangka,2024,9,5164,2024-01-09
+Demersal,Kurisi,2024,9,5903,2024-01-09
+Pelagis Kecil,Kuro/Senangin/laosan,2024,9,6988,2024-01-09
+Karang (Reef-Associated),Kuwe,2024,9,1030,2024-01-09
+Karang (Reef-Associated),Kuwe gerong,2024,9,926,2024-01-09
+Pelagis Kecil,Layang,2024,9,25599,2024-01-09
+Karang (Reef-Associated),Kakap Merah,2024,9,1830,2024-01-09
+Pelagis Kecil,Sebelah,2024,10,912,2024-01-10
+Karang (Reef-Associated),Pisang-pisang,2024,10,3600,2024-01-10
+Pelagis Kecil,Pinjalo,2024,10,1136,2024-01-10
+Pelagis Besar,Peperek,2024,10,7168,2024-01-10
+Demersal,Manyung,2024,10,2240,2024-01-10
+Pelagis Kecil,Pari,2024,10,1313,2024-01-10
+Pelagis Besar,Nyunglas,2024,10,4784,2024-01-10
+Demersal,Marlin,2024,10,4977,2024-01-10
+Demersal,Selar Bentong,2024,10,12458,2024-01-10
+Demersal,Pedang,2024,10,1357,2024-01-10
+jumlah,,2024,10,555536,2024-01-10
+Pelagis Kecil,Tongkol,2024,10,20673,2024-01-10
+Pelagis Besar,Tenggiri,2024,10,2841,2024-01-10
+Pelagis Besar,Tenggiri Papan,2024,10,2090,2024-01-10
+Pelagis Besar,Tetengkek,2024,10,1309,2024-01-10
+Pelagis Besar,Tongkol Abu-Abu,2024,10,6237,2024-01-10
+Pelagis Besar,Tongkol Banyar,2024,10,12623,2024-01-10
+Pelagis Besar,Tongkol Komo,2024,10,21911,2024-01-10
+Pelagis Besar,Tongkol Lisong,2024,10,35547,2024-01-10
+Pelagis Besar,Tuna Mata Besar,2024,10,673,2024-01-10
+Pelagis Besar,Tuna Sirip Kuning,2024,10,48106,2024-01-10
+Pelagis Kecil,Lencam,2024,10,1482,2024-01-10
+Pelagis Kecil,Swanggi,2024,10,1459,2024-01-10
+Pelagis Besar,Lemadang,2024,10,24751,2024-01-10
+Pelagis Kecil,Selar Kuning,2024,10,4091,2024-01-10
+Pelagis Besar,Layaran,2024,10,3018,2024-01-10
+Karang (Reef-Associated),Ayam ayam,2024,10,7307,2024-01-10
+Pelagis Besar,Bawal laut,2024,10,2291,2024-01-10
+Pelagis Besar,Cakalang,2024,10,105071,2024-01-10
+Pelagis Besar,Cendro,2024,10,6846,2024-01-10
+Pelagis Kecil,Ekor kuning,2024,10,3353,2024-01-10
+Demersal,Gabus Laut,2024,10,1826,2024-01-10
+Demersal,Golok golok,2024,10,2194,2024-01-10
+Demersal,Gulamah/Tigawaja/Samgeh,2024,10,4978,2024-01-10
+Karang (Reef-Associated),Kakap,2024,10,1275,2024-01-10
+Karang (Reef-Associated),Kakap Batu,2024,10,1223,2024-01-10
+Karang (Reef-Associated),Kakap Jenaha,2024,10,1395,2024-01-10
+Demersal,Gerot Gerot,2024,10,6974,2024-01-10
+Pelagis Kecil,Kapas kapas/Bagas,2024,10,14671,2024-01-10
+Karang (Reef-Associated),Kakap Merah,2024,10,1580,2024-01-10
+Karang (Reef-Associated),Kuwe gerong,2024,10,1086,2024-01-10
+Karang (Reef-Associated),Kuwe,2024,10,3709,2024-01-10
+Pelagis Kecil,Kuro/Senangin/laosan,2024,10,5751,2024-01-10
+Demersal,Kurisi,2024,10,4586,2024-01-10
+Pelagis Kecil,Layang,2024,10,29735,2024-01-10
+Karang (Reef-Associated),Kerapu,2024,10,2083,2024-01-10
+Pelagis Kecil,Kembung Perempuan,2024,10,9526,2024-01-10
+Pelagis Kecil,Kembung Lelaki,2024,10,6919,2024-01-10
+Demersal,Kuniran/biji nangka,2024,10,7722,2024-01-10
+Pelagis Kecil,Layur,2024,10,96679,2024-01-10
+Demersal,Selar Bentong,2024,11,12168,2024-01-11
+Demersal,Manyung,2024,11,1404,2024-01-11
+Demersal,Marlin,2024,11,4648,2024-01-11
+Pelagis Besar,Nyunglas,2024,11,4069,2024-01-11
+Pelagis Kecil,Pari,2024,11,1014,2024-01-11
+Demersal,Pedang,2024,11,1282,2024-01-11
+Pelagis Besar,Peperek,2024,11,5376,2024-01-11
+Pelagis Kecil,Pinjalo,2024,11,479,2024-01-11
+Karang (Reef-Associated),Pisang-pisang,2024,11,3524,2024-01-11
+Pelagis Kecil,Sebelah,2024,11,900,2024-01-11
+jumlah,,2024,11,540165,2024-01-11
+Pelagis Besar,Tenggiri,2024,11,2969,2024-01-11
+Pelagis Besar,Tenggiri Papan,2024,11,2111,2024-01-11
+Pelagis Besar,Tetengkek,2024,11,1309,2024-01-11
+Pelagis Kecil,Tongkol,2024,11,19815,2024-01-11
+Pelagis Besar,Tongkol Abu-Abu,2024,11,6245,2024-01-11
+Pelagis Besar,Tongkol Banyar,2024,11,12429,2024-01-11
+Pelagis Besar,Tongkol Komo,2024,11,21684,2024-01-11
+Pelagis Besar,Tongkol Lisong,2024,11,29346,2024-01-11
+Pelagis Besar,Tuna Mata Besar,2024,11,658,2024-01-11
+Pelagis Besar,Tuna Sirip Kuning,2024,11,53455,2024-01-11
+Pelagis Kecil,Lencam,2024,11,1280,2024-01-11
+Pelagis Kecil,Swanggi,2024,11,1414,2024-01-11
+Pelagis Besar,Lemadang,2024,11,25415,2024-01-11
+Pelagis Kecil,Selar Kuning,2024,11,4007,2024-01-11
+Pelagis Besar,Layaran,2024,11,2837,2024-01-11
+Karang (Reef-Associated),Ayam ayam,2024,11,5921,2024-01-11
+Pelagis Besar,Bawal laut,2024,11,2255,2024-01-11
+Pelagis Besar,Cakalang,2024,11,107169,2024-01-11
+Pelagis Besar,Cendro,2024,11,3577,2024-01-11
+Pelagis Kecil,Ekor kuning,2024,11,2819,2024-01-11
+Demersal,Gabus Laut,2024,11,1367,2024-01-11
+Pelagis Kecil,Layur,2024,11,96144,2024-01-11
+Demersal,Golok golok,2024,11,2143,2024-01-11
+Demersal,Gulamah/Tigawaja/Samgeh,2024,11,4950,2024-01-11
+Karang (Reef-Associated),Kakap,2024,11,1246,2024-01-11
+Karang (Reef-Associated),Kakap Batu,2024,11,1195,2024-01-11
+Demersal,Gerot Gerot,2024,11,6776,2024-01-11
+Karang (Reef-Associated),Kakap Merah,2024,11,1549,2024-01-11
+Karang (Reef-Associated),Kakap Jenaha,2024,11,1371,2024-01-11
+Karang (Reef-Associated),Kuwe gerong,2024,11,1074,2024-01-11
+Karang (Reef-Associated),Kuwe,2024,11,2727,2024-01-11
+Pelagis Kecil,Kuro/Senangin/laosan,2024,11,5592,2024-01-11
+Demersal,Kurisi,2024,11,4795,2024-01-11
+Pelagis Kecil,Layang,2024,11,27826,2024-01-11
+Karang (Reef-Associated),Kerapu,2024,11,1871,2024-01-11
+Pelagis Kecil,Kembung Perempuan,2024,11,9204,2024-01-11
+Pelagis Kecil,Kembung Lelaki,2024,11,6839,2024-01-11
+Pelagis Kecil,Kapas kapas/Bagas,2024,11,14348,2024-01-11
+Demersal,Kuniran/biji nangka,2024,11,7569,2024-01-11
+Pelagis Kecil,Lencam,2024,12,1270,2024-01-12
+Demersal,Manyung,2024,12,1391,2024-01-12
+Demersal,Marlin,2024,12,4488,2024-01-12
+Pelagis Besar,Nyunglas,2024,12,3989,2024-01-12
+Pelagis Kecil,Pari,2024,12,1000,2024-01-12
+Demersal,Pedang,2024,12,1251,2024-01-12
+Pelagis Besar,Peperek,2024,12,5310,2024-01-12
+Pelagis Kecil,Pinjalo,2024,12,473,2024-01-12
+Karang (Reef-Associated),Pisang-pisang,2024,12,3508,2024-01-12
+Pelagis Kecil,Sebelah,2024,12,895,2024-01-12
+Pelagis Besar,Tuna Mata Besar,2024,12,603,2024-01-12
+Pelagis Kecil,Selar Kuning,2024,12,3883,2024-01-12
+Pelagis Kecil,Swanggi,2024,12,1377,2024-01-12
+Pelagis Besar,Tenggiri,2024,12,2933,2024-01-12
+Pelagis Besar,Tenggiri Papan,2024,12,1945,2024-01-12
+Pelagis Besar,Tetengkek,2024,12,1286,2024-01-12
+Pelagis Kecil,Tongkol,2024,12,19511,2024-01-12
+Pelagis Besar,Tongkol Abu-Abu,2024,12,6207,2024-01-12
+Pelagis Besar,Tongkol Banyar,2024,12,12364,2024-01-12
+Pelagis Besar,Tongkol Komo,2024,12,21309,2024-01-12
+Pelagis Besar,Tongkol Lisong,2024,12,29193,2024-01-12
+Pelagis Besar,Lemadang,2024,12,25045,2024-01-12
+Demersal,Selar Bentong,2024,12,12053,2024-01-12
+Pelagis Kecil,Layur,2024,12,95550,2024-01-12
+Karang (Reef-Associated),Kakap Merah,2024,12,1523,2024-01-12
+Pelagis Kecil,Layang,2024,12,23593,2024-01-12
+Pelagis Besar,Tuna Sirip Kuning,2024,12,49037,2024-01-12
+Karang (Reef-Associated),Ayam ayam,2024,12,5774,2024-01-12
+Pelagis Besar,Bawal laut,2024,12,2238,2024-01-12
+Pelagis Besar,Cakalang,2024,12,105930,2024-01-12
+Pelagis Besar,Cendro,2024,12,3527,2024-01-12
+Pelagis Kecil,Ekor kuning,2024,12,2784,2024-01-12
+Demersal,Gabus Laut,2024,12,1336,2024-01-12
+Demersal,Gerot Gerot,2024,12,6747,2024-01-12
+Demersal,Golok golok,2024,12,2069,2024-01-12
+Demersal,Gulamah/Tigawaja/Samgeh,2024,12,4888,2024-01-12
+Pelagis Besar,Layaran,2024,12,2763,2024-01-12
+Karang (Reef-Associated),Kakap,2024,12,1143,2024-01-12
+Karang (Reef-Associated),Kakap Jenaha,2024,12,1365,2024-01-12
+Pelagis Kecil,Kapas kapas/Bagas,2024,12,14273,2024-01-12
+Pelagis Kecil,Kembung Lelaki,2024,12,6788,2024-01-12
+Pelagis Kecil,Kembung Perempuan,2024,12,9084,2024-01-12
+Karang (Reef-Associated),Kerapu,2024,12,1857,2024-01-12
+Demersal,Kuniran/biji nangka,2024,12,7524,2024-01-12
+Demersal,Kurisi,2024,12,4763,2024-01-12
+Pelagis Kecil,Kuro/Senangin/laosan,2024,12,5538,2024-01-12
+Karang (Reef-Associated),Kuwe,2024,12,2654,2024-01-12
+Karang (Reef-Associated),Kuwe gerong,2024,12,1044,2024-01-12
+Karang (Reef-Associated),Kakap Batu,2024,12,1199,2024-01-12
+jumlah,,2024,12,526275,2024-01-12

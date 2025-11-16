@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html class="light" lang="id"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Pengaturan - SmartStock</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<style type="text/tailwindcss">
+        .material-symbols-outlined {
+          font-variation-settings:
+          'FILL' 0,
+          'wght' 400,
+          'GRAD' 0,
+          'opsz' 24
+        }
+    </style>
+<script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary": "#1A5F7A",
+              "highlight": "#FF7F50",
+              "background-light": "#F8F9FA",
+              "background-dark": "#101c22",
+              "text-light": "#111618",
+              "text-dark": "#f0f3f5",
+              "border-light": "#e5e7eb",
+              "border-dark": "#374151"
+            },
+            fontFamily: {
+              "display": ["Inter", "sans-serif"]
+            },
+            borderRadius: {"DEFAULT": "0.5rem", "lg": "0.75rem", "xl": "1rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+</head>
+<body class="font-display bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark">
+<div class="relative flex min-h-screen w-full flex-col">
+<header class="sticky top-0 z-20 flex h-16 w-full items-center justify-between border-b border-solid border-border-light dark:border-border-dark bg-white/80 dark:bg-background-dark/80 px-6 backdrop-blur-sm">
+<div class="flex items-center gap-3">
+<a class="flex items-center gap-3" href="#">
+<span class="material-symbols-outlined text-primary text-3xl">waves</span>
+<span class="text-lg font-bold text-text-light dark:text-text-dark">SmartStock</span>
+</a>
+</div>
+<div class="flex items-center gap-4">
+<button class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" id="theme-toggle" type="button">
+<span class="material-symbols-outlined dark:hidden">light_mode</span>
+<span class="material-symbols-outlined hidden dark:inline">dark_mode</span>
+</button>
+<div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10" data-alt="User profile avatar image" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAbtT3zgUGcpnZK_H631aAYURKDNDCB4hmTypuHwnZkhwLb8VYQuRJ2rNg8baLjKDcD00jLE6VISLMmWi5vBZ2BYq4gtMMdCTUyNk49J1xmF4ov-MjEUjhxU3AnJngEdPFdHermMz1OOZRyryurdGXfB4Gj6NstPywoYlW6qCbWaIzu0l0l7KltvB1V7o_lgX8djmQkTH7w0OpkGjJoMUmhWyvWKSo9g_Ub3BOUbRrj6NVzmLJBd7yWnCiygTcFeha4BN1e5iO7qc4");'></div>
+</div>
+</header>
+<div class="flex flex-1">
+<aside class="w-64 flex-shrink-0 border-r border-solid border-border-light dark:border-border-dark bg-white dark:bg-gray-900/50 p-4">
+<nav class="flex h-full flex-col justify-between">
+<div class="flex flex-col gap-2">
+<a class="flex items-center gap-3 rounded-DEFAULT px-3 py-2 text-text-light dark:text-text-dark hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" href="#">
+<span class="material-symbols-outlined text-xl">dashboard</span>
+<p class="text-sm font-medium leading-normal">Dasbor</p>
+</a>
+<a class="flex items-center gap-3 rounded-DEFAULT px-3 py-2 text-text-light dark:text-text-dark hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" href="#">
+<span class="material-symbols-outlined text-xl">bar_chart</span>
+<p class="text-sm font-medium leading-normal">Laporan</p>
+</a>
+<a class="flex items-center gap-3 rounded-DEFAULT px-3 py-2 bg-primary/10 text-primary transition-colors" href="#">
+<span class="material-symbols-outlined text-xl" style="font-variation-settings: 'FILL' 1;">settings</span>
+<p class="text-sm font-medium leading-normal">Pengaturan</p>
+</a>
+</div>
+<div class="flex flex-col gap-1">
+<a class="flex items-center gap-3 rounded-DEFAULT px-3 py-2 text-text-light dark:text-text-dark hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" href="#">
+<span class="material-symbols-outlined text-xl">help</span>
+<p class="text-sm font-medium leading-normal">Bantuan</p>
+</a>
+<a class="flex items-center gap-3 rounded-DEFAULT px-3 py-2 text-text-light dark:text-text-dark hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" href="#">
+<span class="material-symbols-outlined text-xl">logout</span>
+<p class="text-sm font-medium leading-normal">Keluar</p>
+</a>
+</div>
+</nav>
+</aside>
+<main class="flex-1 overflow-y-auto p-6 lg:p-10">
+<div class="mx-auto max-w-4xl">
+<div class="flex flex-wrap justify-between gap-3 mb-8">
+<p class="text-text-light dark:text-text-dark text-4xl font-black leading-tight tracking-[-0.033em] min-w-72">Pengaturan</p>
+</div>
+<div class="flex flex-col gap-10">
+<section class="bg-white dark:bg-background-dark rounded-lg border border-border-light dark:border-border-dark shadow-sm">
+<div class="p-6 border-b border-border-light dark:border-border-dark">
+<h2 class="text-text-light dark:text-text-dark text-[22px] font-bold leading-tight tracking-[-0.015em]">Pengaturan Akun</h2>
+<p class="text-gray-500 dark:text-gray-400 text-base font-normal leading-normal pt-1">Kelola informasi profil dan kata sandi Anda.</p>
+</div>
+<div class="p-6 space-y-6">
+<div class="grid grid-cols-1 md:grid-cols-3 items-center gap-4">
+<label class="text-sm font-medium text-gray-700 dark:text-gray-300" for="name">Nama</label>
+<input class="md:col-span-2 w-full rounded-DEFAULT border-border-light dark:border-border-dark bg-background-light dark:bg-gray-700 focus:ring-primary focus:border-primary" id="name" type="text" value="Alex Drake"/>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 items-center gap-4">
+<label class="text-sm font-medium text-gray-700 dark:text-gray-300" for="email">Alamat Email</label>
+<input class="md:col-span-2 w-full rounded-DEFAULT border-border-light dark:border-border-dark bg-background-light dark:bg-gray-700 focus:ring-primary focus:border-primary" id="email" type="email" value="alex.drake@example.com"/>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 items-center gap-4">
+<label class="text-sm font-medium text-gray-700 dark:text-gray-300">Kata Sandi</label>
+<div class="md:col-span-2">
+<button class="px-4 py-2 text-sm font-medium text-primary border border-primary/50 rounded-DEFAULT hover:bg-primary/10 transition-colors" type="button">Ubah Kata Sandi</button>
+</div>
+</div>
+</div>
+<div class="flex justify-end p-6 bg-gray-50 dark:bg-gray-900/50 rounded-b-lg">
+<button class="bg-primary text-white px-5 py-2.5 text-sm font-medium rounded-DEFAULT hover:bg-primary/90 focus:ring-4 focus:ring-primary/30 transition-colors" type="button">Simpan Perubahan</button>
+</div>
+</section>
+<section class="bg-white dark:bg-background-dark rounded-lg border border-border-light dark:border-border-dark shadow-sm">
+<div class="p-6 border-b border-border-light dark:border-border-dark">
+<h2 class="text-text-light dark:text-text-dark text-[22px] font-bold leading-tight tracking-[-0.015em]">Preferensi Notifikasi</h2>
+<p class="text-gray-500 dark:text-gray-400 text-base font-normal leading-normal pt-1">Pilih bagaimana Anda ingin diberi tahu.</p>
+</div>
+<div class="p-6 space-y-5">
+<div class="flex items-center justify-between">
+<div>
+<h3 class="font-medium text-text-light dark:text-text-dark">Peringatan Tren Stok</h3>
+<p class="text-sm text-gray-500 dark:text-gray-400">Dapatkan notifikasi tentang perubahan signifikan dalam prediksi stok ikan.</p>
+</div>
+<label class="relative inline-flex items-center cursor-pointer">
+<input checked="" class="sr-only peer" type="checkbox" value=""/>
+<div class="w-11 h-6 bg-gray-200 dark:bg-gray-700 rounded-full peer peer-focus:ring-2 peer-focus:ring-highlight/50 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-highlight"></div>
+</label>
+</div>
+<div class="flex items-center justify-between">
+<div>
+<h3 class="font-medium text-text-light dark:text-text-dark">Unggahan Data Baru</h3>
+<p class="text-sm text-gray-500 dark:text-gray-400">Terima email ketika data perikanan baru tersedia.</p>
+</div>
+<label class="relative inline-flex items-center cursor-pointer">
+<input class="sr-only peer" type="checkbox" value=""/>
+<div class="w-11 h-6 bg-gray-200 dark:bg-gray-700 rounded-full peer peer-focus:ring-2 peer-focus:ring-highlight/50 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-highlight"></div>
+</label>
+</div>
+<div class="flex items-center justify-between">
+<div>
+<h3 class="font-medium text-text-light dark:text-text-dark">Pembaruan Sistem</h3>
+<p class="text-sm text-gray-500 dark:text-gray-400">Tetap terinformasi tentang fitur baru dan pemeliharaan sistem.</p>
+</div>
+<label class="relative inline-flex items-center cursor-pointer">
+<input checked="" class="sr-only peer" type="checkbox" value=""/>
+<div class="w-11 h-6 bg-gray-200 dark:bg-gray-700 rounded-full peer peer-focus:ring-2 peer-focus:ring-highlight/50 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-highlight"></div>
+</label>
+</div>
+</div>
+</section>
+<section class="bg-white dark:bg-background-dark rounded-lg border border-border-light dark:border-border-dark shadow-sm">
+<div class="p-6 border-b border-border-light dark:border-border-dark">
+<h2 class="text-text-light dark:text-text-dark text-[22px] font-bold leading-tight tracking-[-0.015em]">Opsi Ekspor Data</h2>
+<p class="text-gray-500 dark:text-gray-400 text-base font-normal leading-normal pt-1">Ekspor catatan perikanan Anda.</p>
+</div>
+<div class="p-6 space-y-6">
+<div class="grid grid-cols-1 md:grid-cols-3 items-center gap-4">
+<label class="text-sm font-medium text-gray-700 dark:text-gray-300" for="data-type">Tipe Data</label>
+<select class="md:col-span-2 w-full rounded-DEFAULT border-border-light dark:border-border-dark bg-background-light dark:bg-gray-700 focus:ring-primary focus:border-primary" id="data-type">
+<option>Data Tangkapan Historis</option>
+<option>Prediksi Stok Ikan</option>
+<option>Log Aktivitas Kapal</option>
+</select>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 items-center gap-4">
+<label class="text-sm font-medium text-gray-700 dark:text-gray-300" for="file-format">Format Berkas</label>
+<select class="md:col-span-2 w-full rounded-DEFAULT border-border-light dark:border-border-dark bg-background-light dark:bg-gray-700 focus:ring-primary focus:border-primary" id="file-format">
+<option>CSV (.csv)</option>
+<option>JSON (.json)</option>
+<option>PDF (.pdf)</option>
+</select>
+</div>
+</div>
+<div class="flex justify-end p-6 bg-gray-50 dark:bg-gray-900/50 rounded-b-lg">
+<button class="bg-highlight text-white px-5 py-2.5 text-sm font-medium rounded-DEFAULT hover:bg-highlight/90 focus:ring-4 focus:ring-highlight/30 transition-colors flex items-center gap-2" type="button">
+<span class="material-symbols-outlined text-lg">download</span>
+                                    Ekspor Data
+                                </button>
+</div>
+</section>
+</div>
+</div>
+<footer class="mt-12 text-center text-sm text-gray-500 dark:text-gray-400 py-6 px-6">
+<p>© 2024 SmartStock. Hak Cipta Dilindungi. | Hubungi HIMATASKA</p>
+</footer>
+</main>
+</div>
+</div>
+<script>
+    const themeToggle = document.getElementById('theme-toggle');
+    const htmlEl = document.documentElement;
+    themeToggle.addEventListener('click', () => {
+        htmlEl.classList.toggle('dark');
+    });
+</script>
+</body></html>

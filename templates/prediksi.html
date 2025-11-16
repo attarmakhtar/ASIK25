@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="id" class="light">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>SmartStock - Prediksi Stok Ikan</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com" rel="preconnect"/>
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+
+    <style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24
+        }
+    </style>
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#005A9C",
+                        "secondary": "#FF6F61",
+                        "background-light": "#F8F9FA",
+                        "background-dark": "#0a1217",
+                        "text-light": "#343A40",
+                        "text-dark": "#e0e6eb",
+                        "subtle-light": "#e9ecef",
+                        "subtle-dark": "#1f2937",
+                        "subtle-text-light": "#6c757d",
+                        "subtle-text-dark": "#9ca3af",
+                    },
+                    fontFamily: { "display": ["Inter", "sans-serif"] },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        };
+    </script>
+    <style>
+        /* Gaya tambahan untuk menonaktifkan panah pada input number */
+        input[type="number"]::-webkit-outer-spin-button,
+        input[type="number"]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+        input[type="number"] {
+            -moz-appearance: textfield;
+        }
+    </style>
+</head>
+
+<body class="font-display bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark">
+<div class="relative flex h-auto min-h-screen w-full flex-col group/design-root overflow-x-hidden">
+    <div class="flex h-full grow flex-row">
+        <aside class="flex h-screen min-h-[700px] flex-col justify-between border-r border-subtle-light dark:border-subtle-dark bg-white dark:bg-background-dark p-4 w-64 fixed left-0 top-0">
+            <div class="flex flex-col gap-8">
+                <div class="flex items-center gap-3 px-2">
+                    <div class="size-6 text-primary">
+                        <svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M24 4C26.1564 4 27.9101 4.88725 29.284 6.26115L35.9751 12.9523C38.0463 15.0234 38.0463 18.3371 35.9751 20.4082L29.284 27.0994C27.9101 28.4733 26.1564 29.3605 24 29.3605L24 4ZM24 44H6V30.6667V17.3333H24V44Z" fill="#005A9C"></path>
+                            <path d="M24 4H42V17.3333V30.6667H24V4Z" fill="#005A9C" fill-opacity="0.3"></path>
+                        </svg>
+                    </div>
+                    <h1 class="text-lg font-bold leading-normal text-text-light dark:text-text-dark">SmartStock</h1>
+                </div>
+                <nav class="flex flex-col gap-2">
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark hover:text-text-light dark:hover:text-text-dark transition-colors duration-200" href="/beranda">
+                        <span class="material-symbols-outlined text-lg font-normal fill-0">grid_view</span>
+                        <p class="text-sm font-medium">Dasbor</p>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark hover:text-text-light dark:hover:text-text-dark transition-colors duration-200" href="/grafik">
+                        <span class="material-symbols-outlined text-lg font-normal fill-0">monitoring</span>
+                        <p class="text-sm font-medium">Grafik Historis</p>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg bg-primary/10 dark:bg-primary/20 text-primary" href="/prediksi">
+                        <span class="material-symbols-outlined text-lg">trending_up</span>
+                        <p class="text-sm font-bold">Prediksi Stok</p>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark hover:text-text-light dark:hover:text-text-dark transition-colors duration-200" href="/manajemen_kapal">
+                        <span class="material-symbols-outlined text-lg font-normal fill-0">database</span>
+                        <p class="text-sm font-medium">Kelola Data</p>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark hover:text-text-light dark:hover:text-text-dark transition-colors duration-200" href="/about">
+                        <span class="material-symbols-outlined text-lg font-normal fill-0">info</span>
+                        <p class="text-sm font-medium">Tentang Kami</p>
+                    </a>
+                </nav>
+            </div>
+            <div class="flex flex-col gap-2">
+            </div>
+        </aside>
+
+        <main class="flex-1 ml-64 p-4 sm:p-6 md:p-8 overflow-y-auto">
+            <header class="flex items-center justify-end whitespace-nowrap border-b border-solid border-subtle-light dark:border-subtle-dark px-10 py-4 sticky top-0 bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-sm z-10 -mt-8 -mx-8">
+                <div class="flex items-center gap-4">
+                    <button aria-label="Toggle dark mode" class="flex items-center justify-center size-8 rounded-full text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark transition-colors" onclick="document.documentElement.classList.toggle('dark')">
+                        <span class="material-symbols-outlined text-xl block dark:hidden">dark_mode</span>
+                        <span class="material-symbols-outlined text-xl hidden dark:block">light_mode</span>
+                    </button>
+                    </div>
+            </header>
+            
+            <h2 class="text-3xl font-black mb-8 pt-4">Prediksi Stok Ikan</h2>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <div class="bg-white dark:bg-subtle-dark p-8 rounded-xl shadow border border-subtle-light dark:border-subtle-dark">
+                    <h3 class="text-xl font-bold mb-6">Input Data Prediksi</h3>
+
+                    <form id="prediksiForm" class="flex flex-col gap-6"> 
+                        
+                        <div>
+                            <label class="font-medium mb-2 block text-subtle-text-light dark:text-subtle-text-dark">Jenis Ikan</label>
+                            <select id="jenis_ikan" name="jenis_ikan_filter" class="w-full h-12 p-3 rounded-lg border border-subtle-light dark:border-subtle-dark bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark focus:ring-primary focus:border-primary" required>
+                                <option value="">Pilih jenis ikan</option>
+                                <option value="karang">Karang (Reef-Associated)</option>
+                                <option value="demersal">Demersal (Benthopelagic)</option>
+                                <option value="pelagis_besar">Pelagis Besar</option>
+                                <option value="pelagis_kecil">Pelagis Kecil</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label class="font-medium mb-2 block text-subtle-text-light dark:text-subtle-text-dark">Nama Ikan</label>
+                            <select id="nama_ikan" name="nama_ikan" class="w-full h-12 p-3 rounded-lg border border-subtle-light dark:border-subtle-dark bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark focus:ring-primary focus:border-primary" required>
+                                <option value="">Pilih nama ikan</option>
+                            </select>
+                        </div>
+                        
+                        <div>
+                            <label class="font-medium mb-2 block text-subtle-text-light dark:text-subtle-text-dark">Lokasi Penangkapan</label>
+                            <select id="lokasi" name="lokasi" class="w-full h-12 p-3 rounded-lg border border-subtle-light dark:border-subtle-dark bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark focus:ring-primary focus:border-primary" required>
+                                <option value="">Pilih lokasi</option>
+                                <option value="Binuangeun">Binuangeun</option> 
+                                <option value="Tanjungpanto">Tanjungpanto</option>
+                                <option value="Sukahujan">Sukahujan</option>
+                                <option value="Cipunaga">Cipunaga</option>
+                                <option value="Panyaungan">Panyaungan</option>
+                                <option value="Bayah">Bayah</option>
+                                <option value="Pulomanuk">Pulomanuk</option>
+                                <option value="Sawarna">Sawarna</option>
+                                <option value="Citarate">Citarate</option>
+                                <option value="Cibareno">Cibareno</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label class="font-medium mb-2 block text-subtle-text-light dark:text-subtle-text-dark">Jenis Alat Tangkap</label>
+                            <select id="jenis_alat_tangkap" name="jenis_alat_tangkap" class="w-full h-12 p-3 rounded-lg border border-subtle-light dark:border-subtle-dark bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark focus:ring-primary focus:border-primary" required>
+                                <option value="">Pilih alat tangkap</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label class="font-medium mb-2 block text-subtle-text-light dark:text-subtle-text-dark">Tahun Prediksi</label>
+                            <input type="number" id="tahun" name="tahun" placeholder="Masukkan tahun (Cth: 2024)" class="w-full h-12 p-3 rounded-lg border border-subtle-light dark:border-subtle-dark bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark focus:ring-primary focus:border-primary" min="2019" required>
+                        </div>
+
+                        <button type="button" id="btnPredict" class="w-full h-12 bg-primary text-white rounded-lg font-bold hover:bg-primary/90 transition">
+                            Prediksi Sekarang
+                        </button>
+                    </form>
+                </div>
+
+                <div class="bg-white dark:bg-subtle-dark p-8 rounded-xl shadow border border-subtle-light dark:border-subtle-dark flex flex-col justify-center items-center">
+                    <h3 class="text-xl font-bold mb-6 text-text-light dark:text-text-dark">Hasil Prediksi</h3>
+                    <p id="hasilPrediksi" class="text-6xl font-black text-primary mb-2">-</p>
+                    <p class="text-subtle-text-light dark:text-subtle-text-dark">kg</p>
+                    <p id="errorMessage" class="text-sm text-secondary mt-4"></p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <footer class="flex flex-col gap-6 px-5 py-10 text-center border-t border-subtle-light dark:border-subtle-dark ml-64">
+        <div class="flex flex-wrap items-center justify-center gap-x-8 gap-y-4">
+            <a class="text-subtle-text-light dark:text-subtle-text-dark text-sm font-medium leading-normal min-w-40 hover:text-primary dark:hover:text-secondary transition-colors" href="#">Kontak HIMATASKA</a>
+            <a class="text-subtle-text-light dark:text-subtle-text-dark text-sm font-medium leading-normal min-w-40 hover:text-primary dark:hover:text-secondary transition-colors" href="#">Kebijakan Privasi</a>
+            <a class="text-subtle-text-light dark:text-subtle-text-dark text-sm font-medium leading-normal min-w-40 hover:text-primary dark:hover:text-secondary transition-colors" href="#">Ketentuan Layanan</a>
+        </div>
+        <div class="flex flex-wrap justify-center gap-4">
+            <a aria-label="Email" href="#">
+                <span class="material-symbols-outlined text-subtle-text-light dark:text-subtle-text-dark hover:text-primary dark:hover:text-secondary transition-colors text-xl font-normal fill-0">mail</span>
+            </a>
+            <a aria-label="Telepon" href="#">
+                <span class="material-symbols-outlined text-subtle-text-light dark:text-subtle-text-dark hover:text-primary dark:hover:text-secondary transition-colors text-xl font-normal fill-0">call</span>
+            </a>
+        </div>
+        <p class="text-subtle-text-light dark:text-subtle-text-dark text-sm font-normal leading-normal">© 2024 SmartStock. Hak cipta dilindungi.</p>
+    </footer>
+</div>
+
+<script>
+    // =================================================================
+    // DATA HUBUNGAN (Diambil dari jenis_alat_tangkap.csv)
+    // =================================================================
+    const fishRelationsData = {
+        // Catatan: Kategori 'demersal' di bawah mencakup Demersal dan Demersal / Karang
+        'karang': {
+            namaIkan: ["Kerapu", "Kakap", "Kakap Batu", "Kakap Jenaha", "Kakap Merah", "Ayam ayam"],
+            alatTangkap: ["Jaring Insang Tetap (Set Gillnet)", "Pancing Ulur (Handline)"]
+        },
+        'demersal': {
+            namaIkan: ["Kurisi", "Tongkol", "Kembung", "Layang", "Tembang", "Selar", "Manyung"],
+            alatTangkap: ["Jaring Insang Kombinasi (Trammel Net)", "Jaring Insang Tetap (Set Gillnet)", "Pancing Ulur (Handline)"]
+        },
+        'pelagis_besar': {
+            namaIkan: ["Layaran", "Tuna Sirip Kuning", "Tuna Mata Besar", "Tenggiri"],
+            alatTangkap: ["Jaring Insang Hanyut (Drift Gillnet)", "Pancing Layang-Layang (Kite Line Fishing)", "Rawai Tuna (Tuna Longline)"]
+        },
+        'pelagis_kecil': {
+            namaIkan: ["Cakalang", "Tongkol", "Kembung", "Layang", "Tembang", "Selar", "Tenggiri", "Pisang-pisang"],
+            alatTangkap: ["Pukat Cicin Grup", "Payang", "Jaring Insang Kombinasi (Trammel Net)"]
+        }
+    };
+
+    const jenisIkanSelect = document.getElementById('jenis_ikan');
+    const namaIkanSelect = document.getElementById('nama_ikan');
+    const alatTangkapSelect = document.getElementById('jenis_alat_tangkap');
+
+    function populateDropdown(selectElement, dataArray) {
+        selectElement.innerHTML = '<option value="">Pilih...</option>';
+        if (dataArray) {
+            // Hapus duplikat dan pastikan unik, lalu urutkan
+            const uniqueData = [...new Set(dataArray)].sort();
+            uniqueData.forEach(item => {
+                const option = document.createElement('option');
+                option.value = item; 
+                option.textContent = item;
+                selectElement.appendChild(option);
+            });
+        }
+    }
+
+    // LISTENER UTAMA: Mengatur cascading Nama Ikan dan Alat Tangkap
+    jenisIkanSelect.addEventListener('change', function () {
+        const jenis = this.value;
+        
+        // Reset Nama Ikan dan Alat Tangkap
+        namaIkanSelect.innerHTML = '<option value="">Pilih nama ikan</option>';
+        alatTangkapSelect.innerHTML = '<option value="">Pilih alat tangkap</option>';
+
+        const relatedData = fishRelationsData[jenis];
+
+        if (relatedData) {
+            // 1. Isi Nama Ikan
+            populateDropdown(namaIkanSelect, relatedData.namaIkan);
+
+            // 2. Isi Alat Tangkap
+            populateDropdown(alatTangkapSelect, relatedData.alatTangkap);
+        }
+    });
+
+
+    // LISTENER TOMBOL PREDIKSI (AJAX)
+    document.getElementById('btnPredict').addEventListener('click', async () => {
+        const form = document.getElementById('prediksiForm');
+        const formData = new FormData(form);
+        const data = Object.fromEntries(formData.entries());
+        const output = document.getElementById('hasilPrediksi');
+        const errorMessage = document.getElementById('errorMessage');
+        
+        output.textContent = 'Menghitung...';
+        errorMessage.textContent = ''; 
+
+        // Cek apakah semua input model sudah terisi
+        if (!data.nama_ikan || !data.lokasi || !data.jenis_alat_tangkap || !data.tahun) {
+            output.textContent = '-';
+            errorMessage.textContent = 'Mohon isi semua input (Jenis Ikan, Nama Ikan, Lokasi, Alat Tangkap, Tahun).';
+            return;
+        }
+
+        try {
+            const res = await fetch('/predict', {
+                method: 'POST',
+                // Kirim data yang dibutuhkan model ke endpoint /predict di app.py
+                body: new URLSearchParams(data), 
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                }
+            });
+            const result = await res.json();
+
+            if (result.status === 'success') {
+                // Format output hasil prediksi
+                const formattedResult = parseFloat(result.result).toLocaleString('id-ID', {
+                        minimumFractionDigits: 2,
+                        maximumFractionDigits: 2
+                });
+                output.textContent = formattedResult; 
+                errorMessage.textContent = ''; // Hapus pesan error jika sukses
+            } else {
+                output.textContent = 'Error';
+                // Tampilkan pesan error dari backend
+                errorMessage.textContent = `Gagal: ${result.message}`;
+            }
+        } catch (e) {
+            output.textContent = 'Error';
+            errorMessage.textContent = 'Koneksi ke server gagal. Pastikan app.py sedang berjalan.';
+        }
+    });
+</script>
+</body>
+</html>

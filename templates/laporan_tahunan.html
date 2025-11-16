@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>SmartStock - Laporan Tahunan</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#0077b8",
+                        "accent": "#FF6F61",
+                        "background-light": "#f5f7f8",
+                        "background-dark": "#0f1c23",
+                        "text-light-primary": "#101618",
+                        "text-light-secondary": "#5e7c8d",
+                        "text-dark-primary": "#f5f7f8",
+                        "text-dark-secondary": "#a0b1c0",
+                        "border-light": "#dae2e7",
+                        "border-dark": "#2c3e4a",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"]
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .material-symbols-outlined { font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24; }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display">
+    <div class="flex h-screen w-full">
+        <aside class="flex w-64 flex-col bg-white dark:bg-slate-900/40 border-r border-border-light dark:border-border-dark">
+            <div class="flex h-16 shrink-0 items-center justify-center border-b border-border-light dark:border-border-dark">
+                <div class="flex items-center gap-2">
+                    <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-md size-8" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBgLdBVQO9m43PrQJs3WsdA_v1A8Ji8mnbU-sXdl-ypYRFV8q5WmtPy4i5TGMqAUYW_MteqmD9lBwt4YsUazinmDusSGOalok6-_wtv-aQKh0Uvg74hRKWAXYwp81xxszpeeZKV6lHYAlBE4MG26IfDXYVn2t0OEbNQsAQPlYJk64F56xZqnjwSTl6XBhUlx87DDyGgz6UYqOXdkWycs0m9oNnCUc9BSRbRo83CJ4UciAcKFwVJ_sHM-XnAGoSwgNO5FPFrWe_5jyw");'></div>
+                    <h1 class="text-text-light-primary dark:text-text-dark-primary text-lg font-bold">SmartStock</h1>
+                </div>
+            </div>
+            <div class="flex grow flex-col overflow-y-auto">
+                <nav class="flex-1 space-y-2 p-4">
+                    <a class="flex items-center gap-3 rounded-lg px-3 py-2 text-text-light-secondary dark:text-text-dark-secondary hover:bg-primary/10 hover:text-primary dark:hover:text-primary" href="{{ url_for('beranda') }}">
+                        <span class="material-symbols-outlined text-base">home</span>
+                        <span class="text-sm font-medium">Beranda</span>
+                    </a>
+                    <a class="flex items-center gap-3 rounded-lg bg-primary/10 px-3 py-2 text-primary" href="{{ url_for('manajemen_kapal') }}">
+                        <span class="material-symbols-outlined text-base" style="font-variation-settings: 'FILL' 1;">database</span>
+                        <span class="text-sm font-semibold">Manajemen Data</span>
+                    </a>
+                    <a class="flex items-center gap-3 rounded-lg px-3 py-2 text-text-light-secondary dark:text-text-dark-secondary hover:bg-primary/10 hover:text-primary dark:hover:text-primary" href="{{ url_for('grafik') }}">
+                        <span class="material-symbols-outlined text-base">trending_up</span>
+                        <span class="text-sm font-medium">Prediksi Tren</span>
+                    </a>
+                    <a class="flex items-center gap-3 rounded-lg px-3 py-2 text-text-light-secondary dark:text-text-dark-secondary hover:bg-primary/10 hover:text-primary dark:hover:text-primary" href="{{ url_for('laporan_bulanan') }}">
+                        <span class="material-symbols-outlined text-base">summarize</span>
+                        <span class="text-sm font-medium">Laporan</span>
+                    </a>
+                     <a class="flex items-center gap-3 rounded-lg px-3 py-2 text-text-light-secondary dark:text-text-dark-secondary hover:bg-primary/10 hover:text-primary dark:hover:text-primary" href="{{ url_for('crud') }}">
+                        <span class="material-symbols-outlined text-base">history</span>
+                        <span class="text-sm font-medium">Data Historis</span>
+                    </a>
+                </nav>
+            </div>
+        </aside>
+
+        <div class="flex flex-1 flex-col overflow-y-auto">
+            <header class="flex items-center justify-between whitespace-nowrap border-b border-solid border-border-light dark:border-border-dark bg-white dark:bg-background-dark px-6 py-3 sticky top-0 z-10">
+                <h2 class="text-text-light-primary dark:text-text-dark-primary text-lg font-semibold">Manajemen Data</h2>
+                <div class="flex items-center gap-4">
+                    <button class="flex cursor-pointer items-center justify-center rounded-full size-10 hover:bg-black/5 dark:hover:bg-white/5" id="theme-toggle" type="button">
+                        <span class="material-symbols-outlined text-text-light-secondary dark:text-text-dark-secondary dark:hidden">dark_mode</span>
+                        <span class="material-symbols-outlined text-text-light-secondary dark:text-text-dark-secondary hidden dark:inline">light_mode</span>
+                    </button>
+                    <button class="flex cursor-pointer items-center justify-center rounded-full size-10 hover:bg-black/5 dark:hover:bg-white/5">
+                        <span class="material-symbols-outlined text-text-light-secondary dark:text-text-dark-secondary">notifications</span>
+                    </button>
+                    <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCIh9S6h2wLbHPVrz-AbYl7bLUXaey0k830l9XVm3r6ntF1VQKWpyWTY8f0E0TGsbZKVZfJCsdZviwhcwlAni-CQ1LrPbJdLcR-QNLmzSoTDjsoz1JK_-JzUIFbPZX4gaBnYOL0VeJVv0yGIUYne1nr6VPdERwU8XY8TkIjG1Ow-WCQNTj159i-5Z9Gfu9idlBqmcTs72ybbkKMilnIqxVpo7K-IiwMdHA0CW1jdQZNwkJm5XEk2OIG88UIpkCw1x7Q4NPQTWG47PI");'></div>
+                </div>
+            </header>
+
+            <main class="flex-1 p-6 lg:p-8">
+                <div class="max-w-7xl mx-auto">
+                    
+                    <div class="flex flex-wrap justify-between gap-3 mb-6">
+                        <div class="flex min-w-72 flex-col gap-2">
+                            <h1 class="text-text-light-primary dark:text-text-dark-primary text-3xl font-black leading-tight tracking-tight">Manajemen Data Perikanan</h1>
+                            <p class="text-text-light-secondary dark:text-text-dark-secondary text-base font-normal leading-normal">Kelola catatan kapal, harian, bulanan, dan tahunan.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="border-b border-border-light dark:border-border-dark">
+                        <div class="flex gap-8">
+                            <a class="flex flex-col items-center justify-center border-b-[3px] border-b-transparent text-text-light-secondary dark:text-text-dark-secondary pb-3 pt-2 hover:text-primary dark:hover:text-primary" href="{{ url_for('manajemen_kapal') }}">
+                                <p class="text-sm font-bold leading-normal">Data Kapal</p>
+                            </a>
+                            <a class="flex flex-col items-center justify-center border-b-[3px] border-b-transparent text-text-light-secondary dark:text-text-dark-secondary pb-3 pt-2 hover:text-primary dark:hover:text-primary" href="{{ url_for('manajemen_harian') }}">
+                                <p class="text-sm font-bold leading-normal">Data Harian</p>
+                            </a>
+                            <a class="flex flex-col items-center justify-center border-b-[3px] border-b-transparent text-text-light-secondary dark:text-text-dark-secondary pb-3 pt-2 hover:text-primary dark:hover:text-primary" href="{{ url_for('laporan_bulanan') }}">
+                                <p class="text-sm font-bold leading-normal">Data Bulanan</p>
+                            </a>
+                            <a class="flex flex-col items-center justify-center border-b-[3px] border-b-primary pb-3 pt-2 text-primary" href="{{ url_for('laporan_tahunan') }}">
+                                <p class="text-sm font-bold leading-normal">Data Tahunan</p>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div id="laporan-content" class="bg-white dark:bg-slate-900/40 rounded-b-lg shadow-sm">
+                        
+                        <div class="flex flex-wrap justify-between items-center gap-3 px-4 py-3 border-b border-border-light dark:border-border-dark">
+                            
+                            <form method="GET" action="{{ url_for('laporan_tahunan') }}" class="flex flex-wrap items-center gap-2">
+                                <select name="filter_tahun" class="h-10 rounded-lg border border-border-light dark:border-border-dark bg-transparent text-text-light-primary dark:text-text-dark-primary text-sm focus:ring-primary focus:border-primary">
+                                    <option value="">Semua Tahun</option>
+                                    {% for year in available_years %}
+                                        <option value="{{ year }}" {% if year == selected_year %}selected{% endif %}>{{ year }}</option>
+                                    {% endfor %}
+                                </select>
+                                
+                                <button type="submit" class="flex items-center justify-center rounded-lg h-10 bg-gray-600 text-white gap-2 text-sm font-bold min-w-0 px-4 hover:bg-gray-700 transition-colors">
+                                    <span class="material-symbols-outlined text-lg">filter_alt</span>
+                                    <span>Filter</span>
+                                </button>
+                                <a href="{{ url_for('laporan_tahunan') }}" class="flex items-center justify-center rounded-lg h-10 bg-gray-200 text-gray-700 gap-2 text-sm font-bold min-w-0 px-4 hover:bg-gray-300 transition-colors">
+                                    Reset
+                                </a>
+                            </form>
+                            
+                            <div class="flex gap-2">
+                                <button id="btn-download-excel" class="flex items-center justify-center rounded-lg h-10 bg-green-600 text-white gap-2 text-sm font-bold min-w-0 px-4 hover:bg-green-700 transition-colors">
+                                    <span class="material-symbols-outlined text-lg">grid_on</span>
+                                    <span class="truncate">Excel</span>
+                                </button>
+                                <button id="btn-download-pdf" class="flex items-center justify-center rounded-lg h-10 bg-primary text-white gap-2 text-sm font-bold min-w-0 px-4 hover:bg-primary/90 transition-colors">
+                                    <span class="material-symbols-outlined text-lg">download</span>
+                                    <span class="truncate">PDF</span>
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div class="overflow-x-auto">
+                            <table id="laporan-table" class="w-full text-sm text-left text-text-light-secondary dark:text-text-dark-secondary">
+                                <thead class="text-xs text-text-light-secondary dark:text-text-dark-secondary uppercase bg-background-light dark:bg-background-dark/50">
+                                    <tr>
+                                        <th class="px-6 py-3 font-medium" scope="col">Tahun</th>
+                                        <th class="px-6 py-3 font-medium" scope="col">Bulan</th> <th class="px-6 py-3 font-medium" scope="col">Nama Ikan</th>
+                                        <th class="px-6 py-3 font-medium" scope="col">Jenis Ikan</th>
+                                        <th class="px-6 py-3 font-medium" scope="col">Total (kg)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for data in laporan_data %}
+                                    <tr class="bg-white dark:bg-slate-900/40 border-b border-border-light dark:border-border-dark hover:bg-primary/5 dark:hover:bg-primary/10">
+                                        <td class="px-6 py-4 font-medium text-text-light-primary dark:text-text-dark-primary whitespace-nowrap">
+                                            {{ data.tahun }}
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            {{ month_map[data.bulan] }} 
+                                        </td>
+                                        <td class="px-6 py-4">{{ data.nama_ikan }}</td>
+                                        <td class="px-6 py-4">{{ data.jenis_ikan }}</td>
+                                        <td class="px-6 py-4 font-medium">{{ "%.2f"|format(data.total_bulanan) }} kg</td> </tr>
+                                    {% endfor %}
+                                    {% if not laporan_data %}
+                                    <tr class="bg-white dark:bg-slate-900/40 border-b border-border-light dark:border-border-dark">
+                                        <td colspan="5" class="px-6 py-4 text-center">
+                                            {% if selected_year %}
+                                                Tidak ada data ditemukan untuk filter ini.
+                                            {% else %}
+                                                Belum ada data harian yang bisa dilaporkan.
+                                            {% endif %}
+                                        </td>
+                                    </tr>
+                                    {% endif %}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div> </div>
+                <footer class="mt-8 text-center text-sm text-text-light-secondary dark:text-text-dark-secondary">
+                    <p>© 2024 SmartStock. Semua hak cipta dilindungi. | Kontak: HIMATASKA</p>
+                </footer>
+            </main>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    
+    <script>
+        // Dark Mode Toggle
+        const themeToggle = document.getElementById('theme-toggle');
+        const htmlEl = document.documentElement;
+        themeToggle.addEventListener('click', () => {
+            htmlEl.classList.toggle('dark');
+        });
+
+        // Logika Download PDF
+        document.getElementById('btn-download-pdf').addEventListener('click', function() {
+            // Sembunyikan tombol-tombol saat print
+            document.querySelectorAll('#btn-download-pdf, #btn-download-excel').forEach(el => el.style.display = 'none');
+            
+            const element = document.getElementById('laporan-content');
+            const opt = {
+                margin:       0.5,
+                filename:     'laporan_tahunan_terfilter.pdf',
+                image:        { type: 'jpeg', quality: 0.98 },
+                html2canvas:  { scale: 2 },
+                jsPDF:        { unit: 'in', format: 'letter', orientation: 'landscape' } // Menggunakan landscape agar kolom Bulan muat
+            };
+
+            html2pdf().from(element).set(opt).save().then(() => {
+                // Tampilkan kembali tombol-tombol setelah selesai
+                document.querySelectorAll('#btn-download-pdf, #btn-download-excel').forEach(el => el.style.display = 'flex');
+            });
+        });
+        
+        // Logika Download Excel
+        document.getElementById('btn-download-excel').addEventListener('click', function() {
+            const table = document.getElementById('laporan-table');
+            const wb = XLSX.utils.table_to_book(table, {sheet: "Laporan Tahunan"});
+            XLSX.writeFile(wb, "laporan_tahunan_terfilter.xlsx");
+        });
+    </script>
+</body>
+</html>

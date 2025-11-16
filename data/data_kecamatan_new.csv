@@ -1,0 +1,551 @@
+no,jenis_ikan,nama_ikan,lokasi,total_kg
+1,Demersal,Ayam-ayam,Binuangeun,24635
+2,Pelagis Besar,Bawal Laut,Binuangeun,3551
+3,Pelagis Besar,Cakalang,Binuangeun,1890595
+4,Pelagis Kecil,Cendro,Binuangeun,24684
+5,Karang (Reef-Associated),Ekor Kuning,Binuangeun,39521
+6,Demersal,Gabus Laut,Binuangeun,18426
+7,Demersal,Gerot-gerot,Binuangeun,58545
+8,Demersal,Golok-golok,Binuangeun,17941
+9,Demersal,Gulamah,Binuangeun,43087
+10,Demersal / Karang,Kakap,Binuangeun,4175
+11,Demersal / Karang,Kakap Batu,Binuangeun,4289
+12,Demersal / Karang,Kakap Jenaha,Binuangeun,4844
+13,Demersal / Karang,Kakap Merah,Binuangeun,6227
+14,Demersal,Kapas-kapas,Binuangeun,51496
+15,Pelagis Kecil,Kembung Lelaki,Binuangeun,51438
+16,Pelagis Kecil,Kembung Perempuan,Binuangeun,47280
+17,Karang (Reef-Associated),Kerapu,Binuangeun,5807
+18,Demersal,Kuniran,Binuangeun,27362
+19,Demersal,Kurisi,Binuangeun,35418
+20,Pelagis Kecil / Semi-Demersal,Kuro,Binuangeun,81562
+21,Pelagis Besar,Kuwe,Binuangeun,34298
+22,Pelagis Besar,Kuwe Gerong,Binuangeun,7149
+23,Pelagis Kecil,Layang,Binuangeun,296080
+24,Pelagis Besar,Layaran,Binuangeun,11416
+25,Demersal (Benthopelagis),Layur,Binuangeun,281683
+26,Pelagis Besar,Lemadang,Binuangeun,138782
+27,Karang (Reef-Associated),Lencam,Binuangeun,3494
+28,Demersal,Manyung,Binuangeun,8010
+29,Pelagis Besar,Marlin,Binuangeun,15870
+30,Pelagis Besar,Nyunglas,Binuangeun,4641
+31,Demersal (Elasmobranch),Pari,Binuangeun,10090
+32,Pelagis Besar,Pedang,Binuangeun,5935
+33,Pelagis Kecil / Semi-Demersal,Peperek,Binuangeun,42478
+34,Karang (Reef-Associated),Pinjalo,Binuangeun,2984
+35,Pelagis Kecil,Pisang-pisang,Binuangeun,128329
+36,Demersal (Flatfish),Sebelah,Binuangeun,13056
+37,Pelagis Kecil,Selar Bentong,Binuangeun,90916
+38,Pelagis Kecil,Selar Kuning,Binuangeun,23252
+39,Karang (Reef-Associated),Swanggi,Binuangeun,13470
+40,Pelagis Besar,Tenggiri,Binuangeun,5563
+41,Pelagis Besar,Tenggiri Papan,Binuangeun,7414
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Binuangeun,25598
+43,Pelagis Besar,Tongkol,Binuangeun,22044
+44,Pelagis Besar,Tongkol Abu-abu,Binuangeun,19397
+45,Pelagis Besar,Tongkol Banyar,Binuangeun,45642
+46,Pelagis Besar,Tongkol Komo,Binuangeun,37460
+47,Pelagis Besar,Tongkol Lisong,Binuangeun,37617
+48,Pelagis Besar,Tuna Mata Besar,Binuangeun,31973
+49,Pelagis Besar,Tuna Sirip Kuning,Binuangeun,875087
+JUMLAH,,,Binuangeun,4680611
+1,Demersal,Ayam-ayam,Tanjungpanto,328
+2,Pelagis Besar,Bawal Laut,Tanjungpanto,48
+3,Pelagis Besar,Cakalang,Tanjungpanto,1826
+4,Pelagis Kecil,Cendro,Tanjungpanto,355
+5,Karang (Reef-Associated),Ekor Kuning,Tanjungpanto,567
+6,Demersal,Gabus Laut,Tanjungpanto,270
+7,Demersal,Gerot-gerot,Tanjungpanto,842
+8,Demersal,Golok-golok,Tanjungpanto,260
+9,Demersal,Gulamah,Tanjungpanto,627
+10,Demersal / Karang,Kakap,Tanjungpanto,65
+11,Demersal / Karang,Kakap Batu,Tanjungpanto,35
+12,Demersal / Karang,Kakap Jenaha,Tanjungpanto,76
+13,Demersal / Karang,Kakap Merah,Tanjungpanto,90
+14,Demersal,Kapas-kapas,Tanjungpanto,649
+15,Pelagis Kecil,Kembung Lelaki,Tanjungpanto,613
+16,Pelagis Kecil,Kembung Perempuan,Tanjungpanto,567
+17,Karang (Reef-Associated),Kerapu,Tanjungpanto,84
+18,Demersal,Kuniran,Tanjungpanto,398
+19,Demersal,Kurisi,Tanjungpanto,514
+20,Pelagis Kecil / Semi-Demersal,Kuro,Tanjungpanto,1187
+21,Pelagis Besar,Kuwe,Tanjungpanto,422
+22,Pelagis Besar,Kuwe Gerong,Tanjungpanto,86
+23,Pelagis Kecil,Layang,Tanjungpanto,212
+24,Pelagis Besar,Layaran,Tanjungpanto,51
+25,Demersal (Benthopelagis),Layur,Tanjungpanto,3677
+26,Pelagis Besar,Lemadang,Tanjungpanto,1275
+27,Karang (Reef-Associated),Lencam,Tanjungpanto,51
+28,Demersal,Manyung,Tanjungpanto,129
+29,Pelagis Besar,Marlin,Tanjungpanto,98
+30,Pelagis Besar,Nyunglas,Tanjungpanto,37
+31,Demersal (Elasmobranch),Pari,Tanjungpanto,145
+32,Pelagis Besar,Pedang,Tanjungpanto,31
+33,Pelagis Kecil / Semi-Demersal,Peperek,Tanjungpanto,683
+34,Karang (Reef-Associated),Pinjalo,Tanjungpanto,48
+35,Pelagis Kecil,Pisang-pisang,Tanjungpanto,2062
+36,Demersal (Flatfish),Sebelah,Tanjungpanto,210
+37,Pelagis Kecil,Selar Bentong,Tanjungpanto,1329
+38,Pelagis Kecil,Selar Kuning,Tanjungpanto,18
+39,Karang (Reef-Associated),Swanggi,Tanjungpanto,194
+40,Pelagis Besar,Tenggiri,Tanjungpanto,45
+41,Pelagis Besar,Tenggiri Papan,Tanjungpanto,59
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Tanjungpanto,310
+43,Pelagis Besar,Tongkol,Tanjungpanto,267
+44,Pelagis Besar,Tongkol Abu-abu,Tanjungpanto,235
+45,Pelagis Besar,Tongkol Banyar,Tanjungpanto,548
+46,Pelagis Besar,Tongkol Komo,Tanjungpanto,449
+47,Pelagis Besar,Tongkol Lisong,Tanjungpanto,455
+48,Pelagis Besar,Tuna Mata Besar,Tanjungpanto,7
+49,Pelagis Besar,Tuna Sirip Kuning,Tanjungpanto,500
+JUMLAH,,,Tanjungpanto,23034
+1,Demersal,Ayam-ayam,Sukahujan,730
+2,Pelagis Besar,Bawal Laut,Sukahujan,106
+3,Pelagis Besar,Cakalang,Sukahujan,4074
+4,Pelagis Kecil,Cendro,Sukahujan,788
+5,Karang (Reef-Associated),Ekor Kuning,Sukahujan,1260
+6,Demersal,Gabus Laut,Sukahujan,599
+7,Demersal,Gerot-gerot,Sukahujan,1873
+8,Demersal,Golok-golok,Sukahujan,578
+9,Demersal,Gulamah,Sukahujan,1393
+10,Demersal / Karang,Kakap,Sukahujan,145
+11,Demersal / Karang,Kakap Batu,Sukahujan,78
+12,Demersal / Karang,Kakap Jenaha,Sukahujan,169
+13,Demersal / Karang,Kakap Merah,Sukahujan,201
+14,Demersal,Kapas-kapas,Sukahujan,1442
+15,Pelagis Kecil,Kembung Lelaki,Sukahujan,1363
+16,Pelagis Kecil,Kembung Perempuan,Sukahujan,1262
+17,Karang (Reef-Associated),Kerapu,Sukahujan,188
+18,Demersal,Kuniran,Sukahujan,885
+19,Demersal,Kurisi,Sukahujan,1143
+20,Pelagis Kecil / Semi-Demersal,Kuro,Sukahujan,2639
+21,Pelagis Besar,Kuwe,Sukahujan,938
+22,Pelagis Besar,Kuwe Gerong,Sukahujan,192
+23,Pelagis Kecil,Layang,Sukahujan,476
+24,Pelagis Besar,Layaran,Sukahujan,113
+25,Demersal (Benthopelagis),Layur,Sukahujan,8171
+26,Pelagis Besar,Lemadang,Sukahujan,2853
+27,Karang (Reef-Associated),Lencam,Sukahujan,112
+28,Demersal,Manyung,Sukahujan,286
+29,Pelagis Besar,Marlin,Sukahujan,219
+30,Pelagis Besar,Nyunglas,Sukahujan,84
+31,Demersal (Elasmobranch),Pari,Sukahujan,323
+32,Pelagis Besar,Pedang,Sukahujan,69
+33,Pelagis Kecil / Semi-Demersal,Peperek,Sukahujan,1517
+34,Karang (Reef-Associated),Pinjalo,Sukahujan,107
+35,Pelagis Kecil,Pisang-pisang,Sukahujan,4583
+36,Demersal (Flatfish),Sebelah,Sukahujan,466
+37,Pelagis Kecil,Selar Bentong,Sukahujan,2957
+38,Pelagis Kecil,Selar Kuning,Sukahujan,40
+39,Karang (Reef-Associated),Swanggi,Sukahujan,431
+40,Pelagis Besar,Tenggiri,Sukahujan,101
+41,Pelagis Besar,Tenggiri Papan,Sukahujan,133
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Sukahujan,690
+43,Pelagis Besar,Tongkol,Sukahujan,593
+44,Pelagis Besar,Tongkol Abu-abu,Sukahujan,523
+45,Pelagis Besar,Tongkol Banyar,Sukahujan,1217
+46,Pelagis Besar,Tongkol Komo,Sukahujan,999
+47,Pelagis Besar,Tongkol Lisong,Sukahujan,1011
+48,Pelagis Besar,Tuna Mata Besar,Sukahujan,16
+49,Pelagis Besar,Tuna Sirip Kuning,Sukahujan,1112
+JUMLAH,,,Sukahujan,51248
+1,Demersal,Ayam-ayam,Cipunaga,1211
+2,Pelagis Besar,Bawal Laut,Cipunaga,176
+3,Pelagis Besar,Cakalang,Cipunaga,6742
+4,Pelagis Kecil,Cendro,Cipunaga,1313
+5,Karang (Reef-Associated),Ekor Kuning,Cipunaga,2099
+6,Demersal,Gabus Laut,Cipunaga,998
+7,Demersal,Gerot-gerot,Cipunaga,3119
+8,Demersal,Golok-golok,Cipunaga,962
+9,Demersal,Gulamah,Cipunaga,2321
+10,Demersal / Karang,Kakap,Cipunaga,242
+11,Demersal / Karang,Kakap Batu,Cipunaga,130
+12,Demersal / Karang,Kakap Jenaha,Cipunaga,282
+13,Demersal / Karang,Kakap Merah,Cipunaga,334
+14,Demersal,Kapas-kapas,Cipunaga,2403
+15,Pelagis Kecil,Kembung Lelaki,Cipunaga,2270
+16,Pelagis Kecil,Kembung Perempuan,Cipunaga,2101
+17,Karang (Reef-Associated),Kerapu,Cipunaga,313
+18,Demersal,Kuniran,Cipunaga,1475
+19,Demersal,Kurisi,Cipunaga,1904
+20,Pelagis Kecil / Semi-Demersal,Kuro,Cipunaga,4397
+21,Pelagis Besar,Kuwe,Cipunaga,1564
+22,Pelagis Besar,Kuwe Gerong,Cipunaga,320
+23,Pelagis Kecil,Layang,Cipunaga,777
+24,Pelagis Besar,Layaran,Cipunaga,187
+25,Demersal (Benthopelagis),Layur,Cipunaga,13616
+26,Pelagis Besar,Lemadang,Cipunaga,4694
+27,Karang (Reef-Associated),Lencam,Cipunaga,187
+28,Demersal,Manyung,Cipunaga,477
+29,Pelagis Besar,Marlin,Cipunaga,364
+30,Pelagis Besar,Nyunglas,Cipunaga,138
+31,Demersal (Elasmobranch),Pari,Cipunaga,538
+32,Pelagis Besar,Pedang,Cipunaga,113
+33,Pelagis Kecil / Semi-Demersal,Peperek,Cipunaga,2528
+34,Karang (Reef-Associated),Pinjalo,Cipunaga,178
+35,Pelagis Kecil,Pisang-pisang,Cipunaga,7639
+36,Demersal (Flatfish),Sebelah,Cipunaga,777
+37,Pelagis Kecil,Selar Bentong,Cipunaga,4920
+38,Pelagis Kecil,Selar Kuning,Cipunaga,66
+39,Karang (Reef-Associated),Swanggi,Cipunaga,718
+40,Pelagis Besar,Tenggiri,Cipunaga,167
+41,Pelagis Besar,Tenggiri Papan,Cipunaga,219
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Cipunaga,1148
+43,Pelagis Besar,Tongkol,Cipunaga,988
+44,Pelagis Besar,Tongkol Abu-abu,Cipunaga,871
+45,Pelagis Besar,Tongkol Banyar,Cipunaga,2028
+46,Pelagis Besar,Tongkol Komo,Cipunaga,1663
+47,Pelagis Besar,Tongkol Lisong,Cipunaga,1683
+48,Pelagis Besar,Tuna Mata Besar,Cipunaga,27
+49,Pelagis Besar,Tuna Sirip Kuning,Cipunaga,1853
+JUMLAH,,,Cipunaga,85240
+1,Demersal,Ayam-ayam,Panyaungan,983
+2,Pelagis Besar,Bawal Laut,Panyaungan,143
+3,Pelagis Besar,Cakalang,Panyaungan,5478
+4,Pelagis Kecil,Cendro,Panyaungan,1064
+5,Karang (Reef-Associated),Ekor Kuning,Panyaungan,1701
+6,Demersal,Gabus Laut,Panyaungan,809
+7,Demersal,Gerot-gerot,Panyaungan,2527
+8,Demersal,Golok-golok,Panyaungan,780
+9,Demersal,Gulamah,Panyaungan,1880
+10,Demersal / Karang,Kakap,Panyaungan,196
+11,Demersal / Karang,Kakap Batu,Panyaungan,106
+12,Demersal / Karang,Kakap Jenaha,Panyaungan,228
+13,Demersal / Karang,Kakap Merah,Panyaungan,271
+14,Demersal,Kapas-kapas,Panyaungan,1946
+15,Pelagis Kecil,Kembung Lelaki,Panyaungan,1839
+16,Pelagis Kecil,Kembung Perempuan,Panyaungan,1702
+17,Karang (Reef-Associated),Kerapu,Panyaungan,253
+18,Demersal,Kuniran,Panyaungan,1195
+19,Demersal,Kurisi,Panyaungan,1543
+20,Pelagis Kecil / Semi-Demersal,Kuro,Panyaungan,3562
+21,Pelagis Besar,Kuwe,Panyaungan,1267
+22,Pelagis Besar,Kuwe Gerong,Panyaungan,259
+23,Pelagis Kecil,Layang,Panyaungan,635
+24,Pelagis Besar,Layaran,Panyaungan,152
+25,Demersal (Benthopelagis),Layur,Panyaungan,11030
+26,Pelagis Besar,Lemadang,Panyaungan,3824
+27,Karang (Reef-Associated),Lencam,Panyaungan,152
+28,Demersal,Manyung,Panyaungan,386
+29,Pelagis Besar,Marlin,Panyaungan,295
+30,Pelagis Besar,Nyunglas,Panyaungan,112
+31,Demersal (Elasmobranch),Pari,Panyaungan,436
+32,Pelagis Besar,Pedang,Panyaungan,92
+33,Pelagis Kecil / Semi-Demersal,Peperek,Panyaungan,2048
+34,Karang (Reef-Associated),Pinjalo,Panyaungan,144
+35,Pelagis Kecil,Pisang-pisang,Panyaungan,6187
+36,Demersal (Flatfish),Sebelah,Panyaungan,629
+37,Pelagis Kecil,Selar Bentong,Panyaungan,3988
+38,Pelagis Kecil,Selar Kuning,Panyaungan,54
+39,Karang (Reef-Associated),Swanggi,Panyaungan,582
+40,Pelagis Besar,Tenggiri,Panyaungan,135
+41,Pelagis Besar,Tenggiri Papan,Panyaungan,178
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Panyaungan,930
+43,Pelagis Besar,Tongkol,Panyaungan,800
+44,Pelagis Besar,Tongkol Abu-abu,Panyaungan,706
+45,Pelagis Besar,Tongkol Banyar,Panyaungan,1643
+46,Pelagis Besar,Tongkol Komo,Panyaungan,1348
+47,Pelagis Besar,Tongkol Lisong,Panyaungan,1364
+48,Pelagis Besar,Tuna Mata Besar,Panyaungan,22
+49,Pelagis Besar,Tuna Sirip Kuning,Panyaungan,1501
+JUMLAH,,,Panyaungan,69105
+1,Demersal,Ayam-ayam,Situregen,1112
+2,Pelagis Besar,Bawal Laut,Situregen,162
+3,Pelagis Besar,Cakalang,Situregen,6180
+4,Pelagis Kecil,Cendro,Situregen,1207
+5,Karang (Reef-Associated),Ekor Kuning,Situregen,1931
+6,Demersal,Gabus Laut,Situregen,918
+7,Demersal,Gerot-gerot,Situregen,2869
+8,Demersal,Golok-golok,Situregen,885
+9,Demersal,Gulamah,Situregen,2135
+10,Demersal / Karang,Kakap,Situregen,223
+11,Demersal / Karang,Kakap Batu,Situregen,120
+12,Demersal / Karang,Kakap Jenaha,Situregen,259
+13,Demersal / Karang,Kakap Merah,Situregen,308
+14,Demersal,Kapas-kapas,Situregen,2210
+15,Pelagis Kecil,Kembung Lelaki,Situregen,2087
+16,Pelagis Kecil,Kembung Perempuan,Situregen,1932
+17,Karang (Reef-Associated),Kerapu,Situregen,288
+18,Demersal,Kuniran,Situregen,1357
+19,Demersal,Kurisi,Situregen,1752
+20,Pelagis Kecil / Semi-Demersal,Kuro,Situregen,4045
+21,Pelagis Besar,Kuwe,Situregen,1438
+22,Pelagis Besar,Kuwe Gerong,Situregen,294
+23,Pelagis Kecil,Layang,Situregen,708
+24,Pelagis Besar,Layaran,Situregen,172
+25,Demersal (Benthopelagis),Layur,Situregen,12525
+26,Pelagis Besar,Lemadang,Situregen,4290
+27,Karang (Reef-Associated),Lencam,Situregen,172
+28,Demersal,Manyung,Situregen,439
+29,Pelagis Besar,Marlin,Situregen,335
+30,Pelagis Besar,Nyunglas,Situregen,126
+31,Demersal (Elasmobranch),Pari,Situregen,494
+32,Pelagis Besar,Pedang,Situregen,103
+33,Pelagis Kecil / Semi-Demersal,Peperek,Situregen,2326
+34,Karang (Reef-Associated),Pinjalo,Situregen,163
+35,Pelagis Kecil,Pisang-pisang,Situregen,7028
+36,Demersal (Flatfish),Sebelah,Situregen,715
+37,Pelagis Kecil,Selar Bentong,Situregen,4522
+38,Pelagis Kecil,Selar Kuning,Situregen,61
+39,Karang (Reef-Associated),Swanggi,Situregen,661
+40,Pelagis Besar,Tenggiri,Situregen,153
+41,Pelagis Besar,Tenggiri Papan,Situregen,200
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Situregen,1056
+43,Pelagis Besar,Tongkol,Situregen,908
+44,Pelagis Besar,Tongkol Abu-abu,Situregen,801
+45,Pelagis Besar,Tongkol Banyar,Situregen,1865
+46,Pelagis Besar,Tongkol Komo,Situregen,1530
+47,Pelagis Besar,Tongkol Lisong,Situregen,1548
+48,Pelagis Besar,Tuna Mata Besar,Situregen,25
+49,Pelagis Besar,Tuna Sirip Kuning,Situregen,1705
+JUMLAH,,,Situregen,78343
+1,Demersal,Ayam-ayam,Bayah,16091
+2,Pelagis Besar,Bawal Laut,Bayah,2297
+3,Pelagis Besar,Cakalang,Bayah,37946
+4,Pelagis Kecil,Cendro,Bayah,18083
+5,Karang (Reef-Associated),Ekor Kuning,Bayah,28756
+6,Demersal,Gabus Laut,Bayah,13965
+7,Demersal,Gerot-gerot,Bayah,42992
+8,Demersal,Golok-golok,Bayah,13320
+9,Demersal,Gulamah,Bayah,32288
+10,Demersal / Karang,Kakap,Bayah,3680
+11,Demersal / Karang,Kakap Batu,Bayah,1539
+12,Demersal / Karang,Kakap Jenaha,Bayah,4287
+13,Demersal / Karang,Kakap Merah,Bayah,4640
+14,Demersal,Kapas-kapas,Bayah,36423
+15,Pelagis Kecil,Kembung Lelaki,Bayah,30080
+16,Pelagis Kecil,Kembung Perempuan,Bayah,28131
+17,Karang (Reef-Associated),Kerapu,Bayah,4349
+18,Demersal,Kuniran,Bayah,20510
+19,Demersal,Kurisi,Bayah,26442
+20,Pelagis Kecil / Semi-Demersal,Kuro,Bayah,61149
+21,Pelagis Besar,Kuwe,Bayah,20994
+22,Pelagis Besar,Kuwe Gerong,Bayah,4289
+23,Pelagis Kecil,Layang,Bayah,4988
+24,Pelagis Besar,Layaran,Bayah,1016
+25,Demersal (Benthopelagis),Layur,Bayah,160083
+26,Pelagis Besar,Lemadang,Bayah,28098
+27,Karang (Reef-Associated),Lencam,Bayah,2588
+28,Demersal,Manyung,Bayah,7438
+29,Pelagis Besar,Marlin,Bayah,1894
+30,Pelagis Besar,Nyunglas,Bayah,795
+31,Demersal (Elasmobranch),Pari,Bayah,7587
+32,Pelagis Besar,Pedang,Bayah,686
+33,Pelagis Kecil / Semi-Demersal,Peperek,Bayah,39444
+34,Karang (Reef-Associated),Pinjalo,Bayah,2771
+35,Pelagis Kecil,Pisang-pisang,Bayah,119162
+36,Demersal (Flatfish),Sebelah,Bayah,12123
+37,Pelagis Kecil,Selar Bentong,Bayah,70547
+38,Pelagis Kecil,Selar Kuning,Bayah,404
+39,Karang (Reef-Associated),Swanggi,Bayah,9904
+40,Pelagis Besar,Tenggiri,Bayah,949
+41,Pelagis Besar,Tenggiri Papan,Bayah,1284
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Bayah,15403
+43,Pelagis Besar,Tongkol,Bayah,13244
+44,Pelagis Besar,Tongkol Abu-abu,Bayah,11709
+45,Pelagis Besar,Tongkol Banyar,Bayah,27088
+46,Pelagis Besar,Tongkol Komo,Bayah,22236
+47,Pelagis Besar,Tongkol Lisong,Bayah,22554
+48,Pelagis Besar,Tuna Mata Besar,Bayah,140
+49,Pelagis Besar,Tuna Sirip Kuning,Bayah,9637
+JUMLAH,,,Bayah,1046023
+1,Demersal,Ayam-ayam,Pulomanuk,1924
+2,Pelagis Besar,Bawal Laut,Pulomanuk,281
+3,Pelagis Besar,Cakalang,Pulomanuk,10674
+4,Pelagis Kecil,Cendro,Pulomanuk,2098
+5,Karang (Reef-Associated),Ekor Kuning,Pulomanuk,3356
+6,Demersal,Gabus Laut,Pulomanuk,1597
+7,Demersal,Gerot-gerot,Pulomanuk,4986
+8,Demersal,Golok-golok,Pulomanuk,1539
+9,Demersal,Gulamah,Pulomanuk,3712
+10,Demersal / Karang,Kakap,Pulomanuk,388
+11,Demersal / Karang,Kakap Batu,Pulomanuk,208
+12,Demersal / Karang,Kakap Jenaha,Pulomanuk,451
+13,Demersal / Karang,Kakap Merah,Pulomanuk,535
+14,Demersal,Kapas-kapas,Pulomanuk,3843
+15,Pelagis Kecil,Kembung Lelaki,Pulomanuk,3627
+16,Pelagis Kecil,Kembung Perempuan,Pulomanuk,3358
+17,Karang (Reef-Associated),Kerapu,Pulomanuk,500
+18,Demersal,Kuniran,Pulomanuk,2360
+19,Demersal,Kurisi,Pulomanuk,3045
+20,Pelagis Kecil / Semi-Demersal,Kuro,Pulomanuk,7034
+21,Pelagis Besar,Kuwe,Pulomanuk,2500
+22,Pelagis Besar,Kuwe Gerong,Pulomanuk,511
+23,Pelagis Kecil,Layang,Pulomanuk,1207
+24,Pelagis Besar,Layaran,Pulomanuk,298
+25,Demersal (Benthopelagis),Layur,Pulomanuk,21780
+26,Pelagis Besar,Lemadang,Pulomanuk,7366
+27,Karang (Reef-Associated),Lencam,Pulomanuk,299
+28,Demersal,Manyung,Pulomanuk,763
+29,Pelagis Besar,Marlin,Pulomanuk,583
+30,Pelagis Besar,Nyunglas,Pulomanuk,218
+31,Demersal (Elasmobranch),Pari,Pulomanuk,858
+32,Pelagis Besar,Pedang,Pulomanuk,177
+33,Pelagis Kecil / Semi-Demersal,Peperek,Pulomanuk,4046
+34,Karang (Reef-Associated),Pinjalo,Pulomanuk,284
+35,Pelagis Kecil,Pisang-pisang,Pulomanuk,12222
+36,Demersal (Flatfish),Sebelah,Pulomanuk,1243
+37,Pelagis Kecil,Selar Bentong,Pulomanuk,7852
+38,Pelagis Kecil,Selar Kuning,Pulomanuk,104
+39,Karang (Reef-Associated),Swanggi,Pulomanuk,1148
+40,Pelagis Besar,Tenggiri,Pulomanuk,263
+41,Pelagis Besar,Tenggiri Papan,Pulomanuk,345
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Pulomanuk,1834
+43,Pelagis Besar,Tongkol,Pulomanuk,1577
+44,Pelagis Besar,Tongkol Abu-abu,Pulomanuk,1391
+45,Pelagis Besar,Tongkol Banyar,Pulomanuk,3241
+46,Pelagis Besar,Tongkol Komo,Pulomanuk,2658
+47,Pelagis Besar,Tongkol Lisong,Pulomanuk,2690
+48,Pelagis Besar,Tuna Mata Besar,Pulomanuk,43
+49,Pelagis Besar,Tuna Sirip Kuning,Pulomanuk,2965
+JUMLAH,,,Pulomanuk,135982
+1,Demersal,Ayam-ayam,Sawarna,1211
+2,Pelagis Besar,Bawal Laut,Sawarna,176
+3,Pelagis Besar,Cakalang,Sawarna,6742
+4,Pelagis Kecil,Cendro,Sawarna,1312
+5,Karang (Reef-Associated),Ekor Kuning,Sawarna,2098
+6,Demersal,Gabus Laut,Sawarna,998
+7,Demersal,Gerot-gerot,Sawarna,3117
+8,Demersal,Golok-golok,Sawarna,962
+9,Demersal,Gulamah,Sawarna,2321
+10,Demersal / Karang,Kakap,Sawarna,242
+11,Demersal / Karang,Kakap Batu,Sawarna,130
+12,Demersal / Karang,Kakap Jenaha,Sawarna,282
+13,Demersal / Karang,Kakap Merah,Sawarna,334
+14,Demersal,Kapas-kapas,Sawarna,2403
+15,Pelagis Kecil,Kembung Lelaki,Sawarna,2269
+16,Pelagis Kecil,Kembung Perempuan,Sawarna,2101
+17,Karang (Reef-Associated),Kerapu,Sawarna,313
+18,Demersal,Kuniran,Sawarna,1475
+19,Demersal,Kurisi,Sawarna,1903
+20,Pelagis Kecil / Semi-Demersal,Kuro,Sawarna,4396
+21,Pelagis Besar,Kuwe,Sawarna,1563
+22,Pelagis Besar,Kuwe Gerong,Sawarna,319
+23,Pelagis Kecil,Layang,Sawarna,777
+24,Pelagis Besar,Layaran,Sawarna,187
+25,Demersal (Benthopelagis),Layur,Sawarna,13614
+26,Pelagis Besar,Lemadang,Sawarna,4694
+27,Karang (Reef-Associated),Lencam,Sawarna,187
+28,Demersal,Manyung,Sawarna,477
+29,Pelagis Besar,Marlin,Sawarna,364
+30,Pelagis Besar,Nyunglas,Sawarna,138
+31,Demersal (Elasmobranch),Pari,Sawarna,538
+32,Pelagis Besar,Pedang,Sawarna,113
+33,Pelagis Kecil / Semi-Demersal,Peperek,Sawarna,2528
+34,Karang (Reef-Associated),Pinjalo,Sawarna,178
+35,Pelagis Kecil,Pisang-pisang,Sawarna,7639
+36,Demersal (Flatfish),Sebelah,Sawarna,777
+37,Pelagis Kecil,Selar Bentong,Sawarna,4920
+38,Pelagis Kecil,Selar Kuning,Sawarna,66
+39,Karang (Reef-Associated),Swanggi,Sawarna,718
+40,Pelagis Besar,Tenggiri,Sawarna,167
+41,Pelagis Besar,Tenggiri Papan,Sawarna,219
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Sawarna,1148
+43,Pelagis Besar,Tongkol,Sawarna,987
+44,Pelagis Besar,Tongkol Abu-abu,Sawarna,871
+45,Pelagis Besar,Tongkol Banyar,Sawarna,2027
+46,Pelagis Besar,Tongkol Komo,Sawarna,1663
+47,Pelagis Besar,Tongkol Lisong,Sawarna,1683
+48,Pelagis Besar,Tuna Mata Besar,Sawarna,27
+49,Pelagis Besar,Tuna Sirip Kuning,Sawarna,1853
+JUMLAH,,,Sawarna,85227
+1,Demersal,Ayam-ayam,Citarate,670
+2,Pelagis Besar,Bawal Laut,Citarate,98
+3,Pelagis Besar,Cakalang,Citarate,3708
+4,Pelagis Kecil,Cendro,Citarate,734
+5,Karang (Reef-Associated),Ekor Kuning,Citarate,1174
+6,Demersal,Gabus Laut,Citarate,559
+7,Demersal,Gerot-gerot,Citarate,1744
+8,Demersal,Golok-golok,Citarate,538
+9,Demersal,Gulamah,Citarate,1299
+10,Demersal / Karang,Kakap,Citarate,136
+11,Demersal / Karang,Kakap Batu,Citarate,72
+12,Demersal / Karang,Kakap Jenaha,Citarate,158
+13,Demersal / Karang,Kakap Merah,Citarate,187
+14,Demersal,Kapas-kapas,Citarate,1345
+15,Pelagis Kecil,Kembung Lelaki,Citarate,1268
+16,Pelagis Kecil,Kembung Perempuan,Citarate,1174
+17,Karang (Reef-Associated),Kerapu,Citarate,175
+18,Demersal,Kuniran,Citarate,826
+19,Demersal,Kurisi,Citarate,1065
+20,Pelagis Kecil / Semi-Demersal,Kuro,Citarate,2461
+21,Pelagis Besar,Kuwe,Citarate,875
+22,Pelagis Besar,Kuwe Gerong,Citarate,179
+23,Pelagis Kecil,Layang,Citarate,413
+24,Pelagis Besar,Layaran,Citarate,104
+25,Demersal (Benthopelagis),Layur,Citarate,7621
+26,Pelagis Besar,Lemadang,Citarate,2542
+27,Karang (Reef-Associated),Lencam,Citarate,105
+28,Demersal,Manyung,Citarate,267
+29,Pelagis Besar,Marlin,Citarate,204
+30,Pelagis Besar,Nyunglas,Citarate,75
+31,Demersal (Elasmobranch),Pari,Citarate,300
+32,Pelagis Besar,Pedang,Citarate,61
+33,Pelagis Kecil / Semi-Demersal,Peperek,Citarate,1416
+34,Karang (Reef-Associated),Pinjalo,Citarate,99
+35,Pelagis Kecil,Pisang-pisang,Citarate,4278
+36,Demersal (Flatfish),Sebelah,Citarate,435
+37,Pelagis Kecil,Selar Bentong,Citarate,2743
+38,Pelagis Kecil,Selar Kuning,Citarate,36
+39,Karang (Reef-Associated),Swanggi,Citarate,402
+40,Pelagis Besar,Tenggiri,Citarate,91
+41,Pelagis Besar,Tenggiri Papan,Citarate,119
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Citarate,641
+43,Pelagis Besar,Tongkol,Citarate,551
+44,Pelagis Besar,Tongkol Abu-abu,Citarate,486
+45,Pelagis Besar,Tongkol Banyar,Citarate,1133
+46,Pelagis Besar,Tongkol Komo,Citarate,929
+47,Pelagis Besar,Tongkol Lisong,Citarate,940
+48,Pelagis Besar,Tuna Mata Besar,Citarate,15
+49,Pelagis Besar,Tuna Sirip Kuning,Citarate,1038
+JUMLAH,,,Citarate,47489
+1,Demersal,Ayam-ayam,Cibareno,1005
+2,Pelagis Besar,Bawal Laut,Cibareno,147
+3,Pelagis Besar,Cakalang,Cibareno,5562
+4,Pelagis Kecil,Cendro,Cibareno,1101
+5,Karang (Reef-Associated),Ekor Kuning,Cibareno,1761
+6,Demersal,Gabus Laut,Cibareno,838
+7,Demersal,Gerot-gerot,Cibareno,2616
+8,Demersal,Golok-golok,Cibareno,808
+9,Demersal,Gulamah,Cibareno,1948
+10,Demersal / Karang,Kakap,Cibareno,204
+11,Demersal / Karang,Kakap Batu,Cibareno,109
+12,Demersal / Karang,Kakap Jenaha,Cibareno,237
+13,Demersal / Karang,Kakap Merah,Cibareno,281
+14,Demersal,Kapas-kapas,Cibareno,2017
+15,Pelagis Kecil,Kembung Lelaki,Cibareno,1902
+16,Pelagis Kecil,Kembung Perempuan,Cibareno,1761
+17,Karang (Reef-Associated),Kerapu,Cibareno,263
+18,Demersal,Kuniran,Cibareno,1239
+19,Demersal,Kurisi,Cibareno,1598
+20,Pelagis Kecil / Semi-Demersal,Kuro,Cibareno,3692
+21,Pelagis Besar,Kuwe,Cibareno,1312
+22,Pelagis Besar,Kuwe Gerong,Cibareno,268
+23,Pelagis Kecil,Layang,Cibareno,620
+24,Pelagis Besar,Layaran,Cibareno,156
+25,Demersal (Benthopelagis),Layur,Cibareno,11432
+26,Pelagis Besar,Lemadang,Cibareno,3813
+27,Karang (Reef-Associated),Lencam,Cibareno,157
+28,Demersal,Manyung,Cibareno,400
+29,Pelagis Besar,Marlin,Cibareno,306
+30,Pelagis Besar,Nyunglas,Cibareno,113
+31,Demersal (Elasmobranch),Pari,Cibareno,450
+32,Pelagis Besar,Pedang,Cibareno,92
+33,Pelagis Kecil / Semi-Demersal,Peperek,Cibareno,2124
+34,Karang (Reef-Associated),Pinjalo,Cibareno,149
+35,Pelagis Kecil,Pisang-pisang,Cibareno,6416
+36,Demersal (Flatfish),Sebelah,Cibareno,653
+37,Pelagis Kecil,Selar Bentong,Cibareno,4115
+38,Pelagis Kecil,Selar Kuning,Cibareno,54
+39,Karang (Reef-Associated),Swanggi,Cibareno,602
+40,Pelagis Besar,Tenggiri,Cibareno,137
+41,Pelagis Besar,Tenggiri Papan,Cibareno,179
+42,Pelagis Kecil / Semi-Demersal,Tetengkek,Cibareno,962
+43,Pelagis Besar,Tongkol,Cibareno,827
+44,Pelagis Besar,Tongkol Abu-abu,Cibareno,729
+45,Pelagis Besar,Tongkol Banyar,Cibareno,1700
+46,Pelagis Besar,Tongkol Komo,Cibareno,1394
+47,Pelagis Besar,Tongkol Lisong,Cibareno,1411
+48,Pelagis Besar,Tuna Mata Besar,Cibareno,23
+49,Pelagis Besar,Tuna Sirip Kuning,Cibareno,1557
+JUMLAH,,,Cibareno,71240

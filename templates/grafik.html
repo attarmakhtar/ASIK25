@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="id" class="light">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>SmartStock - Grafik Historis</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com" rel="preconnect"/>
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@1.2.1/dist/chartjs-plugin-annotation.min.js"></script>
+    <style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24
+        }
+    </style>
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#005A9C",
+                        "secondary": "#FF6F61",
+                        "background-light": "#F8F9FA",
+                        "background-dark": "#0a1217",
+                        "text-light": "#343A40",
+                        "text-dark": "#e0e6eb",
+                        "subtle-light": "#e9ecef",
+                        "subtle-dark": "#1f2937",
+                        "subtle-text-light": "#6c757d",
+                        "subtle-text-dark": "#9ca3af",
+                        // Warna khusus untuk Chart.js (diambil dari warna Tailwind)
+                        "indigo-600": "rgb(79, 70, 229)",
+                        "orange-600": "rgb(249, 115, 22)",
+                    },
+                    fontFamily: { "display": ["Inter", "sans-serif"] },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+    <style>
+        .container-shadow {
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+    </style>
+</head>
+
+<body class="font-display bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark">
+<div class="relative flex h-auto min-h-screen w-full flex-col group/design-root overflow-x-hidden">
+    <div class="flex h-full grow flex-row">
+        <aside class="flex h-screen min-h-[700px] flex-col justify-between border-r border-subtle-light dark:border-subtle-dark bg-white dark:bg-background-dark p-4 w-64 fixed left-0 top-0">
+            <div class="flex flex-col gap-8">
+                <div class="flex items-center gap-3 px-2">
+                    <div class="size-6 text-primary">
+                        <svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M24 4C26.1564 4 27.9101 4.88725 29.284 6.26115L35.9751 12.9523C38.0463 15.0234 38.0463 18.3371 35.9751 20.4082L29.284 27.0994C27.9101 28.4733 26.1564 29.3605 24 29.3605L24 4ZM24 44H6V30.6667V17.3333H24V44Z" fill="#005A9C"></path>
+                            <path d="M24 4H42V17.3333V30.6667H24V4Z" fill="#005A9C" fill-opacity="0.3"></path>
+                        </svg>
+                    </div>
+                    <h1 class="text-lg font-bold leading-normal text-text-light dark:text-text-dark">SmartStock</h1>
+                </div>
+                <nav class="flex flex-col gap-2">
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark hover:text-text-light dark:hover:text-text-dark transition-colors duration-200" href="/beranda">
+                        <span class="material-symbols-outlined text-lg font-normal fill-0">grid_view</span>
+                        <p class="text-sm font-medium">Dasbor</p>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg bg-primary/10 dark:bg-primary/20 text-primary" href="/grafik">
+                        <span class="material-symbols-outlined text-lg">monitoring</span>
+                        <p class="text-sm font-bold">Grafik Historis</p>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark hover:text-text-light dark:hover:text-text-dark transition-colors duration-200" href="/prediksi">
+                        <span class="material-symbols-outlined text-lg font-normal fill-0">trending_up</span>
+                        <p class="text-sm font-medium">Prediksi Stok</p>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark hover:text-text-light dark:hover:text-text-dark transition-colors duration-200" href="/manajemen_kapal">
+                        <span class="material-symbols-outlined text-lg font-normal fill-0">database</span>
+                        <p class="text-sm font-medium">Kelola Data</p>
+                    </a>
+                    <a class="flex items-center gap-3 px-3 py-2 rounded-lg text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark hover:text-text-light dark:hover:text-text-dark transition-colors duration-200" href="/about">
+                        <span class="material-symbols-outlined text-lg font-normal fill-0">info</span>
+                        <p class="text-sm font-medium">Tentang Kami</p>
+                    </a>
+                </nav>
+            </div>
+            <div class="flex flex-col gap-2">
+            </div>
+        </aside>
+
+        <main class="flex-1 ml-64">
+            <header class="flex items-center justify-end whitespace-nowrap border-b border-solid border-subtle-light dark:border-subtle-dark px-10 py-4 sticky top-0 bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-sm z-10">
+                <div class="flex items-center gap-4">
+                    <button aria-label="Toggle dark mode" class="flex items-center justify-center size-8 rounded-full text-subtle-text-light dark:text-subtle-text-dark hover:bg-subtle-light dark:hover:bg-subtle-dark transition-colors" onclick="document.documentElement.classList.toggle('dark')">
+                        <span class="material-symbols-outlined text-xl block dark:hidden">dark_mode</span>
+                        <span class="material-symbols-outlined text-xl hidden dark:block">light_mode</span>
+                    </button>
+                    </div>
+            </header>
+
+            <div class="p-4 sm:p-6 md:p-8">
+                <div class="max-w-6xl mx-auto">
+                    <header class="mb-8">
+                        <h1 class="text-3xl font-bold text-text-light dark:text-text-dark border-b-2 border-primary/50 dark:border-primary/70 pb-2">Aplikasi Grafik Historis dan Prediksi Stok Ikan</h1>
+                        <p class="text-subtle-text-light dark:text-subtle-text-dark mt-1">Visualisasi data historis dan proyeksi tangkapan ikan tahunan.</p>
+                    </header>
+
+                    <div class="bg-white dark:bg-subtle-dark p-6 rounded-xl container-shadow mb-8 border border-subtle-light dark:border-subtle-dark">
+                        <h2 class="text-xl font-semibold text-text-light dark:text-text-dark mb-4">Pilih Kriteria Grafik</h2>
+                        <form id="predictionForm" class="grid grid-cols-1 md:grid-cols-4 gap-4 items-end">
+                            <div>
+                                <label for="jenisIkan" class="block text-sm font-medium text-subtle-text-light dark:text-subtle-text-dark mb-1">Jenis Ikan</label>
+                                <select id="jenisIkan" name="jenisIkan" class="mt-1 block w-full pl-3 pr-10 py-2 text-base border-subtle-light dark:border-subtle-dark focus:outline-none focus:ring-primary focus:border-primary sm:text-sm rounded-lg shadow-sm bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark">
+                                    <option value="">Pilih Jenis Ikan</option>
+                                </select>
+                            </div>
+
+                            <div>
+                                <label for="namaIkan" class="block text-sm font-medium text-subtle-text-light dark:text-subtle-text-dark mb-1">Nama Ikan</label>
+                                <select id="namaIkan" name="namaIkan" class="mt-1 block w-full pl-3 pr-10 py-2 text-base border-subtle-light dark:border-subtle-dark focus:outline-none focus:ring-primary focus:border-primary sm:text-sm rounded-lg shadow-sm bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark" disabled>
+                                    <option value="">Pilih Nama Ikan</option>
+                                </select>
+                            </div>
+
+                            <div>
+                                <label for="tahunPrediksi" class="block text-sm font-medium text-subtle-text-light dark:text-subtle-text-dark mb-1">Tahun Prediksi</label>
+                                <input type="number" id="tahunPrediksi" name="tahunPrediksi" min="2024" value="2024" class="mt-1 block w-full pl-3 pr-10 py-2 text-base border-subtle-light dark:border-subtle-dark focus:outline-none focus:ring-primary focus:border-primary sm:text-sm rounded-lg shadow-sm bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark">
+                            </div>
+                            
+                            <div class="md:col-span-1">
+                                <button type="submit" id="submitBtn" class="w-full bg-primary hover:bg-primary/90 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition duration-150 ease-in-out disabled:bg-primary/50" disabled>
+                                    Tampilkan Grafik
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+
+                    <div id="statusMessage" class="hidden p-4 rounded-lg mb-8 border">
+                        </div>
+
+                    <div class="bg-white dark:bg-subtle-dark p-6 rounded-xl container-shadow border border-subtle-light dark:border-subtle-dark">
+                        <h2 id="chartTitle" class="text-xl font-semibold text-text-light dark:text-text-dark mb-4">Grafik Stok Ikan</h2>
+                        <div class="relative h-96">
+                            <canvas id="fishStockChart"></canvas>
+                        </div>
+                        
+                        <div id="predictionResult" class="mt-6 p-4 border-t border-subtle-light dark:border-subtle-dark">
+                            <h3 class="text-lg font-semibold text-text-light dark:text-text-dark">Hasil Prediksi (<span id="predictionYear"></span>)</h3>
+                            <p class="text-3xl font-black text-primary mt-2">
+                                <span id="predictedValue">0</span> Kg
+                            </p>
+                            <p id="predictionSource" class="text-sm text-subtle-text-light dark:text-subtle-text-dark mt-1">Sumber Prediksi: -</p>
+                        </div>
+                    </div>
+
+                    <div id="loadingIndicator" class="hidden fixed inset-0 bg-background-dark/80 flex items-center justify-center z-50">
+                        <div class="flex items-center space-x-3 bg-white dark:bg-subtle-dark p-4 rounded-lg shadow-lg">
+                            <svg class="animate-spin -ml-1 mr-3 h-5 w-5 text-primary" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                            </svg>
+                            <span class="text-text-light dark:text-text-dark font-medium">Memproses Grafik...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <footer class="flex flex-col gap-6 px-5 py-10 text-center border-t border-subtle-light dark:border-subtle-dark">
+                <div class="flex flex-wrap items-center justify-center gap-x-8 gap-y-4">
+                    <a class="text-subtle-text-light dark:text-subtle-text-dark text-sm font-medium leading-normal min-w-40 hover:text-primary dark:hover:text-secondary transition-colors" href="#">Kontak HIMATASKA</a>
+                    <a class="text-subtle-text-light dark:text-subtle-text-dark text-sm font-medium leading-normal min-w-40 hover:text-primary dark:hover:text-secondary transition-colors" href="#">Kebijakan Privasi</a>
+                    <a class="text-subtle-text-light dark:text-subtle-text-dark text-sm font-medium leading-normal min-w-40 hover:text-primary dark:hover:text-secondary transition-colors" href="#">Ketentuan Layanan</a>
+                </div>
+                <div class="flex flex-wrap justify-center gap-4">
+                    <a aria-label="Email" href="#">
+                        <span class="material-symbols-outlined text-subtle-text-light dark:text-subtle-text-dark hover:text-primary dark:hover:text-secondary transition-colors text-xl font-normal fill-0">mail</span>
+                    </a>
+                    <a aria-label="Telepon" href="#">
+                        <span class="material-symbols-outlined text-subtle-text-light dark:text-subtle-text-dark hover:text-primary dark:hover:text-secondary transition-colors text-xl font-normal fill-0">call</span>
+                    </a>
+                </div>
+                <p class="text-subtle-text-light dark:text-subtle-text-dark text-sm font-normal leading-normal">© 2024 SmartStock. Hak cipta dilindungi.</p>
+            </footer>
+        </main>
+    </div>
+</div>
+
+<script>
+    // Inisialisasi Chart.js
+    let fishStockChart = null;
+    let fishDataMap = {}; 
+    let predictionYear = new Date().getFullYear(); // Tahun default: tahun sekarang
+    let latestHistoricalYear = 2024; // Akan di-update oleh server
+
+    document.addEventListener('DOMContentLoaded', () => {
+        fetchDropdownData();    
+        setupEventListeners();  
+        initializeChart();      
+    });
+
+    function setupEventListeners() {
+        const form = document.getElementById('predictionForm');
+        const jenisIkanSelect = document.getElementById('jenisIkan');
+        const namaIkanSelect = document.getElementById('namaIkan');
+        const submitBtn = document.getElementById('submitBtn');
+        const tahunPrediksiInput = document.getElementById('tahunPrediksi');
+
+        // Set default tahun prediksi ke tahun sekarang
+        tahunPrediksiInput.value = predictionYear;
+        
+        // Handle perubahan Jenis Ikan
+        jenisIkanSelect.addEventListener('change', () => {
+            const selectedJenis = jenisIkanSelect.value;
+            namaIkanSelect.innerHTML = '<option value="">Pilih Nama Ikan</option>';
+            submitBtn.disabled = true;
+
+            if (selectedJenis && fishDataMap[selectedJenis]) {
+                // Sorting nama ikan sebelum ditampilkan
+                const sortedNamaIkan = fishDataMap[selectedJenis].sort(); 
+
+                sortedNamaIkan.forEach(nama => {
+                    const option = document.createElement('option');
+                    option.value = nama;
+                    option.textContent = nama;
+                    namaIkanSelect.appendChild(option);
+                });
+                namaIkanSelect.disabled = false;
+            } else {
+                namaIkanSelect.disabled = true;
+            }
+        });
+
+        // Handle perubahan Nama Ikan (untuk mengaktifkan tombol submit)
+        namaIkanSelect.addEventListener('change', () => {
+            // Tombol aktif jika semua field diisi dan tahun >= tahun historis terakhir
+            const isYearValid = parseInt(tahunPrediksiInput.value) >= latestHistoricalYear;
+            submitBtn.disabled = !(namaIkanSelect.value && jenisIkanSelect.value && isYearValid);
+        });
+
+        // Handle perubahan Tahun (untuk mengaktifkan tombol submit)
+        tahunPrediksiInput.addEventListener('input', () => {
+            const isYearValid = parseInt(tahunPrediksiInput.value) >= latestHistoricalYear;
+            submitBtn.disabled = !(namaIkanSelect.value && jenisIkanSelect.value && isYearValid);
+            
+            // Tampilkan pesan error jika tahun di bawah batas minimal
+            const statusDiv = document.getElementById('statusMessage');
+            if (!isYearValid) {
+                displayStatus('warning', `Tahun prediksi minimal harus ${latestHistoricalYear} (Tahun Data Historis Terakhir).`, 'bg-yellow-100 border-yellow-400 text-yellow-700');
+            } else {
+                 statusDiv.classList.add('hidden'); // Sembunyikan jika sudah valid
+            }
+        });
+
+        // Handle Form Submission
+        form.addEventListener('submit', (e) => {
+            e.preventDefault();
+            getPredictionData();
+        });
+    }
+
+    async function fetchDropdownData() {
+        try {
+            // Mengambil data dropdown (jenis dan nama ikan) serta tahun historis terakhir
+            const response = await fetch('/data_dropdown'); 
+            const result = await response.json();
+
+            if (result.status === "success") {
+                fishDataMap = result.ikan_map;
+                latestHistoricalYear = result.latest_year; // Simpan tahun historis terakhir
+                
+                // Update input tahun agar min-nya benar
+                const tahunPrediksiInput = document.getElementById('tahunPrediksi');
+                tahunPrediksiInput.min = latestHistoricalYear;
+                if (parseInt(tahunPrediksiInput.value) < latestHistoricalYear) {
+                    tahunPrediksiInput.value = latestHistoricalYear;
+                }
+
+                const jenisIkanSelect = document.getElementById('jenisIkan');
+                // Mengisi dropdown Jenis Ikan
+                Object.keys(fishDataMap).sort().forEach(jenis => { // Sorting Jenis Ikan
+                    const option = document.createElement('option');
+                    option.value = jenis;
+                    option.textContent = jenis;
+                    jenisIkanSelect.appendChild(option);
+                });
+
+                // Display default status/info
+                displayStatus('info', `Tahun data historis terakhir yang tersedia adalah ${latestHistoricalYear}. Prediksi dapat dimulai dari tahun ini.`, 'bg-blue-100 border-blue-400 text-blue-700');
+            } else {
+                displayStatus('error', 'Gagal memuat data dropdown dari server.', 'bg-red-100 border-red-400 text-red-700');
+            }
+        } catch (error) {
+            displayStatus('error', 'Terjadi kesalahan jaringan saat memuat dropdown.', 'bg-red-100 border-red-400 text-red-700');
+            console.error('Error fetching dropdown data:', error);
+        }
+    }
+
+    async function getPredictionData() {
+        const namaIkan = document.getElementById('namaIkan').value;
+        const tahunPrediksi = document.getElementById('tahunPrediksi').value;
+        const loadingIndicator = document.getElementById('loadingIndicator');
+
+        if (!namaIkan || !tahunPrediksi || parseInt(tahunPrediksi) < latestHistoricalYear) {
+            displayStatus('error', 'Silakan lengkapi semua pilihan dan pastikan tahun prediksi valid.', 'bg-red-100 border-red-400 text-red-700');
+            return;
+        }
+
+        loadingIndicator.classList.remove('hidden');
+
+        try {
+            const formData = new FormData();
+            formData.append('nama_ikan', namaIkan);
+            formData.append('tahun_prediksi', tahunPrediksi);
+
+            // Endpoint ini mengembalikan data historis, prediksi tahun yang diminta, dan list prediksi ke depan.
+            const response = await fetch('/data_grafik', {
+                method: 'POST',
+                body: formData
+            });
+            
+            const result = await response.json();
+            loadingIndicator.classList.add('hidden');
+
+            if (result.status === "success") {
+                updateChart(result); 
+                updateResults(result); 
+                displayStatus('success', result.prediksi.message, 'bg-green-100 border-green-400 text-green-700');
+            } else {
+                updateChart(null);
+                updateResults(null);
+                displayStatus('error', result.message || 'Gagal memuat data prediksi dari server.', 'bg-red-100 border-red-400 text-red-700');
+            }
+        } catch (error) {
+            loadingIndicator.classList.add('hidden');
+            displayStatus('error', 'Terjadi kesalahan jaringan atau server.', 'bg-red-100 border-red-400 text-red-700');
+            console.error('Error fetching prediction data:', error);
+            updateChart(null);
+            updateResults(null);
+        }
+    }
+
+    function displayStatus(type, message, classes) {
+        const statusDiv = document.getElementById('statusMessage');
+        statusDiv.className = `p-4 border-l-4 rounded-lg mb-8 ${classes}`;
+        statusDiv.innerHTML = `<p class="font-bold">${type.toUpperCase()}:</p><p>${message}</p>`;
+        statusDiv.classList.remove('hidden');
+    }
+    
+    function formatNumber(num) {
+        // Memformat angka menjadi string dengan pemisah ribuan (titik)
+        return num.toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+    }
+
+    function updateResults(data) {
+        if (!data || data.status === "error") {
+            document.getElementById('predictionYear').textContent = 'N/A';
+            document.getElementById('predictedValue').textContent = '0';
+            document.getElementById('predictionSource').textContent = 'Sumber Prediksi: Tidak ada data/error';
+            return;
+        }
+
+        // 'data.prediksi' adalah box untuk tahun yang dipilih
+        const tahunPrediksi = data.prediksi.x;
+        const nilaiPrediksi = data.prediksi.y;
+        const sumber = data.prediksi.message;
+
+        document.getElementById('predictionYear').textContent = tahunPrediksi;
+        document.getElementById('predictedValue').textContent = formatNumber(nilaiPrediksi);
+        document.getElementById('predictionSource').textContent = `Sumber Prediksi: ${sumber}`;
+    }
+
+    function initializeChart() {
+        const ctx = document.getElementById('fishStockChart').getContext('2d');
+        fishStockChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                datasets: []
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { position: 'top' },
+                    title: { display: false },
+                    annotation: { annotations: [] }
+                },
+                scales: {
+                    x: {
+                        type: 'linear', 
+                        title: { display: true, text: 'Tahun' },
+                        ticks: { precision: 0 }
+                    },
+                    y: {
+                        title: { display: true, text: 'Total Tangkapan Tahunan (Kg)' },
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    }
+
+    function updateChart(data) {
+        if (!data) {
+            fishStockChart.data.datasets = [];
+            fishStockChart.options.plugins.annotation.annotations = [];
+            fishStockChart.update();
+            document.getElementById('chartTitle').textContent = 'Grafik Stok Ikan';
+            return;
+        }
+
+        const historis = data.historis.map(item => ({ x: item.x, y: item.y }));
+        const prediksiList = data.prediksi_list.map(item => ({ x: item.x, y: item.y }));
+        const prediksiInfo = data.prediksi; 
+        const ikanName = data.ikan_name;
+        
+        document.getElementById('chartTitle').textContent = `Grafik Stok Ikan Tahunan: ${ikanName}`;
+
+        // 1. Data Historis
+        const historicalDataset = {
+            label: `Historis (${historis[0]?.x || '-'} - ${historis[historis.length - 1]?.x || '-'})`,
+            data: historis,
+            borderColor: 'rgb(79, 70, 229)', // indigo-600
+            backgroundColor: 'rgba(79, 70, 229, 0.1)',
+            borderWidth: 2,
+            pointRadius: 5,
+            fill: false,
+            tension: 0.1
+        };
+
+        // 2. Data Proyeksi (sebagai garis putus-putus)
+        const lastHistoricalPoint = historis.length > 0 ? historis[historis.length - 1] : null;
+        const projectionData = [lastHistoricalPoint, ...prediksiList].filter(p => p !== null);
+
+        const projectionDataset = {
+            label: `Proyeksi (${prediksiList[0]?.x || ''} - ${prediksiList[prediksiList.length - 1]?.x || ''})`,
+            data: projectionData,
+            borderColor: 'rgb(249, 115, 22)', // orange-600
+            borderDash: [5, 5],
+            borderWidth: 2,
+            pointRadius: 4, 
+            pointStyle: 'rectRot', 
+            fill: false,
+            tension: 0.1 
+        };
+        
+        if (prediksiList.length > 0) {
+            fishStockChart.data.datasets = [historicalDataset, projectionDataset];
+        } else {
+            // Jika tidak ada prediksi yang dipinta (misal tahun prediksi = tahun historis terakhir)
+            fishStockChart.data.datasets = [historicalDataset];
+        }
+
+        // 3. Annotation (Garis Vertikal di Tahun Prediksi *Pilihan*)
+        const annotationLine = {
+            type: 'line',
+            mode: 'vertical',
+            scaleID: 'x',
+            value: prediksiInfo.x, // Garis di tahun yang dipilih
+            borderColor: 'rgb(249, 115, 22)',
+            borderWidth: 1,
+            borderDash: [5, 5],
+            label: {
+                content: 'Tahun Dipilih',
+                enabled: true,
+                position: 'end'
+            }
+        };
+
+        fishStockChart.options.plugins.annotation.annotations = [annotationLine];
+        fishStockChart.update();
+    }
+</script>
+
+</body>
+</html>
